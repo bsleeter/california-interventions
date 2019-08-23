@@ -1,0 +1,175 @@
+Iteration,Timestep,StratumID,SecondaryStratumID,TertiaryStratumID,StateClassID,StateAttributeTypeID,AgeMin,AgeMax,Value
+,,,Alameda,,Developed:High,Population,,,2190.6786
+,,,Alpine,,Developed:High,Population,,,1237
+,,,Amador,,Developed:High,Population,,,3253.0909
+,,,Butte,,Developed:High,Population,,,1804.6491
+,,,Calaveras,,Developed:High,Population,,,2761.8667
+,,,Colusa,,Developed:High,Population,,,1362
+,,,Contra Costa,,Developed:High,Population,,,1542.9189
+,,,Del Norte,,Developed:High,Population,,,1192.087
+,,,El Dorado,,Developed:High,Population,,,2248.3333
+,,,Fresno,,Developed:High,Population,,,1856.4989
+,,,Glenn,,Developed:High,Population,,,1478.3889
+,,,Humboldt,,Developed:High,Population,,,1043.8361
+,,,Imperial,,Developed:High,Population,,,1447.26
+,,,Inyo,,Developed:High,Population,,,1400.5385
+,,,Kern,,Developed:High,Population,,,1558.8853
+,,,Kings,,Developed:High,Population,,,1765.88
+,,,Lake,,Developed:High,Population,,,968.4839
+,,,Lassen,,Developed:High,Population,,,1979.4118
+,,,Los Angeles,,Developed:High,Population,,,2897.1121
+,,,Madera,,Developed:High,Population,,,2107.6
+,,,Marin,,Developed:High,Population,,,1519.8221
+,,,Mariposa,,Developed:High,Population,,,1726.9
+,,,Mendocino,,Developed:High,Population,,,1300.597
+,,,Merced,,Developed:High,Population,,,1957.8288
+,,,Modoc,,Developed:High,Population,,,725.6923
+,,,Mono,,Developed:High,Population,,,1321.3
+,,,Monterey,,Developed:High,Population,,,1257.7833
+,,,Napa,,Developed:High,Population,,,1300.9072
+,,,Nevada,,Developed:High,Population,,,2125.3409
+,,,Orange,,Developed:High,Population,,,2295.3995
+,,,Placer,,Developed:High,Population,,,1331.2814
+,,,Plumas,,Developed:High,Population,,,1089.7895
+,,,Riverside,,Developed:High,Population,,,1223.5701
+,,,Sacramento,,Developed:High,Population,,,1777.7626
+,,,San Benito,,Developed:High,Population,,,868.1905
+,,,San Bernardino,,Developed:High,Population,,,1398.7153
+,,,San Diego,,Developed:High,Population,,,1643.8121
+,,,San Francisco,,Developed:High,Population,,,6984.1339
+,,,San Joaquin,,Developed:High,Population,,,1778.1903
+,,,San Luis Obispo,,Developed:High,Population,,,1138.6968
+,,,San Mateo,,Developed:High,Population,,,2056.5698
+,,,Santa Barbara,,Developed:High,Population,,,1545.7548
+,,,Santa Clara,,Developed:High,Population,,,1994.3121
+,,,Santa Cruz,,Developed:High,Population,,,1463.8057
+,,,Shasta,,Developed:High,Population,,,1294.8372
+,,,Sierra Valley,,Developed:High,Population,,,1793.5
+,,,Siskiyou,,Developed:High,Population,,,942.0213
+,,,Solano,,Developed:High,Population,,,1759.6856
+,,,Sonoma,,Developed:High,Population,,,1486.9744
+,,,Stanislaus,,Developed:High,Population,,,2013.6
+,,,Sutter,,Developed:High,Population,,,1744.3478
+,,,Tehama,,Developed:High,Population,,,1947.069
+,,,Trinity,,Developed:High,Population,,,810.1875
+,,,Tulare,,Developed:High,Population,,,2429.5584
+,,,Tuolumne,,Developed:High,Population,,,2911.8947
+,,,Ventura,,Developed:High,Population,,,1598.7339
+,,,Yolo,,Developed:High,Population,,,1651.9057
+,,,Yuba,,Developed:High,Population,,,1919.5625
+,,,Alameda,,Developed:Medium,Population,,,2190.6786
+,,,Alpine,,Developed:Medium,Population,,,1237
+,,,Amador,,Developed:Medium,Population,,,3253.0909
+,,,Butte,,Developed:Medium,Population,,,1804.6491
+,,,Calaveras,,Developed:Medium,Population,,,2761.8667
+,,,Colusa,,Developed:Medium,Population,,,1362
+,,,Contra Costa,,Developed:Medium,Population,,,1542.9189
+,,,Del Norte,,Developed:Medium,Population,,,1192.087
+,,,El Dorado,,Developed:Medium,Population,,,2248.3333
+,,,Fresno,,Developed:Medium,Population,,,1856.4989
+,,,Glenn,,Developed:Medium,Population,,,1478.3889
+,,,Humboldt,,Developed:Medium,Population,,,1043.8361
+,,,Imperial,,Developed:Medium,Population,,,1447.26
+,,,Inyo,,Developed:Medium,Population,,,1400.5385
+,,,Kern,,Developed:Medium,Population,,,1558.8853
+,,,Kings,,Developed:Medium,Population,,,1765.88
+,,,Lake,,Developed:Medium,Population,,,968.4839
+,,,Lassen,,Developed:Medium,Population,,,1979.4118
+,,,Los Angeles,,Developed:Medium,Population,,,2897.1121
+,,,Madera,,Developed:Medium,Population,,,2107.6
+,,,Marin,,Developed:Medium,Population,,,1519.8221
+,,,Mariposa,,Developed:Medium,Population,,,1726.9
+,,,Mendocino,,Developed:Medium,Population,,,1300.597
+,,,Merced,,Developed:Medium,Population,,,1957.8288
+,,,Modoc,,Developed:Medium,Population,,,725.6923
+,,,Mono,,Developed:Medium,Population,,,1321.3
+,,,Monterey,,Developed:Medium,Population,,,1257.7833
+,,,Napa,,Developed:Medium,Population,,,1300.9072
+,,,Nevada,,Developed:Medium,Population,,,2125.3409
+,,,Orange,,Developed:Medium,Population,,,2295.3995
+,,,Placer,,Developed:Medium,Population,,,1331.2814
+,,,Plumas,,Developed:Medium,Population,,,1089.7895
+,,,Riverside,,Developed:Medium,Population,,,1223.5701
+,,,Sacramento,,Developed:Medium,Population,,,1777.7626
+,,,San Benito,,Developed:Medium,Population,,,868.1905
+,,,San Bernardino,,Developed:Medium,Population,,,1398.7153
+,,,San Diego,,Developed:Medium,Population,,,1643.8121
+,,,San Francisco,,Developed:Medium,Population,,,6984.1339
+,,,San Joaquin,,Developed:Medium,Population,,,1778.1903
+,,,San Luis Obispo,,Developed:Medium,Population,,,1138.6968
+,,,San Mateo,,Developed:Medium,Population,,,2056.5698
+,,,Santa Barbara,,Developed:Medium,Population,,,1545.7548
+,,,Santa Clara,,Developed:Medium,Population,,,1994.3121
+,,,Santa Cruz,,Developed:Medium,Population,,,1463.8057
+,,,Shasta,,Developed:Medium,Population,,,1294.8372
+,,,Sierra Valley,,Developed:Medium,Population,,,1793.5
+,,,Siskiyou,,Developed:Medium,Population,,,942.0213
+,,,Solano,,Developed:Medium,Population,,,1759.6856
+,,,Sonoma,,Developed:Medium,Population,,,1486.9744
+,,,Stanislaus,,Developed:Medium,Population,,,2013.6
+,,,Sutter,,Developed:Medium,Population,,,1744.3478
+,,,Tehama,,Developed:Medium,Population,,,1947.069
+,,,Trinity,,Developed:Medium,Population,,,810.1875
+,,,Tulare,,Developed:Medium,Population,,,2429.5584
+,,,Tuolumne,,Developed:Medium,Population,,,2911.8947
+,,,Ventura,,Developed:Medium,Population,,,1598.7339
+,,,Yolo,,Developed:Medium,Population,,,1651.9057
+,,,Yuba,,Developed:Medium,Population,,,1919.5625
+,,,Alameda,,Developed:Low,Population,,,2190.6786
+,,,Alpine,,Developed:Low,Population,,,1237
+,,,Amador,,Developed:Low,Population,,,3253.0909
+,,,Butte,,Developed:Low,Population,,,1804.6491
+,,,Calaveras,,Developed:Low,Population,,,2761.8667
+,,,Colusa,,Developed:Low,Population,,,1362
+,,,Contra Costa,,Developed:Low,Population,,,1542.9189
+,,,Del Norte,,Developed:Low,Population,,,1192.087
+,,,El Dorado,,Developed:Low,Population,,,2248.3333
+,,,Fresno,,Developed:Low,Population,,,1856.4989
+,,,Glenn,,Developed:Low,Population,,,1478.3889
+,,,Humboldt,,Developed:Low,Population,,,1043.8361
+,,,Imperial,,Developed:Low,Population,,,1447.26
+,,,Inyo,,Developed:Low,Population,,,1400.5385
+,,,Kern,,Developed:Low,Population,,,1558.8853
+,,,Kings,,Developed:Low,Population,,,1765.88
+,,,Lake,,Developed:Low,Population,,,968.4839
+,,,Lassen,,Developed:Low,Population,,,1979.4118
+,,,Los Angeles,,Developed:Low,Population,,,2897.1121
+,,,Madera,,Developed:Low,Population,,,2107.6
+,,,Marin,,Developed:Low,Population,,,1519.8221
+,,,Mariposa,,Developed:Low,Population,,,1726.9
+,,,Mendocino,,Developed:Low,Population,,,1300.597
+,,,Merced,,Developed:Low,Population,,,1957.8288
+,,,Modoc,,Developed:Low,Population,,,725.6923
+,,,Mono,,Developed:Low,Population,,,1321.3
+,,,Monterey,,Developed:Low,Population,,,1257.7833
+,,,Napa,,Developed:Low,Population,,,1300.9072
+,,,Nevada,,Developed:Low,Population,,,2125.3409
+,,,Orange,,Developed:Low,Population,,,2295.3995
+,,,Placer,,Developed:Low,Population,,,1331.2814
+,,,Plumas,,Developed:Low,Population,,,1089.7895
+,,,Riverside,,Developed:Low,Population,,,1223.5701
+,,,Sacramento,,Developed:Low,Population,,,1777.7626
+,,,San Benito,,Developed:Low,Population,,,868.1905
+,,,San Bernardino,,Developed:Low,Population,,,1398.7153
+,,,San Diego,,Developed:Low,Population,,,1643.8121
+,,,San Francisco,,Developed:Low,Population,,,6984.1339
+,,,San Joaquin,,Developed:Low,Population,,,1778.1903
+,,,San Luis Obispo,,Developed:Low,Population,,,1138.6968
+,,,San Mateo,,Developed:Low,Population,,,2056.5698
+,,,Santa Barbara,,Developed:Low,Population,,,1545.7548
+,,,Santa Clara,,Developed:Low,Population,,,1994.3121
+,,,Santa Cruz,,Developed:Low,Population,,,1463.8057
+,,,Shasta,,Developed:Low,Population,,,1294.8372
+,,,Sierra Valley,,Developed:Low,Population,,,1793.5
+,,,Siskiyou,,Developed:Low,Population,,,942.0213
+,,,Solano,,Developed:Low,Population,,,1759.6856
+,,,Sonoma,,Developed:Low,Population,,,1486.9744
+,,,Stanislaus,,Developed:Low,Population,,,2013.6
+,,,Sutter,,Developed:Low,Population,,,1744.3478
+,,,Tehama,,Developed:Low,Population,,,1947.069
+,,,Trinity,,Developed:Low,Population,,,810.1875
+,,,Tulare,,Developed:Low,Population,,,2429.5584
+,,,Tuolumne,,Developed:Low,Population,,,2911.8947
+,,,Ventura,,Developed:Low,Population,,,1598.7339
+,,,Yolo,,Developed:Low,Population,,,1651.9057
+,,,Yuba,,Developed:Low,Population,,,1919.5625

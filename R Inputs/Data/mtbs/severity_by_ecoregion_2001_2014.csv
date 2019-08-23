@@ -1,0 +1,37 @@
+StratumID,TransitionGroupID,Amount
+Coast Range,Fire: High Severity [Type],0.148
+Cascades,Fire: High Severity [Type],0
+Sierra Nevada,Fire: High Severity [Type],0.214
+California Chaparral and Oak Woodlands,Fire: High Severity [Type],0.21
+Central California Valley,Fire: High Severity [Type],0.06
+Southern California Mountains,Fire: High Severity [Type],0.246
+Eastern Cascades Slopes and Foothills,Fire: High Severity [Type],0.164
+Central Basin and Range,Fire: High Severity [Type],0.128
+Mojave Basin and Range,Fire: High Severity [Type],0.051
+Klamath Mountains,Fire: High Severity [Type],0.2
+Northern Basin and Range,Fire: High Severity [Type],0.037
+Sonoran Basin and Range,Fire: High Severity [Type],0.067
+Coast Range,Fire: Medium Severity [Type],0.308
+Cascades,Fire: Medium Severity [Type],0.316
+Sierra Nevada,Fire: Medium Severity [Type],0.413
+California Chaparral and Oak Woodlands,Fire: Medium Severity [Type],0.391
+Central California Valley,Fire: Medium Severity [Type],0.201
+Southern California Mountains,Fire: Medium Severity [Type],0.434
+Eastern Cascades Slopes and Foothills,Fire: Medium Severity [Type],0.361
+Central Basin and Range,Fire: Medium Severity [Type],0.395
+Mojave Basin and Range,Fire: Medium Severity [Type],0.293
+Klamath Mountains,Fire: Medium Severity [Type],0.392
+Northern Basin and Range,Fire: Medium Severity [Type],0.313
+Sonoran Basin and Range,Fire: Medium Severity [Type],0.283
+Coast Range,Fire: Low Severity [Type],0.544
+Cascades,Fire: Low Severity [Type],0.684
+Sierra Nevada,Fire: Low Severity [Type],0.372
+California Chaparral and Oak Woodlands,Fire: Low Severity [Type],0.399
+Central California Valley,Fire: Low Severity [Type],0.739
+Southern California Mountains,Fire: Low Severity [Type],0.32
+Eastern Cascades Slopes and Foothills,Fire: Low Severity [Type],0.475
+Central Basin and Range,Fire: Low Severity [Type],0.477
+Mojave Basin and Range,Fire: Low Severity [Type],0.655
+Klamath Mountains,Fire: Low Severity [Type],0.408
+Northern Basin and Range,Fire: Low Severity [Type],0.651
+Sonoran Basin and Range,Fire: Low Severity [Type],0.65

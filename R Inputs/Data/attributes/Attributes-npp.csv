@@ -1,0 +1,134 @@
+Iteration,Timestep,StratumID,SecondaryStratumID,TertiaryStratumID,StateClassID,StateAttributeTypeID,AgeMin,AgeMax,Value
+,,,,,Agriculture:Perennial,NPP,,,0.6707
+,,California Chaparral and Oak Woodlands,,,Agriculture:Annual,NPP,,,0.8877
+,,California Chaparral and Oak Woodlands,,,Forest:All,NPP,,,0.6135
+,,California Chaparral and Oak Woodlands,,,Grassland:All,NPP,,,0.2908
+,,California Chaparral and Oak Woodlands,,,Shrubland:All,NPP,,,0.3322
+,,Cascades,,,Agriculture:Annual,NPP,,,0.9619
+,,Cascades,,,Forest:All,NPP,,,0.7971
+,,Cascades,,,Grassland:All,NPP,,,0.4239
+,,Cascades,,,Shrubland:All,NPP,,,0.3361
+,,Central Basin and Range,,,Agriculture:Annual,NPP,,,0.5592
+,,Central Basin and Range,,,Forest:All,NPP,,,0.2505
+,,Central Basin and Range,,,Grassland:All,NPP,,,0.0929
+,,Central Basin and Range,,,Shrubland:All,NPP,,,0.1141
+,,Central California Valley,,,Agriculture:Annual,NPP,,,1.0044
+,,Central California Valley,,,Forest:All,NPP,,,0.3792
+,,Central California Valley,,,Grassland:All,NPP,,,0.2908
+,,Central California Valley,,,Shrubland:All,NPP,,,0.4046
+,,Coast Range,,,Agriculture:Annual,NPP,,,0.9083
+,,Coast Range,,,Forest:All,NPP,,,1.1565
+,,Coast Range,,,Grassland:All,NPP,,,0.3806
+,,Coast Range,,,Shrubland:All,NPP,,,0.5915
+,,Eastern Cascades Slopes and Foothills,,,Agriculture:Annual,NPP,,,0.7621
+,,Eastern Cascades Slopes and Foothills,,,Forest:All,NPP,,,0.5025
+,,Eastern Cascades Slopes and Foothills,,,Grassland:All,NPP,,,0.1426
+,,Eastern Cascades Slopes and Foothills,,,Shrubland:All,NPP,,,0.1714
+,,Klamath Mountains,,,Agriculture:Annual,NPP,,,1.031
+,,Klamath Mountains,,,Forest:All,NPP,,,0.9394
+,,Klamath Mountains,,,Grassland:All,NPP,,,0.4239
+,,Klamath Mountains,,,Shrubland:All,NPP,,,0.487
+,,Mojave Basin and Range,,,Agriculture:Annual,NPP,,,0.7742
+,,Mojave Basin and Range,,,Forest:All,NPP,,,0.2162
+,,Mojave Basin and Range,,,Grassland:All,NPP,,,0.0422
+,,Mojave Basin and Range,,,Shrubland:All,NPP,,,0.0716
+,,Northern Basin and Range,,,Agriculture:Annual,NPP,,,0.5798
+,,Northern Basin and Range,,,Forest:All,NPP,,,0.2167
+,,Northern Basin and Range,,,Grassland:All,NPP,,,0.127
+,,Northern Basin and Range,,,Shrubland:All,NPP,,,0.1194
+,,Sierra Nevada,,,Agriculture:Annual,NPP,,,0.7215
+,,Sierra Nevada,,,Forest:All,NPP,,,0.4559
+,,Sierra Nevada,,,Grassland:All,NPP,,,0.0974
+,,Sierra Nevada,,,Shrubland:All,NPP,,,0.211
+,,Sonoran Basin and Range,,,Agriculture:Annual,NPP,,,0.4376
+,,Sonoran Basin and Range,,,Forest:All,NPP,,,0.2162
+,,Sonoran Basin and Range,,,Grassland:All,NPP,,,0.0852
+,,Sonoran Basin and Range,,,Shrubland:All,NPP,,,0.0456
+,,Southern California Mountains,,,Agriculture:Annual,NPP,,,0.5382
+,,Southern California Mountains,,,Forest:All,NPP,,,0.4848
+,,Southern California Mountains,,,Grassland:All,NPP,,,0.2802
+,,Southern California Mountains,,,Shrubland:All,NPP,,,0.3308
+,,California Chaparral and Oak Woodlands,,,Grassland:Composted,NPP,,,0.2908
+,,Cascades,,,Grassland:Composted,NPP,,,0.4239
+,,Central Basin and Range,,,Grassland:Composted,NPP,,,0.0929
+,,Central California Valley,,,Grassland:Composted,NPP,,,0.2908
+,,Coast Range,,,Grassland:Composted,NPP,,,0.3806
+,,Eastern Cascades Slopes and Foothills,,,Grassland:Composted,NPP,,,0.1426
+,,Klamath Mountains,,,Grassland:Composted,NPP,,,0.4239
+,,Mojave Basin and Range,,,Grassland:Composted,NPP,,,0.0422
+,,Northern Basin and Range,,,Grassland:Composted,NPP,,,0.127
+,,Sierra Nevada,,,Grassland:Composted,NPP,,,0.0974
+,,Sonoran Basin and Range,,,Grassland:Composted,NPP,,,0.0852
+,,Southern California Mountains,,,Grassland:Composted,NPP,,,0.2802
+,,California Chaparral and Oak Woodlands,,,Agriculture:Covercrop,NPP,,,0.8877
+,,Cascades,,,Agriculture:Covercrop,NPP,,,0.9619
+,,Central Basin and Range,,,Agriculture:Covercrop,NPP,,,0.5592
+,,Central California Valley,,,Agriculture:Covercrop,NPP,,,1.0044
+,,Coast Range,,,Agriculture:Covercrop,NPP,,,0.9083
+,,Eastern Cascades Slopes and Foothills,,,Agriculture:Covercrop,NPP,,,0.7621
+,,Klamath Mountains,,,Agriculture:Covercrop,NPP,,,1.031
+,,Mojave Basin and Range,,,Agriculture:Covercrop,NPP,,,0.7742
+,,Northern Basin and Range,,,Agriculture:Covercrop,NPP,,,0.5798
+,,Sierra Nevada,,,Agriculture:Covercrop,NPP,,,0.7215
+,,Sonoran Basin and Range,,,Agriculture:Covercrop,NPP,,,0.4376
+,,Southern California Mountains,,,Agriculture:Covercrop,NPP,,,0.5382
+,,California Chaparral and Oak Woodlands,,,Agriculture:Agroforestry,NPP,,,0.8877
+,,Cascades,,,Agriculture:Agroforestry,NPP,,,0.9619
+,,Central Basin and Range,,,Agriculture:Agroforestry,NPP,,,0.5592
+,,Central California Valley,,,Agriculture:Agroforestry,NPP,,,1.0044
+,,Coast Range,,,Agriculture:Agroforestry,NPP,,,0.9083
+,,Eastern Cascades Slopes and Foothills,,,Agriculture:Agroforestry,NPP,,,0.7621
+,,Klamath Mountains,,,Agriculture:Agroforestry,NPP,,,1.031
+,,Mojave Basin and Range,,,Agriculture:Agroforestry,NPP,,,0.7742
+,,Northern Basin and Range,,,Agriculture:Agroforestry,NPP,,,0.5798
+,,Sierra Nevada,,,Agriculture:Agroforestry,NPP,,,0.7215
+,,Sonoran Basin and Range,,,Agriculture:Agroforestry,NPP,,,0.4376
+,,Southern California Mountains,,,Agriculture:Agroforestry,NPP,,,0.5382
+,,California Chaparral and Oak Woodlands,,,Forest:CFM,NPP,,,0.6135
+,,Cascades,,,Forest:CFM,NPP,,,0.7971
+,,Central Basin and Range,,,Forest:CFM,NPP,,,0.2505
+,,Central California Valley,,,Forest:CFM,NPP,,,0.3792
+,,Coast Range,,,Forest:CFM,NPP,,,1.1565
+,,Eastern Cascades Slopes and Foothills,,,Forest:CFM,NPP,,,0.5025
+,,Klamath Mountains,,,Forest:CFM,NPP,,,0.9394
+,,Mojave Basin and Range,,,Forest:CFM,NPP,,,0.2162
+,,Northern Basin and Range,,,Forest:CFM,NPP,,,0.2167
+,,Sierra Nevada,,,Forest:CFM,NPP,,,0.4559
+,,Sonoran Basin and Range,,,Forest:CFM,NPP,,,0.2162
+,,Southern California Mountains,,,Forest:CFM,NPP,,,0.4848
+,,California Chaparral and Oak Woodlands,,,Forest:Treated (Prescribed),NPP,,,0.6135
+,,Cascades,,,Forest:Treated (Prescribed),NPP,,,0.7971
+,,Central Basin and Range,,,Forest:Treated (Prescribed),NPP,,,0.2505
+,,Central California Valley,,,Forest:Treated (Prescribed),NPP,,,0.3792
+,,Coast Range,,,Forest:Treated (Prescribed),NPP,,,1.1565
+,,Eastern Cascades Slopes and Foothills,,,Forest:Treated (Prescribed),NPP,,,0.5025
+,,Klamath Mountains,,,Forest:Treated (Prescribed),NPP,,,0.9394
+,,Mojave Basin and Range,,,Forest:Treated (Prescribed),NPP,,,0.2162
+,,Northern Basin and Range,,,Forest:Treated (Prescribed),NPP,,,0.2167
+,,Sierra Nevada,,,Forest:Treated (Prescribed),NPP,,,0.4559
+,,Sonoran Basin and Range,,,Forest:Treated (Prescribed),NPP,,,0.2162
+,,Southern California Mountains,,,Forest:Treated (Prescribed),NPP,,,0.4848
+,,California Chaparral and Oak Woodlands,,,Forest:Treated (Thinned),NPP,,,0.6135
+,,Cascades,,,Forest:Treated (Thinned),NPP,,,0.7971
+,,Central Basin and Range,,,Forest:Treated (Thinned),NPP,,,0.2505
+,,Central California Valley,,,Forest:Treated (Thinned),NPP,,,0.3792
+,,Coast Range,,,Forest:Treated (Thinned),NPP,,,1.1565
+,,Eastern Cascades Slopes and Foothills,,,Forest:Treated (Thinned),NPP,,,0.5025
+,,Klamath Mountains,,,Forest:Treated (Thinned),NPP,,,0.9394
+,,Mojave Basin and Range,,,Forest:Treated (Thinned),NPP,,,0.2162
+,,Northern Basin and Range,,,Forest:Treated (Thinned),NPP,,,0.2167
+,,Sierra Nevada,,,Forest:Treated (Thinned),NPP,,,0.4559
+,,Sonoran Basin and Range,,,Forest:Treated (Thinned),NPP,,,0.2162
+,,Southern California Mountains,,,Forest:Treated (Thinned),NPP,,,0.4848
+,,California Chaparral and Oak Woodlands,,,Shrubland:PostFire,NPP,,,0.3322
+,,Cascades,,,Shrubland:PostFire,NPP,,,0.3361
+,,Central Basin and Range,,,Shrubland:PostFire,NPP,,,0.1141
+,,Central California Valley,,,Shrubland:PostFire,NPP,,,0.4046
+,,Coast Range,,,Shrubland:PostFire,NPP,,,0.5915
+,,Eastern Cascades Slopes and Foothills,,,Shrubland:PostFire,NPP,,,0.1714
+,,Klamath Mountains,,,Shrubland:PostFire,NPP,,,0.487
+,,Mojave Basin and Range,,,Shrubland:PostFire,NPP,,,0.0716
+,,Northern Basin and Range,,,Shrubland:PostFire,NPP,,,0.1194
+,,Sierra Nevada,,,Shrubland:PostFire,NPP,,,0.211
+,,Sonoran Basin and Range,,,Shrubland:PostFire,NPP,,,0.0456
+,,Southern California Mountains,,,Shrubland:PostFire,NPP,,,0.3308

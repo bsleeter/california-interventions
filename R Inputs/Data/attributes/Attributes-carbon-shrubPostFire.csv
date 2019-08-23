@@ -1,0 +1,61 @@
+Iteration,Timestep,StratumID,SecondaryStratumID,TertiaryStratumID,StateClassID,StateAttributeTypeID,AgeMin,AgeMax,Value
+,,California Chaparral and Oak Woodlands,,,Shrubland:PostFire,Albedo,,,0.1541
+,,California Chaparral and Oak Woodlands,,,Shrubland:PostFire,Initial Conditions: Litter,1,,0.382
+,,California Chaparral and Oak Woodlands,,,Shrubland:PostFire,Initial Conditions: Living Biomass,1,,3.131
+,,California Chaparral and Oak Woodlands,,,Shrubland:PostFire,Initial Conditions: Soil,1,,7.534
+,,California Chaparral and Oak Woodlands,,,Shrubland:PostFire,NPP,,,0.3322
+,,Cascades,,,Shrubland:PostFire,Albedo,,,0.0981
+,,Cascades,,,Shrubland:PostFire,Initial Conditions: Litter,1,,1.213
+,,Cascades,,,Shrubland:PostFire,Initial Conditions: Living Biomass,1,,3.645
+,,Cascades,,,Shrubland:PostFire,Initial Conditions: Soil,1,,6.739
+,,Cascades,,,Shrubland:PostFire,NPP,,,0.3361
+,,Central Basin and Range,,,Shrubland:PostFire,Albedo,,,0.1681
+,,Central Basin and Range,,,Shrubland:PostFire,Initial Conditions: Litter,1,,0.404
+,,Central Basin and Range,,,Shrubland:PostFire,Initial Conditions: Living Biomass,1,,0.982
+,,Central Basin and Range,,,Shrubland:PostFire,Initial Conditions: Soil,1,,5.398
+,,Central Basin and Range,,,Shrubland:PostFire,NPP,,,0.1141
+,,Central California Valley,,,Shrubland:PostFire,Albedo,,,0.1924
+,,Central California Valley,,,Shrubland:PostFire,Initial Conditions: Litter,1,,0.434
+,,Central California Valley,,,Shrubland:PostFire,Initial Conditions: Living Biomass,1,,2.671
+,,Central California Valley,,,Shrubland:PostFire,Initial Conditions: Soil,1,,8.09
+,,Central California Valley,,,Shrubland:PostFire,NPP,,,0.4046
+,,Coast Range,,,Shrubland:PostFire,Albedo,,,0.1192
+,,Coast Range,,,Shrubland:PostFire,Initial Conditions: Litter,1,,0.703
+,,Coast Range,,,Shrubland:PostFire,Initial Conditions: Living Biomass,1,,9.035
+,,Coast Range,,,Shrubland:PostFire,Initial Conditions: Soil,1,,13.15
+,,Coast Range,,,Shrubland:PostFire,NPP,,,0.5915
+,,Eastern Cascades Slopes and Foothills,,,Shrubland:PostFire,Albedo,,,0.1295
+,,Eastern Cascades Slopes and Foothills,,,Shrubland:PostFire,Initial Conditions: Litter,1,,0.305
+,,Eastern Cascades Slopes and Foothills,,,Shrubland:PostFire,Initial Conditions: Living Biomass,1,,2.014
+,,Eastern Cascades Slopes and Foothills,,,Shrubland:PostFire,Initial Conditions: Soil,1,,5.954
+,,Eastern Cascades Slopes and Foothills,,,Shrubland:PostFire,NPP,,,0.1714
+,,Klamath Mountains,,,Shrubland:PostFire,Albedo,,,0.1213
+,,Klamath Mountains,,,Shrubland:PostFire,Initial Conditions: Litter,1,,0.627
+,,Klamath Mountains,,,Shrubland:PostFire,Initial Conditions: Living Biomass,1,,6.584
+,,Klamath Mountains,,,Shrubland:PostFire,Initial Conditions: Soil,1,,7.457
+,,Klamath Mountains,,,Shrubland:PostFire,NPP,,,0.487
+,,Mojave Basin and Range,,,Shrubland:PostFire,Albedo,,,0.1978
+,,Mojave Basin and Range,,,Shrubland:PostFire,Initial Conditions: Litter,1,,0.201
+,,Mojave Basin and Range,,,Shrubland:PostFire,Initial Conditions: Living Biomass,1,,0.381
+,,Mojave Basin and Range,,,Shrubland:PostFire,Initial Conditions: Soil,1,,2.238
+,,Mojave Basin and Range,,,Shrubland:PostFire,NPP,,,0.0716
+,,Northern Basin and Range,,,Shrubland:PostFire,Albedo,,,0.1449
+,,Northern Basin and Range,,,Shrubland:PostFire,Initial Conditions: Litter,1,,0.233
+,,Northern Basin and Range,,,Shrubland:PostFire,Initial Conditions: Living Biomass,1,,1.092
+,,Northern Basin and Range,,,Shrubland:PostFire,Initial Conditions: Soil,1,,6.467
+,,Northern Basin and Range,,,Shrubland:PostFire,NPP,,,0.1194
+,,Sierra Nevada,,,Shrubland:PostFire,Albedo,,,0.1224
+,,Sierra Nevada,,,Shrubland:PostFire,Initial Conditions: Litter,1,,0.605
+,,Sierra Nevada,,,Shrubland:PostFire,Initial Conditions: Living Biomass,1,,2.967
+,,Sierra Nevada,,,Shrubland:PostFire,Initial Conditions: Soil,1,,7.625
+,,Sierra Nevada,,,Shrubland:PostFire,NPP,,,0.211
+,,Sonoran Basin and Range,,,Shrubland:PostFire,Albedo,,,0.1894
+,,Sonoran Basin and Range,,,Shrubland:PostFire,Initial Conditions: Litter,1,,0.102
+,,Sonoran Basin and Range,,,Shrubland:PostFire,Initial Conditions: Living Biomass,1,,0.22
+,,Sonoran Basin and Range,,,Shrubland:PostFire,Initial Conditions: Soil,1,,1.662
+,,Sonoran Basin and Range,,,Shrubland:PostFire,NPP,,,0.0456
+,,Southern California Mountains,,,Shrubland:PostFire,Albedo,,,0.1375
+,,Southern California Mountains,,,Shrubland:PostFire,Initial Conditions: Litter,1,,0.502
+,,Southern California Mountains,,,Shrubland:PostFire,Initial Conditions: Living Biomass,1,,3.113
+,,Southern California Mountains,,,Shrubland:PostFire,Initial Conditions: Soil,1,,5.666
+,,Southern California Mountains,,,Shrubland:PostFire,NPP,,,0.3308

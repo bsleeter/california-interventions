@@ -1,0 +1,133 @@
+Timestep,StratumID,TransitionGroupID,MaximumArea,RelativeAmount
+2018,California Chaparral and Oak Woodlands,Fire,2,0.288954411
+2018,California Chaparral and Oak Woodlands,Fire,5,0.315037423
+2018,California Chaparral and Oak Woodlands,Fire,10,0.152642323
+2018,California Chaparral and Oak Woodlands,Fire,20,0.096620549
+2018,California Chaparral and Oak Woodlands,Fire,50,0.080063506
+2018,California Chaparral and Oak Woodlands,Fire,100,0.031526423
+2018,California Chaparral and Oak Woodlands,Fire,200,0.020185983
+2018,California Chaparral and Oak Woodlands,Fire,300,0.008165117
+2018,California Chaparral and Oak Woodlands,Fire,500,0.00385575
+2018,California Chaparral and Oak Woodlands,Fire,1.00E+03,0.002268088
+2018,California Chaparral and Oak Woodlands,Fire,2500,6.80E-04
+2018,Cascades,Fire,2,0.327868852
+2018,Cascades,Fire,5,0.31147541
+2018,Cascades,Fire,10,0.147540984
+2018,Cascades,Fire,20,0.081967213
+2018,Cascades,Fire,50,0.06557377
+2018,Cascades,Fire,100,0.049180328
+2018,Cascades,Fire,200,0.016393443
+2018,Cascades,Fire,300,0
+2018,Cascades,Fire,500,0
+2018,Cascades,Fire,1.00E+03,0
+2018,Cascades,Fire,2500,0
+2018,Central Basin and Range,Fire,2,0.231343284
+2018,Central Basin and Range,Fire,5,0.328358209
+2018,Central Basin and Range,Fire,10,0.097014925
+2018,Central Basin and Range,Fire,20,0.141791045
+2018,Central Basin and Range,Fire,50,0.126865672
+2018,Central Basin and Range,Fire,100,0.029850746
+2018,Central Basin and Range,Fire,200,0.037313433
+2018,Central Basin and Range,Fire,300,0
+2018,Central Basin and Range,Fire,500,0.007462687
+2018,Central Basin and Range,Fire,1.00E+03,0
+2018,Central Basin and Range,Fire,2500,0
+2018,Central California Valley,Fire,2,0.388888889
+2018,Central California Valley,Fire,5,0.335858586
+2018,Central California Valley,Fire,10,0.113636364
+2018,Central California Valley,Fire,20,0.075757576
+2018,Central California Valley,Fire,50,0.063131313
+2018,Central California Valley,Fire,100,0.01010101
+2018,Central California Valley,Fire,200,0.01010101
+2018,Central California Valley,Fire,300,0.002525253
+2018,Central California Valley,Fire,500,0
+2018,Central California Valley,Fire,1.00E+03,0
+2018,Central California Valley,Fire,2500,0
+2018,Coast Range,Fire,2,0.241545894
+2018,Coast Range,Fire,5,0.31884058
+2018,Coast Range,Fire,10,0.154589372
+2018,Coast Range,Fire,20,0.106280193
+2018,Coast Range,Fire,50,0.125603865
+2018,Coast Range,Fire,100,0.043478261
+2018,Coast Range,Fire,200,0.009661836
+2018,Coast Range,Fire,300,0
+2018,Coast Range,Fire,500,0
+2018,Coast Range,Fire,1.00E+03,0
+2018,Coast Range,Fire,2500,0
+2018,Eastern Cascades Slopes and Foothills,Fire,2,0.298245614
+2018,Eastern Cascades Slopes and Foothills,Fire,5,0.305764411
+2018,Eastern Cascades Slopes and Foothills,Fire,10,0.137844612
+2018,Eastern Cascades Slopes and Foothills,Fire,20,0.107769424
+2018,Eastern Cascades Slopes and Foothills,Fire,50,0.070175439
+2018,Eastern Cascades Slopes and Foothills,Fire,100,0.047619048
+2018,Eastern Cascades Slopes and Foothills,Fire,200,0.022556391
+2018,Eastern Cascades Slopes and Foothills,Fire,300,0.002506266
+2018,Eastern Cascades Slopes and Foothills,Fire,500,0.005012531
+2018,Eastern Cascades Slopes and Foothills,Fire,1.00E+03,0.002506266
+2018,Eastern Cascades Slopes and Foothills,Fire,2500,0
+2018,Klamath Mountains,Fire,2,0.264009963
+2018,Klamath Mountains,Fire,5,0.254047323
+2018,Klamath Mountains,Fire,10,0.158156912
+2018,Klamath Mountains,Fire,20,0.109589041
+2018,Klamath Mountains,Fire,50,0.105853051
+2018,Klamath Mountains,Fire,100,0.056039851
+2018,Klamath Mountains,Fire,200,0.03237858
+2018,Klamath Mountains,Fire,300,0.0124533
+2018,Klamath Mountains,Fire,500,0.00373599
+2018,Klamath Mountains,Fire,1.00E+03,0.00249066
+2018,Klamath Mountains,Fire,2500,0.00124533
+2018,Mojave Basin and Range,Fire,2,0.338912134
+2018,Mojave Basin and Range,Fire,5,0.280334728
+2018,Mojave Basin and Range,Fire,10,0.117154812
+2018,Mojave Basin and Range,Fire,20,0.083682008
+2018,Mojave Basin and Range,Fire,50,0.092050209
+2018,Mojave Basin and Range,Fire,100,0.050209205
+2018,Mojave Basin and Range,Fire,200,0.025104603
+2018,Mojave Basin and Range,Fire,300,0.012552301
+2018,Mojave Basin and Range,Fire,500,0
+2018,Mojave Basin and Range,Fire,1.00E+03,0
+2018,Mojave Basin and Range,Fire,2500,0
+2018,Northern Basin and Range,Fire,2,0.282608696
+2018,Northern Basin and Range,Fire,5,0.304347826
+2018,Northern Basin and Range,Fire,10,0.119565217
+2018,Northern Basin and Range,Fire,20,0.097826087
+2018,Northern Basin and Range,Fire,50,0.097826087
+2018,Northern Basin and Range,Fire,100,0.065217391
+2018,Northern Basin and Range,Fire,200,0.02173913
+2018,Northern Basin and Range,Fire,300,0
+2018,Northern Basin and Range,Fire,500,0
+2018,Northern Basin and Range,Fire,1.00E+03,0
+2018,Northern Basin and Range,Fire,2500,0.010869565
+2018,Sierra Nevada,Fire,2,0.294764059
+2018,Sierra Nevada,Fire,5,0.29217841
+2018,Sierra Nevada,Fire,10,0.153846154
+2018,Sierra Nevada,Fire,20,0.113122172
+2018,Sierra Nevada,Fire,50,0.080155139
+2018,Sierra Nevada,Fire,100,0.035552683
+2018,Sierra Nevada,Fire,200,0.020685197
+2018,Sierra Nevada,Fire,300,0.004524887
+2018,Sierra Nevada,Fire,500,0.00258565
+2018,Sierra Nevada,Fire,1.00E+03,0.001939237
+2018,Sierra Nevada,Fire,2500,6.46E-04
+2018,Sonoran Basin and Range,Fire,2,0.265306122
+2018,Sonoran Basin and Range,Fire,5,0.183673469
+2018,Sonoran Basin and Range,Fire,10,0.173469388
+2018,Sonoran Basin and Range,Fire,20,0.12244898
+2018,Sonoran Basin and Range,Fire,50,0.132653061
+2018,Sonoran Basin and Range,Fire,100,0.071428571
+2018,Sonoran Basin and Range,Fire,200,0.020408163
+2018,Sonoran Basin and Range,Fire,300,0.030612245
+2018,Sonoran Basin and Range,Fire,500,0
+2018,Sonoran Basin and Range,Fire,1.00E+03,0
+2018,Sonoran Basin and Range,Fire,2500,0
+2018,Southern California Mountains,Fire,2,0.272259014
+2018,Southern California Mountains,Fire,5,0.280353201
+2018,Southern California Mountains,Fire,10,0.14790287
+2018,Southern California Mountains,Fire,20,0.104488595
+2018,Southern California Mountains,Fire,50,0.087564386
+2018,Southern California Mountains,Fire,100,0.051508462
+2018,Southern California Mountains,Fire,200,0.031640912
+2018,Southern California Mountains,Fire,300,0.013980868
+2018,Southern California Mountains,Fire,500,0.005150846
+2018,Southern California Mountains,Fire,1.00E+03,0.003679176
+2018,Southern California Mountains,Fire,2500,0.00147167

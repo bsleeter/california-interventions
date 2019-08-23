@@ -1,0 +1,7 @@
+Timestep,StratumID,SecondaryStratumID,TransitionGroupID,Amount,DistributionType,DistributionFrequencyID,DistributionSD,DistributionMin,DistributionMax
+2002,,,Ag Change: Annual to Perennial [Type],100,Uniform,Iteration and Timestep,,50,150
+2002,,,Ag Contraction,,Historical Rate: Ag Contraction,Iteration and Timestep,,,
+2002,,,Ag Expansion,,Historical Rate: Ag Expansion,Iteration and Timestep,,,
+2002,,,Management: Forest Clearcut [Type],,Historical Rate: Forest Clearcut,Iteration and Timestep,,,
+2002,,,Management: Forest Selection [Type],,Historical Rate: Forest Selection,Iteration and Timestep,,,
+2002,,,Urbanization,,Historical Rate: Urbanization,Iteration and Timestep,,,

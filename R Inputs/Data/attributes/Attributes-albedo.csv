@@ -1,0 +1,349 @@
+Iteration,Timestep,StratumID,SecondaryStratumID,TertiaryStratumID,StateClassID,StateAttributeTypeID,AgeMin,AgeMax,Value
+,,California Chaparral and Oak Woodlands,,,Agriculture:Annual,Albedo,,,0.1629
+,,California Chaparral and Oak Woodlands,,,Agriculture:Perennial,Albedo,,,0.1629
+,,California Chaparral and Oak Woodlands,,,Barren:All,Albedo,,,0.3017
+,,California Chaparral and Oak Woodlands,,,Developed:Transportation,Albedo,,,0.1455
+,,California Chaparral and Oak Woodlands,,,Forest:All,Albedo,1,5,0.1346
+,,California Chaparral and Oak Woodlands,,,Forest:All,Albedo,6,10,0.1541
+,,California Chaparral and Oak Woodlands,,,Forest:All,Albedo,11,,0.1141
+,,California Chaparral and Oak Woodlands,,,Grassland:All,Albedo,,,0.1541
+,,California Chaparral and Oak Woodlands,,,Shrubland:All,Albedo,,,0.1541
+,,California Chaparral and Oak Woodlands,,,Water:All,Albedo,,,0.0434
+,,California Chaparral and Oak Woodlands,,,Wetland:All,Albedo,,,0.0967
+,,Cascades,,,Agriculture:Annual,Albedo,,,0.1398
+,,Cascades,,,Agriculture:Perennial,Albedo,,,0.1398
+,,Cascades,,,Barren:All,Albedo,,,0.1156
+,,Cascades,,,Developed:Transportation,Albedo,,,0.1262
+,,Cascades,,,Forest:All,Albedo,1,5,0.1189
+,,Cascades,,,Forest:All,Albedo,6,10,0.0981
+,,Cascades,,,Forest:All,Albedo,11,,0.0932
+,,Cascades,,,Grassland:All,Albedo,,,0.0981
+,,Cascades,,,Shrubland:All,Albedo,,,0.0981
+,,Cascades,,,Water:All,Albedo,,,0.0426
+,,Cascades,,,Wetland:All,Albedo,,,0.106
+,,Central Basin and Range,,,Agriculture:Annual,Albedo,,,0.1932
+,,Central Basin and Range,,,Agriculture:Perennial,Albedo,,,0.1932
+,,Central Basin and Range,,,Barren:All,Albedo,,,0.2585
+,,Central Basin and Range,,,Developed:Transportation,Albedo,,,0.189
+,,Central Basin and Range,,,Forest:All,Albedo,1,5,0.1346
+,,Central Basin and Range,,,Forest:All,Albedo,6,10,0.1681
+,,Central Basin and Range,,,Forest:All,Albedo,11,,0.1266
+,,Central Basin and Range,,,Grassland:All,Albedo,,,0.1681
+,,Central Basin and Range,,,Shrubland:All,Albedo,,,0.1681
+,,Central Basin and Range,,,Water:All,Albedo,,,0.1495
+,,Central Basin and Range,,,Wetland:All,Albedo,,,0.1815
+,,Central California Valley,,,Agriculture:Annual,Albedo,,,0.176
+,,Central California Valley,,,Agriculture:Perennial,Albedo,,,0.176
+,,Central California Valley,,,Barren:All,Albedo,,,0.1787
+,,Central California Valley,,,Developed:Transportation,Albedo,,,0.165
+,,Central California Valley,,,Forest:All,Albedo,1,5,0.1881
+,,Central California Valley,,,Forest:All,Albedo,6,10,0.1924
+,,Central California Valley,,,Forest:All,Albedo,11,,0.1661
+,,Central California Valley,,,Grassland:All,Albedo,,,0.1924
+,,Central California Valley,,,Shrubland:All,Albedo,,,0.1924
+,,Central California Valley,,,Water:All,Albedo,,,0.1105
+,,Central California Valley,,,Wetland:All,Albedo,,,0.1424
+,,Coast Range,,,Agriculture:Annual,Albedo,,,0.1492
+,,Coast Range,,,Agriculture:Perennial,Albedo,,,0.1492
+,,Coast Range,,,Barren:All,Albedo,,,0.1468
+,,Coast Range,,,Developed:Transportation,Albedo,,,0.1202
+,,Coast Range,,,Forest:All,Albedo,1,5,0.1221
+,,Coast Range,,,Forest:All,Albedo,6,10,0.1192
+,,Coast Range,,,Forest:All,Albedo,11,,0.1079
+,,Coast Range,,,Grassland:All,Albedo,,,0.1192
+,,Coast Range,,,Shrubland:All,Albedo,,,0.1192
+,,Coast Range,,,Water:All,Albedo,,,0.0452
+,,Coast Range,,,Wetland:All,Albedo,,,0.1004
+,,Eastern Cascades Slopes and Foothills,,,Agriculture:Annual,Albedo,,,0.1657
+,,Eastern Cascades Slopes and Foothills,,,Agriculture:Perennial,Albedo,,,0.1657
+,,Eastern Cascades Slopes and Foothills,,,Barren:All,Albedo,,,0.1277
+,,Eastern Cascades Slopes and Foothills,,,Developed:Transportation,Albedo,,,0.1634
+,,Eastern Cascades Slopes and Foothills,,,Forest:All,Albedo,1,5,0.115
+,,Eastern Cascades Slopes and Foothills,,,Forest:All,Albedo,6,10,0.1295
+,,Eastern Cascades Slopes and Foothills,,,Forest:All,Albedo,11,,0.1043
+,,Eastern Cascades Slopes and Foothills,,,Grassland:All,Albedo,,,0.1295
+,,Eastern Cascades Slopes and Foothills,,,Shrubland:All,Albedo,,,0.1295
+,,Eastern Cascades Slopes and Foothills,,,Water:All,Albedo,,,0.0538
+,,Eastern Cascades Slopes and Foothills,,,Wetland:All,Albedo,,,0.136
+,,Klamath Mountains,,,Agriculture:Annual,Albedo,,,0.1379
+,,Klamath Mountains,,,Agriculture:Perennial,Albedo,,,0.1379
+,,Klamath Mountains,,,Barren:All,Albedo,,,0.1787
+,,Klamath Mountains,,,Developed:Transportation,Albedo,,,0.1258
+,,Klamath Mountains,,,Forest:All,Albedo,1,5,0.1093
+,,Klamath Mountains,,,Forest:All,Albedo,6,10,0.1213
+,,Klamath Mountains,,,Forest:All,Albedo,11,,0.0968
+,,Klamath Mountains,,,Grassland:All,Albedo,,,0.1213
+,,Klamath Mountains,,,Shrubland:All,Albedo,,,0.1213
+,,Klamath Mountains,,,Water:All,Albedo,,,0.0709
+,,Klamath Mountains,,,Wetland:All,Albedo,,,0.1406
+,,Mojave Basin and Range,,,Agriculture:Annual,Albedo,,,0.258
+,,Mojave Basin and Range,,,Agriculture:Perennial,Albedo,,,0.258
+,,Mojave Basin and Range,,,Barren:All,Albedo,,,0.2606
+,,Mojave Basin and Range,,,Developed:Transportation,Albedo,,,0.2345
+,,Mojave Basin and Range,,,Forest:All,Albedo,1,5,0.2036
+,,Mojave Basin and Range,,,Forest:All,Albedo,6,10,0.1978
+,,Mojave Basin and Range,,,Forest:All,Albedo,11,,0.1297
+,,Mojave Basin and Range,,,Grassland:All,Albedo,,,0.1978
+,,Mojave Basin and Range,,,Shrubland:All,Albedo,,,0.1978
+,,Mojave Basin and Range,,,Water:All,Albedo,,,0.0874
+,,Mojave Basin and Range,,,Wetland:All,Albedo,,,0.139
+,,Northern Basin and Range,,,Agriculture:Annual,Albedo,,,0.1703
+,,Northern Basin and Range,,,Agriculture:Perennial,Albedo,,,0.1703
+,,Northern Basin and Range,,,Barren:All,Albedo,,,0.1549
+,,Northern Basin and Range,,,Developed:Transportation,Albedo,,,0.1702
+,,Northern Basin and Range,,,Forest:All,Albedo,1,5,0.1346
+,,Northern Basin and Range,,,Forest:All,Albedo,6,10,0.1449
+,,Northern Basin and Range,,,Forest:All,Albedo,11,,0.1089
+,,Northern Basin and Range,,,Grassland:All,Albedo,,,0.1449
+,,Northern Basin and Range,,,Shrubland:All,Albedo,,,0.1449
+,,Northern Basin and Range,,,Water:All,Albedo,,,0.0672
+,,Northern Basin and Range,,,Wetland:All,Albedo,,,0.1509
+,,Sierra Nevada,,,Agriculture:Annual,Albedo,,,0.173
+,,Sierra Nevada,,,Agriculture:Perennial,Albedo,,,0.173
+,,Sierra Nevada,,,Barren:All,Albedo,,,0.1687
+,,Sierra Nevada,,,Developed:Transportation,Albedo,,,0.141
+,,Sierra Nevada,,,Forest:All,Albedo,1,5,0.1346
+,,Sierra Nevada,,,Forest:All,Albedo,6,10,0.1224
+,,Sierra Nevada,,,Forest:All,Albedo,11,,0.1003
+,,Sierra Nevada,,,Grassland:All,Albedo,,,0.1224
+,,Sierra Nevada,,,Shrubland:All,Albedo,,,0.1224
+,,Sierra Nevada,,,Water:All,Albedo,,,0.046
+,,Sierra Nevada,,,Wetland:All,Albedo,,,0.1324
+,,Sonoran Basin and Range,,,Agriculture:Annual,Albedo,,,0.2268
+,,Sonoran Basin and Range,,,Agriculture:Perennial,Albedo,,,0.2268
+,,Sonoran Basin and Range,,,Barren:All,Albedo,,,0.3647
+,,Sonoran Basin and Range,,,Developed:Transportation,Albedo,,,0.1907
+,,Sonoran Basin and Range,,,Forest:All,Albedo,1,5,0.1346
+,,Sonoran Basin and Range,,,Forest:All,Albedo,6,10,0.1894
+,,Sonoran Basin and Range,,,Forest:All,Albedo,11,,0.1257
+,,Sonoran Basin and Range,,,Grassland:All,Albedo,,,0.1894
+,,Sonoran Basin and Range,,,Shrubland:All,Albedo,,,0.1894
+,,Sonoran Basin and Range,,,Water:All,Albedo,,,0.0856
+,,Sonoran Basin and Range,,,Wetland:All,Albedo,,,0.1712
+,,Southern California Mountains,,,Agriculture:Annual,Albedo,,,0.1828
+,,Southern California Mountains,,,Agriculture:Perennial,Albedo,,,0.1828
+,,Southern California Mountains,,,Barren:All,Albedo,,,0.1541
+,,Southern California Mountains,,,Developed:Transportation,Albedo,,,0.1628
+,,Southern California Mountains,,,Forest:All,Albedo,1,5,0.1346
+,,Southern California Mountains,,,Forest:All,Albedo,6,10,0.1375
+,,Southern California Mountains,,,Forest:All,Albedo,11,,0.1075
+,,Southern California Mountains,,,Grassland:All,Albedo,,,0.1375
+,,Southern California Mountains,,,Shrubland:All,Albedo,,,0.1375
+,,Southern California Mountains,,,Water:All,Albedo,,,0.0559
+,,Southern California Mountains,,,Wetland:All,Albedo,,,0.1628
+,,California Chaparral and Oak Woodlands,,,Agriculture:Covercrop,Albedo,,,0.1629
+,,Cascades,,,Agriculture:Covercrop,Albedo,,,0.1398
+,,Central Basin and Range,,,Agriculture:Covercrop,Albedo,,,0.1932
+,,Central California Valley,,,Agriculture:Covercrop,Albedo,,,0.176
+,,Coast Range,,,Agriculture:Covercrop,Albedo,,,0.1492
+,,Eastern Cascades Slopes and Foothills,,,Agriculture:Covercrop,Albedo,,,0.1657
+,,Klamath Mountains,,,Agriculture:Covercrop,Albedo,,,0.1379
+,,Mojave Basin and Range,,,Agriculture:Covercrop,Albedo,,,0.258
+,,Northern Basin and Range,,,Agriculture:Covercrop,Albedo,,,0.1703
+,,Sierra Nevada,,,Agriculture:Covercrop,Albedo,,,0.173
+,,Sonoran Basin and Range,,,Agriculture:Covercrop,Albedo,,,0.2268
+,,Southern California Mountains,,,Agriculture:Covercrop,Albedo,,,0.1828
+,,California Chaparral and Oak Woodlands,,,Agriculture:Agroforestry,Albedo,,,0.1629
+,,Cascades,,,Agriculture:Agroforestry,Albedo,,,0.1398
+,,Central Basin and Range,,,Agriculture:Agroforestry,Albedo,,,0.1932
+,,Central California Valley,,,Agriculture:Agroforestry,Albedo,,,0.176
+,,Coast Range,,,Agriculture:Agroforestry,Albedo,,,0.1492
+,,Eastern Cascades Slopes and Foothills,,,Agriculture:Agroforestry,Albedo,,,0.1657
+,,Klamath Mountains,,,Agriculture:Agroforestry,Albedo,,,0.1379
+,,Mojave Basin and Range,,,Agriculture:Agroforestry,Albedo,,,0.258
+,,Northern Basin and Range,,,Agriculture:Agroforestry,Albedo,,,0.1703
+,,Sierra Nevada,,,Agriculture:Agroforestry,Albedo,,,0.173
+,,Sonoran Basin and Range,,,Agriculture:Agroforestry,Albedo,,,0.2268
+,,Southern California Mountains,,,Agriculture:Agroforestry,Albedo,,,0.1828
+,,California Chaparral and Oak Woodlands,,,Developed:High,Albedo,,,0.1455
+,,Cascades,,,Developed:High,Albedo,,,0.1262
+,,Central Basin and Range,,,Developed:High,Albedo,,,0.189
+,,Central California Valley,,,Developed:High,Albedo,,,0.165
+,,Coast Range,,,Developed:High,Albedo,,,0.1202
+,,Eastern Cascades Slopes and Foothills,,,Developed:High,Albedo,,,0.1634
+,,Klamath Mountains,,,Developed:High,Albedo,,,0.1258
+,,Mojave Basin and Range,,,Developed:High,Albedo,,,0.2345
+,,Northern Basin and Range,,,Developed:High,Albedo,,,0.1702
+,,Sierra Nevada,,,Developed:High,Albedo,,,0.141
+,,Sonoran Basin and Range,,,Developed:High,Albedo,,,0.1907
+,,Southern California Mountains,,,Developed:High,Albedo,,,0.1628
+,,California Chaparral and Oak Woodlands,,,Developed:Medium,Albedo,,,0.1455
+,,Cascades,,,Developed:Medium,Albedo,,,0.1262
+,,Central Basin and Range,,,Developed:Medium,Albedo,,,0.189
+,,Central California Valley,,,Developed:Medium,Albedo,,,0.165
+,,Coast Range,,,Developed:Medium,Albedo,,,0.1202
+,,Eastern Cascades Slopes and Foothills,,,Developed:Medium,Albedo,,,0.1634
+,,Klamath Mountains,,,Developed:Medium,Albedo,,,0.1258
+,,Mojave Basin and Range,,,Developed:Medium,Albedo,,,0.2345
+,,Northern Basin and Range,,,Developed:Medium,Albedo,,,0.1702
+,,Sierra Nevada,,,Developed:Medium,Albedo,,,0.141
+,,Sonoran Basin and Range,,,Developed:Medium,Albedo,,,0.1907
+,,Southern California Mountains,,,Developed:Medium,Albedo,,,0.1628
+,,California Chaparral and Oak Woodlands,,,Developed:Low,Albedo,,,0.1455
+,,Cascades,,,Developed:Low,Albedo,,,0.1262
+,,Central Basin and Range,,,Developed:Low,Albedo,,,0.189
+,,Central California Valley,,,Developed:Low,Albedo,,,0.165
+,,Coast Range,,,Developed:Low,Albedo,,,0.1202
+,,Eastern Cascades Slopes and Foothills,,,Developed:Low,Albedo,,,0.1634
+,,Klamath Mountains,,,Developed:Low,Albedo,,,0.1258
+,,Mojave Basin and Range,,,Developed:Low,Albedo,,,0.2345
+,,Northern Basin and Range,,,Developed:Low,Albedo,,,0.1702
+,,Sierra Nevada,,,Developed:Low,Albedo,,,0.141
+,,Sonoran Basin and Range,,,Developed:Low,Albedo,,,0.1907
+,,Southern California Mountains,,,Developed:Low,Albedo,,,0.1628
+,,California Chaparral and Oak Woodlands,,,Developed:Open,Albedo,,,0.1455
+,,Cascades,,,Developed:Open,Albedo,,,0.1262
+,,Central Basin and Range,,,Developed:Open,Albedo,,,0.189
+,,Central California Valley,,,Developed:Open,Albedo,,,0.165
+,,Coast Range,,,Developed:Open,Albedo,,,0.1202
+,,Eastern Cascades Slopes and Foothills,,,Developed:Open,Albedo,,,0.1634
+,,Klamath Mountains,,,Developed:Open,Albedo,,,0.1258
+,,Mojave Basin and Range,,,Developed:Open,Albedo,,,0.2345
+,,Northern Basin and Range,,,Developed:Open,Albedo,,,0.1702
+,,Sierra Nevada,,,Developed:Open,Albedo,,,0.141
+,,Sonoran Basin and Range,,,Developed:Open,Albedo,,,0.1907
+,,Southern California Mountains,,,Developed:Open,Albedo,,,0.1628
+,,California Chaparral and Oak Woodlands,,,Developed:Transportation,Albedo,,,0.1455
+,,Cascades,,,Developed:Transportation,Albedo,,,0.1262
+,,Central Basin and Range,,,Developed:Transportation,Albedo,,,0.189
+,,Central California Valley,,,Developed:Transportation,Albedo,,,0.165
+,,Coast Range,,,Developed:Transportation,Albedo,,,0.1202
+,,Eastern Cascades Slopes and Foothills,,,Developed:Transportation,Albedo,,,0.1634
+,,Klamath Mountains,,,Developed:Transportation,Albedo,,,0.1258
+,,Mojave Basin and Range,,,Developed:Transportation,Albedo,,,0.2345
+,,Northern Basin and Range,,,Developed:Transportation,Albedo,,,0.1702
+,,Sierra Nevada,,,Developed:Transportation,Albedo,,,0.141
+,,Sonoran Basin and Range,,,Developed:Transportation,Albedo,,,0.1907
+,,Southern California Mountains,,,Developed:Transportation,Albedo,,,0.1628
+,,California Chaparral and Oak Woodlands,,,Forest:CFM,Albedo,1,5,0.1346
+,,California Chaparral and Oak Woodlands,,,Forest:CFM,Albedo,6,10,0.1541
+,,California Chaparral and Oak Woodlands,,,Forest:CFM,Albedo,11,,0.1141
+,,Cascades,,,Forest:CFM,Albedo,1,5,0.1189
+,,Cascades,,,Forest:CFM,Albedo,6,10,0.0981
+,,Cascades,,,Forest:CFM,Albedo,11,,0.0932
+,,Central Basin and Range,,,Forest:CFM,Albedo,1,5,0.1346
+,,Central Basin and Range,,,Forest:CFM,Albedo,6,10,0.1681
+,,Central Basin and Range,,,Forest:CFM,Albedo,11,,0.1266
+,,Central California Valley,,,Forest:CFM,Albedo,1,5,0.1881
+,,Central California Valley,,,Forest:CFM,Albedo,6,10,0.1924
+,,Central California Valley,,,Forest:CFM,Albedo,11,,0.1661
+,,Coast Range,,,Forest:CFM,Albedo,1,5,0.1221
+,,Coast Range,,,Forest:CFM,Albedo,6,10,0.1192
+,,Coast Range,,,Forest:CFM,Albedo,11,,0.1079
+,,Eastern Cascades Slopes and Foothills,,,Forest:CFM,Albedo,1,5,0.115
+,,Eastern Cascades Slopes and Foothills,,,Forest:CFM,Albedo,6,10,0.1295
+,,Eastern Cascades Slopes and Foothills,,,Forest:CFM,Albedo,11,,0.1043
+,,Klamath Mountains,,,Forest:CFM,Albedo,1,5,0.1093
+,,Klamath Mountains,,,Forest:CFM,Albedo,6,10,0.1213
+,,Klamath Mountains,,,Forest:CFM,Albedo,11,,0.0968
+,,Mojave Basin and Range,,,Forest:CFM,Albedo,1,5,0.2036
+,,Mojave Basin and Range,,,Forest:CFM,Albedo,6,10,0.1978
+,,Mojave Basin and Range,,,Forest:CFM,Albedo,11,,0.1297
+,,Northern Basin and Range,,,Forest:CFM,Albedo,1,5,0.1346
+,,Northern Basin and Range,,,Forest:CFM,Albedo,6,10,0.1449
+,,Northern Basin and Range,,,Forest:CFM,Albedo,11,,0.1089
+,,Sierra Nevada,,,Forest:CFM,Albedo,1,5,0.1346
+,,Sierra Nevada,,,Forest:CFM,Albedo,6,10,0.1224
+,,Sierra Nevada,,,Forest:CFM,Albedo,11,,0.1003
+,,Sonoran Basin and Range,,,Forest:CFM,Albedo,1,5,0.1346
+,,Sonoran Basin and Range,,,Forest:CFM,Albedo,6,10,0.1894
+,,Sonoran Basin and Range,,,Forest:CFM,Albedo,11,,0.1257
+,,Southern California Mountains,,,Forest:CFM,Albedo,1,5,0.1346
+,,Southern California Mountains,,,Forest:CFM,Albedo,6,10,0.1375
+,,Southern California Mountains,,,Forest:CFM,Albedo,11,,0.1075
+,,California Chaparral and Oak Woodlands,,,Forest:Treated (Prescribed),Albedo,1,5,0.1346
+,,California Chaparral and Oak Woodlands,,,Forest:Treated (Prescribed),Albedo,6,10,0.1541
+,,California Chaparral and Oak Woodlands,,,Forest:Treated (Prescribed),Albedo,11,,0.1141
+,,Cascades,,,Forest:Treated (Prescribed),Albedo,1,5,0.1189
+,,Cascades,,,Forest:Treated (Prescribed),Albedo,6,10,0.0981
+,,Cascades,,,Forest:Treated (Prescribed),Albedo,11,,0.0932
+,,Central Basin and Range,,,Forest:Treated (Prescribed),Albedo,1,5,0.1346
+,,Central Basin and Range,,,Forest:Treated (Prescribed),Albedo,6,10,0.1681
+,,Central Basin and Range,,,Forest:Treated (Prescribed),Albedo,11,,0.1266
+,,Central California Valley,,,Forest:Treated (Prescribed),Albedo,1,5,0.1881
+,,Central California Valley,,,Forest:Treated (Prescribed),Albedo,6,10,0.1924
+,,Central California Valley,,,Forest:Treated (Prescribed),Albedo,11,,0.1661
+,,Coast Range,,,Forest:Treated (Prescribed),Albedo,1,5,0.1221
+,,Coast Range,,,Forest:Treated (Prescribed),Albedo,6,10,0.1192
+,,Coast Range,,,Forest:Treated (Prescribed),Albedo,11,,0.1079
+,,Eastern Cascades Slopes and Foothills,,,Forest:Treated (Prescribed),Albedo,1,5,0.115
+,,Eastern Cascades Slopes and Foothills,,,Forest:Treated (Prescribed),Albedo,6,10,0.1295
+,,Eastern Cascades Slopes and Foothills,,,Forest:Treated (Prescribed),Albedo,11,,0.1043
+,,Klamath Mountains,,,Forest:Treated (Prescribed),Albedo,1,5,0.1093
+,,Klamath Mountains,,,Forest:Treated (Prescribed),Albedo,6,10,0.1213
+,,Klamath Mountains,,,Forest:Treated (Prescribed),Albedo,11,,0.0968
+,,Mojave Basin and Range,,,Forest:Treated (Prescribed),Albedo,1,5,0.2036
+,,Mojave Basin and Range,,,Forest:Treated (Prescribed),Albedo,6,10,0.1978
+,,Mojave Basin and Range,,,Forest:Treated (Prescribed),Albedo,11,,0.1297
+,,Northern Basin and Range,,,Forest:Treated (Prescribed),Albedo,1,5,0.1346
+,,Northern Basin and Range,,,Forest:Treated (Prescribed),Albedo,6,10,0.1449
+,,Northern Basin and Range,,,Forest:Treated (Prescribed),Albedo,11,,0.1089
+,,Sierra Nevada,,,Forest:Treated (Prescribed),Albedo,1,5,0.1346
+,,Sierra Nevada,,,Forest:Treated (Prescribed),Albedo,6,10,0.1224
+,,Sierra Nevada,,,Forest:Treated (Prescribed),Albedo,11,,0.1003
+,,Sonoran Basin and Range,,,Forest:Treated (Prescribed),Albedo,1,5,0.1346
+,,Sonoran Basin and Range,,,Forest:Treated (Prescribed),Albedo,6,10,0.1894
+,,Sonoran Basin and Range,,,Forest:Treated (Prescribed),Albedo,11,,0.1257
+,,Southern California Mountains,,,Forest:Treated (Prescribed),Albedo,1,5,0.1346
+,,Southern California Mountains,,,Forest:Treated (Prescribed),Albedo,6,10,0.1375
+,,Southern California Mountains,,,Forest:Treated (Prescribed),Albedo,11,,0.1075
+,,California Chaparral and Oak Woodlands,,,Forest:Treated (Thinned),Albedo,1,5,0.1346
+,,California Chaparral and Oak Woodlands,,,Forest:Treated (Thinned),Albedo,6,10,0.1541
+,,California Chaparral and Oak Woodlands,,,Forest:Treated (Thinned),Albedo,11,,0.1141
+,,Cascades,,,Forest:Treated (Thinned),Albedo,1,5,0.1189
+,,Cascades,,,Forest:Treated (Thinned),Albedo,6,10,0.0981
+,,Cascades,,,Forest:Treated (Thinned),Albedo,11,,0.0932
+,,Central Basin and Range,,,Forest:Treated (Thinned),Albedo,1,5,0.1346
+,,Central Basin and Range,,,Forest:Treated (Thinned),Albedo,6,10,0.1681
+,,Central Basin and Range,,,Forest:Treated (Thinned),Albedo,11,,0.1266
+,,Central California Valley,,,Forest:Treated (Thinned),Albedo,1,5,0.1881
+,,Central California Valley,,,Forest:Treated (Thinned),Albedo,6,10,0.1924
+,,Central California Valley,,,Forest:Treated (Thinned),Albedo,11,,0.1661
+,,Coast Range,,,Forest:Treated (Thinned),Albedo,1,5,0.1221
+,,Coast Range,,,Forest:Treated (Thinned),Albedo,6,10,0.1192
+,,Coast Range,,,Forest:Treated (Thinned),Albedo,11,,0.1079
+,,Eastern Cascades Slopes and Foothills,,,Forest:Treated (Thinned),Albedo,1,5,0.115
+,,Eastern Cascades Slopes and Foothills,,,Forest:Treated (Thinned),Albedo,6,10,0.1295
+,,Eastern Cascades Slopes and Foothills,,,Forest:Treated (Thinned),Albedo,11,,0.1043
+,,Klamath Mountains,,,Forest:Treated (Thinned),Albedo,1,5,0.1093
+,,Klamath Mountains,,,Forest:Treated (Thinned),Albedo,6,10,0.1213
+,,Klamath Mountains,,,Forest:Treated (Thinned),Albedo,11,,0.0968
+,,Mojave Basin and Range,,,Forest:Treated (Thinned),Albedo,1,5,0.2036
+,,Mojave Basin and Range,,,Forest:Treated (Thinned),Albedo,6,10,0.1978
+,,Mojave Basin and Range,,,Forest:Treated (Thinned),Albedo,11,,0.1297
+,,Northern Basin and Range,,,Forest:Treated (Thinned),Albedo,1,5,0.1346
+,,Northern Basin and Range,,,Forest:Treated (Thinned),Albedo,6,10,0.1449
+,,Northern Basin and Range,,,Forest:Treated (Thinned),Albedo,11,,0.1089
+,,Sierra Nevada,,,Forest:Treated (Thinned),Albedo,1,5,0.1346
+,,Sierra Nevada,,,Forest:Treated (Thinned),Albedo,6,10,0.1224
+,,Sierra Nevada,,,Forest:Treated (Thinned),Albedo,11,,0.1003
+,,Sonoran Basin and Range,,,Forest:Treated (Thinned),Albedo,1,5,0.1346
+,,Sonoran Basin and Range,,,Forest:Treated (Thinned),Albedo,6,10,0.1894
+,,Sonoran Basin and Range,,,Forest:Treated (Thinned),Albedo,11,,0.1257
+,,Southern California Mountains,,,Forest:Treated (Thinned),Albedo,1,5,0.1346
+,,Southern California Mountains,,,Forest:Treated (Thinned),Albedo,6,10,0.1375
+,,Southern California Mountains,,,Forest:Treated (Thinned),Albedo,11,,0.1075
+,,California Chaparral and Oak Woodlands,,,Grassland:Composted,Albedo,,,0.1541
+,,Cascades,,,Grassland:Composted,Albedo,,,0.0981
+,,Central Basin and Range,,,Grassland:Composted,Albedo,,,0.1681
+,,Central California Valley,,,Grassland:Composted,Albedo,,,0.1924
+,,Coast Range,,,Grassland:Composted,Albedo,,,0.1192
+,,Eastern Cascades Slopes and Foothills,,,Grassland:Composted,Albedo,,,0.1295
+,,Klamath Mountains,,,Grassland:Composted,Albedo,,,0.1213
+,,Mojave Basin and Range,,,Grassland:Composted,Albedo,,,0.1978
+,,Northern Basin and Range,,,Grassland:Composted,Albedo,,,0.1449
+,,Sierra Nevada,,,Grassland:Composted,Albedo,,,0.1224
+,,Sonoran Basin and Range,,,Grassland:Composted,Albedo,,,0.1894
+,,Southern California Mountains,,,Grassland:Composted,Albedo,,,0.1375
+,,California Chaparral and Oak Woodlands,,,Shrubland:PostFire,Albedo,,,0.1541
+,,Cascades,,,Shrubland:PostFire,Albedo,,,0.0981
+,,Central Basin and Range,,,Shrubland:PostFire,Albedo,,,0.1681
+,,Central California Valley,,,Shrubland:PostFire,Albedo,,,0.1924
+,,Coast Range,,,Shrubland:PostFire,Albedo,,,0.1192
+,,Eastern Cascades Slopes and Foothills,,,Shrubland:PostFire,Albedo,,,0.1295
+,,Klamath Mountains,,,Shrubland:PostFire,Albedo,,,0.1213
+,,Mojave Basin and Range,,,Shrubland:PostFire,Albedo,,,0.1978
+,,Northern Basin and Range,,,Shrubland:PostFire,Albedo,,,0.1449
+,,Sierra Nevada,,,Shrubland:PostFire,Albedo,,,0.1224
+,,Sonoran Basin and Range,,,Shrubland:PostFire,Albedo,,,0.1894
+,,Southern California Mountains,,,Shrubland:PostFire,Albedo,,,0.1375

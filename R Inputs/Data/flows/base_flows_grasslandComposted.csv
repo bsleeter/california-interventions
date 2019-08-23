@@ -1,0 +1,63 @@
+Iteration,Timestep,FromStratumID,FromStateClassID,FromAgeMin,FromStockTypeID,ToStratumID,ToStateClassID,ToAgeMin,ToStockTypeID,TransitionGroupID,StateAttributeTypeID,FlowTypeID,Multiplier
+,,,Grassland:All,,Down Deadwood,,,,Litter,,,Decay,0.08
+,,,Grassland:All,,Standing Deadwood,,,,Down Deadwood,,,Deadfall,0.1
+,,California Chaparral and Oak Woodlands,Grassland:All,,Litter,,,,Atmosphere,,,Emission (litter),0.256
+,,California Chaparral and Oak Woodlands,Grassland:All,,Litter,,,,Soil,,,Decomposition,0.269
+,,California Chaparral and Oak Woodlands,Grassland:All,,Living Biomass,,,,Litter,,,Litterfall,1
+,,California Chaparral and Oak Woodlands,Grassland:All,,Soil,,,,Aquatic,,,Leaching,0.0001
+,,California Chaparral and Oak Woodlands,Grassland:All,,Soil,,,,Atmosphere,,,Emission (soil),0.0148
+,,Cascades,Grassland:All,,Litter,,,,Atmosphere,,,Emission (litter),0.2303
+,,Cascades,Grassland:All,,Litter,,,,Soil,,,Decomposition,0.2429
+,,Cascades,Grassland:All,,Living Biomass,,,,Litter,,,Litterfall,1
+,,Cascades,Grassland:All,,Soil,,,,Aquatic,,,Leaching,0.0013
+,,Cascades,Grassland:All,,Soil,,,,Atmosphere,,,Emission (soil),0.0192
+,,Central Basin and Range,Grassland:All,,Litter,,,,Atmosphere,,,Emission (litter),0.121
+,,Central Basin and Range,Grassland:All,,Litter,,,,Soil,,,Decomposition,0.1275
+,,Central Basin and Range,Grassland:All,,Living Biomass,,,,Litter,,,Litterfall,1
+,,Central Basin and Range,Grassland:All,,Soil,,,,Aquatic,,,Leaching,0.0001
+,,Central Basin and Range,Grassland:All,,Soil,,,,Atmosphere,,,Emission (soil),0.0117
+,,Central California Valley,Grassland:All,,Litter,,,,Atmosphere,,,Emission (litter),0.2284
+,,Central California Valley,Grassland:All,,Litter,,,,Soil,,,Decomposition,0.2399
+,,Central California Valley,Grassland:All,,Living Biomass,,,,Litter,,,Litterfall,1
+,,Central California Valley,Grassland:All,,Soil,,,,Aquatic,,,Leaching,0
+,,Central California Valley,Grassland:All,,Soil,,,,Atmosphere,,,Emission (soil),0.0213
+,,Coast Range,Grassland:All,,Litter,,,,Atmosphere,,,Emission (litter),0.2443
+,,Coast Range,Grassland:All,,Litter,,,,Soil,,,Decomposition,0.2572
+,,Coast Range,Grassland:All,,Living Biomass,,,,Litter,,,Litterfall,1
+,,Coast Range,Grassland:All,,Soil,,,,Aquatic,,,Leaching,0.0008
+,,Coast Range,Grassland:All,,Soil,,,,Atmosphere,,,Emission (soil),0.0152
+,,Eastern Cascades Slopes and Foothills,Grassland:All,,Litter,,,,Atmosphere,,,Emission (litter),0.1541
+,,Eastern Cascades Slopes and Foothills,Grassland:All,,Litter,,,,Soil,,,Decomposition,0.1617
+,,Eastern Cascades Slopes and Foothills,Grassland:All,,Living Biomass,,,,Litter,,,Litterfall,1
+,,Eastern Cascades Slopes and Foothills,Grassland:All,,Soil,,,,Aquatic,,,Leaching,0
+,,Eastern Cascades Slopes and Foothills,Grassland:All,,Soil,,,,Atmosphere,,,Emission (soil),0.0075
+,,Klamath Mountains,Grassland:All,,Litter,,,,Atmosphere,,,Emission (litter),0.2303
+,,Klamath Mountains,Grassland:All,,Litter,,,,Soil,,,Decomposition,0.2429
+,,Klamath Mountains,Grassland:All,,Living Biomass,,,,Litter,,,Litterfall,1
+,,Klamath Mountains,Grassland:All,,Soil,,,,Aquatic,,,Leaching,0.0013
+,,Klamath Mountains,Grassland:All,,Soil,,,,Atmosphere,,,Emission (soil),0.0192
+,,Mojave Basin and Range,Grassland:All,,Litter,,,,Atmosphere,,,Emission (litter),0.1404
+,,Mojave Basin and Range,Grassland:All,,Litter,,,,Soil,,,Decomposition,0.1468
+,,Mojave Basin and Range,Grassland:All,,Living Biomass,,,,Litter,,,Litterfall,1
+,,Mojave Basin and Range,Grassland:All,,Soil,,,,Aquatic,,,Leaching,0
+,,Mojave Basin and Range,Grassland:All,,Soil,,,,Atmosphere,,,Emission (soil),0.0101
+,,Northern Basin and Range,Grassland:All,,Litter,,,,Atmosphere,,,Emission (litter),0.1449
+,,Northern Basin and Range,Grassland:All,,Litter,,,,Soil,,,Decomposition,0.1526
+,,Northern Basin and Range,Grassland:All,,Living Biomass,,,,Litter,,,Litterfall,1
+,,Northern Basin and Range,Grassland:All,,Soil,,,,Aquatic,,,Leaching,0
+,,Northern Basin and Range,Grassland:All,,Soil,,,,Atmosphere,,,Emission (soil),0.0081
+,,Sierra Nevada,Grassland:All,,Litter,,,,Atmosphere,,,Emission (litter),0.117
+,,Sierra Nevada,Grassland:All,,Litter,,,,Soil,,,Decomposition,0.1241
+,,Sierra Nevada,Grassland:All,,Living Biomass,,,,Litter,,,Litterfall,1
+,,Sierra Nevada,Grassland:All,,Soil,,,,Aquatic,,,Leaching,0.0003
+,,Sierra Nevada,Grassland:All,,Soil,,,,Atmosphere,,,Emission (soil),0.0103
+,,Sonoran Basin and Range,Grassland:All,,Litter,,,,Atmosphere,,,Emission (litter),0.2217
+,,Sonoran Basin and Range,Grassland:All,,Litter,,,,Soil,,,Decomposition,0.2303
+,,Sonoran Basin and Range,Grassland:All,,Living Biomass,,,,Litter,,,Litterfall,1
+,,Sonoran Basin and Range,Grassland:All,,Soil,,,,Aquatic,,,Leaching,0
+,,Sonoran Basin and Range,Grassland:All,,Soil,,,,Atmosphere,,,Emission (soil),0.0194
+,,Southern California Mountains,Grassland:All,,Litter,,,,Atmosphere,,,Emission (litter),0.2145
+,,Southern California Mountains,Grassland:All,,Litter,,,,Soil,,,Decomposition,0.2257
+,,Southern California Mountains,Grassland:All,,Living Biomass,,,,Litter,,,Litterfall,1
+,,Southern California Mountains,Grassland:All,,Soil,,,,Aquatic,,,Leaching,0.0001
+,,Southern California Mountains,Grassland:All,,Soil,,,,Atmosphere,,,Emission (soil),0.0134

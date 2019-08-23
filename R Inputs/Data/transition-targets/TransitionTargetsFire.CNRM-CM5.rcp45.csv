@@ -1,0 +1,997 @@
+Timestep,StratumID,SecondaryStratumID,TransitionGroupID,Amount,DistributionType,DistributionFrequencyID,DistributionSD,DistributionMin,DistributionMax
+2017,California Chaparral and Oak Woodlands,,Fire,619.1846,Normal,Iteration and Timestep,388.8266134,230.3579866,1008.011213
+2018,California Chaparral and Oak Woodlands,,Fire,660.0438,Normal,Iteration and Timestep,367.1885248,292.8552752,1027.232325
+2019,California Chaparral and Oak Woodlands,,Fire,762.0304,Normal,Iteration and Timestep,403.140298,358.890102,1165.170698
+2020,California Chaparral and Oak Woodlands,,Fire,562.0041,Normal,Iteration and Timestep,393.7693369,168.2347631,955.7734369
+2021,California Chaparral and Oak Woodlands,,Fire,727.8541,Normal,Iteration and Timestep,471.0030451,256.8510549,1198.857145
+2022,California Chaparral and Oak Woodlands,,Fire,764.3533,Normal,Iteration and Timestep,413.8587183,350.4945817,1178.212018
+2023,California Chaparral and Oak Woodlands,,Fire,684.0253,Normal,Iteration and Timestep,358.3380591,325.6872409,1042.363359
+2024,California Chaparral and Oak Woodlands,,Fire,675.8784,Normal,Iteration and Timestep,369.8817604,305.9966396,1045.76016
+2025,California Chaparral and Oak Woodlands,,Fire,696.321,Normal,Iteration and Timestep,386.0873671,310.2336329,1082.408367
+2026,California Chaparral and Oak Woodlands,,Fire,620.3103,Normal,Iteration and Timestep,348.9991532,271.3111468,969.3094532
+2027,California Chaparral and Oak Woodlands,,Fire,709.1137,Normal,Iteration and Timestep,396.4038314,312.7098686,1105.517531
+2028,California Chaparral and Oak Woodlands,,Fire,773.0237,Normal,Iteration and Timestep,420.160101,352.863599,1193.183801
+2029,California Chaparral and Oak Woodlands,,Fire,782.0753,Normal,Iteration and Timestep,367.9611159,414.1141841,1150.036416
+2030,California Chaparral and Oak Woodlands,,Fire,512.8038,Normal,Iteration and Timestep,313.5666301,199.2371699,826.3704301
+2031,California Chaparral and Oak Woodlands,,Fire,678.1786,Normal,Iteration and Timestep,363.8651336,314.3134664,1042.043734
+2032,California Chaparral and Oak Woodlands,,Fire,658.9516,Normal,Iteration and Timestep,330.6735481,328.2780519,989.6251481
+2033,California Chaparral and Oak Woodlands,,Fire,760.5814,Normal,Iteration and Timestep,453.1452864,307.4361136,1213.726686
+2034,California Chaparral and Oak Woodlands,,Fire,623.2519,Normal,Iteration and Timestep,317.3621491,305.8897509,940.6140491
+2035,California Chaparral and Oak Woodlands,,Fire,691.4146,Normal,Iteration and Timestep,435.1827782,256.2318218,1126.597378
+2036,California Chaparral and Oak Woodlands,,Fire,668.4922,Normal,Iteration and Timestep,446.1621869,222.3300131,1114.654387
+2037,California Chaparral and Oak Woodlands,,Fire,645.0761,Normal,Iteration and Timestep,293.7024921,351.3736079,938.7785921
+2038,California Chaparral and Oak Woodlands,,Fire,566.3978,Normal,Iteration and Timestep,383.2218579,183.1759421,949.6196579
+2039,California Chaparral and Oak Woodlands,,Fire,692.79,Normal,Iteration and Timestep,436.5241244,256.2658756,1129.314124
+2040,California Chaparral and Oak Woodlands,,Fire,872.1864,Normal,Iteration and Timestep,491.6072107,380.5791893,1363.793611
+2041,California Chaparral and Oak Woodlands,,Fire,572.4044,Normal,Iteration and Timestep,339.862584,232.541816,912.266984
+2042,California Chaparral and Oak Woodlands,,Fire,654.9414,Normal,Iteration and Timestep,392.9987705,261.9426295,1047.940171
+2043,California Chaparral and Oak Woodlands,,Fire,727.9096,Normal,Iteration and Timestep,411.1058957,316.8037043,1139.015496
+2044,California Chaparral and Oak Woodlands,,Fire,639.7537,Normal,Iteration and Timestep,387.7845171,251.9691829,1027.538217
+2045,California Chaparral and Oak Woodlands,,Fire,633.2243,Normal,Iteration and Timestep,373.3597534,259.8645466,1006.584053
+2046,California Chaparral and Oak Woodlands,,Fire,579.8326,Normal,Iteration and Timestep,429.0424518,150.7901482,1008.875052
+2047,California Chaparral and Oak Woodlands,,Fire,839.7605,Normal,Iteration and Timestep,434.520354,405.240146,1274.280854
+2048,California Chaparral and Oak Woodlands,,Fire,818.6062,Normal,Iteration and Timestep,546.7338027,271.8723973,1365.340003
+2049,California Chaparral and Oak Woodlands,,Fire,637.1024,Normal,Iteration and Timestep,371.9334272,265.1689728,1009.035827
+2050,California Chaparral and Oak Woodlands,,Fire,712.9826,Normal,Iteration and Timestep,345.3291112,367.6534888,1058.311711
+2051,California Chaparral and Oak Woodlands,,Fire,538.3363,Normal,Iteration and Timestep,305.7055558,232.6307442,844.0418558
+2052,California Chaparral and Oak Woodlands,,Fire,1140.3708,Normal,Iteration and Timestep,582.9850619,557.3857381,1723.355862
+2053,California Chaparral and Oak Woodlands,,Fire,663.2751,Normal,Iteration and Timestep,330.5652197,332.7098803,993.8403197
+2054,California Chaparral and Oak Woodlands,,Fire,751.0619,Normal,Iteration and Timestep,427.2238063,323.8380937,1178.285706
+2055,California Chaparral and Oak Woodlands,,Fire,658.9842,Normal,Iteration and Timestep,354.7967742,304.1874258,1013.780974
+2056,California Chaparral and Oak Woodlands,,Fire,661.1129,Normal,Iteration and Timestep,356.2580255,304.8548745,1017.370926
+2057,California Chaparral and Oak Woodlands,,Fire,771.9797,Normal,Iteration and Timestep,423.2207514,348.7589486,1195.200451
+2058,California Chaparral and Oak Woodlands,,Fire,675.8263,Normal,Iteration and Timestep,390.6628735,285.1634265,1066.489174
+2059,California Chaparral and Oak Woodlands,,Fire,625.9313,Normal,Iteration and Timestep,349.1721078,276.7591922,975.1034078
+2060,California Chaparral and Oak Woodlands,,Fire,645.558,Normal,Iteration and Timestep,386.2970409,259.2609591,1031.855041
+2061,California Chaparral and Oak Woodlands,,Fire,642.2084,Normal,Iteration and Timestep,365.7050396,276.5033604,1007.91344
+2062,California Chaparral and Oak Woodlands,,Fire,868.7484,Normal,Iteration and Timestep,464.6154126,404.1329874,1333.363813
+2063,California Chaparral and Oak Woodlands,,Fire,447.9344,Normal,Iteration and Timestep,237.7429364,210.1914636,685.6773364
+2064,California Chaparral and Oak Woodlands,,Fire,678.0181,Normal,Iteration and Timestep,361.248182,316.769918,1039.266282
+2065,California Chaparral and Oak Woodlands,,Fire,691.841,Normal,Iteration and Timestep,355.592462,336.248538,1047.433462
+2066,California Chaparral and Oak Woodlands,,Fire,588.1447,Normal,Iteration and Timestep,304.6048737,283.5398263,892.7495737
+2067,California Chaparral and Oak Woodlands,,Fire,523.3336,Normal,Iteration and Timestep,315.6410051,207.6925949,838.9746051
+2068,California Chaparral and Oak Woodlands,,Fire,770.3527,Normal,Iteration and Timestep,288.4770955,481.8756045,1058.829796
+2069,California Chaparral and Oak Woodlands,,Fire,795.5923,Normal,Iteration and Timestep,448.2114446,347.3808554,1243.803745
+2070,California Chaparral and Oak Woodlands,,Fire,680.4381,Normal,Iteration and Timestep,421.0473218,259.3907782,1101.485422
+2071,California Chaparral and Oak Woodlands,,Fire,727.2026,Normal,Iteration and Timestep,322.9247585,404.2778415,1050.127359
+2072,California Chaparral and Oak Woodlands,,Fire,760.5693,Normal,Iteration and Timestep,367.9222823,392.6470177,1128.491582
+2073,California Chaparral and Oak Woodlands,,Fire,626.6319,Normal,Iteration and Timestep,289.6792423,336.9526577,916.3111423
+2074,California Chaparral and Oak Woodlands,,Fire,635.4114,Normal,Iteration and Timestep,285.2412957,350.1701043,920.6526957
+2075,California Chaparral and Oak Woodlands,,Fire,672.4331,Normal,Iteration and Timestep,358.6588649,313.7742351,1031.091965
+2076,California Chaparral and Oak Woodlands,,Fire,725.8302,Normal,Iteration and Timestep,353.4098313,372.4203687,1079.240031
+2077,California Chaparral and Oak Woodlands,,Fire,689.5905,Normal,Iteration and Timestep,403.6027562,285.9877438,1093.193256
+2078,California Chaparral and Oak Woodlands,,Fire,650.5378,Normal,Iteration and Timestep,384.3310683,266.2067317,1034.868868
+2079,California Chaparral and Oak Woodlands,,Fire,573.886,Normal,Iteration and Timestep,310.0756468,263.8103532,883.9616468
+2080,California Chaparral and Oak Woodlands,,Fire,736.9339,Normal,Iteration and Timestep,314.6302696,422.3036304,1051.56417
+2081,California Chaparral and Oak Woodlands,,Fire,529.2743,Normal,Iteration and Timestep,341.692617,187.581683,870.966917
+2082,California Chaparral and Oak Woodlands,,Fire,694.9669,Normal,Iteration and Timestep,424.3763022,270.5905978,1119.343202
+2083,California Chaparral and Oak Woodlands,,Fire,614.9726,Normal,Iteration and Timestep,329.557079,285.415521,944.529679
+2084,California Chaparral and Oak Woodlands,,Fire,645.046,Normal,Iteration and Timestep,284.4877821,360.5582179,929.5337821
+2085,California Chaparral and Oak Woodlands,,Fire,651.4311,Normal,Iteration and Timestep,350.5111197,300.9199803,1001.94222
+2086,California Chaparral and Oak Woodlands,,Fire,704.3119,Normal,Iteration and Timestep,346.8179013,357.4939987,1051.129801
+2087,California Chaparral and Oak Woodlands,,Fire,620.6387,Normal,Iteration and Timestep,361.3696881,259.2690119,982.0083881
+2088,California Chaparral and Oak Woodlands,,Fire,639.269,Normal,Iteration and Timestep,475.4869071,163.7820929,1114.755907
+2089,California Chaparral and Oak Woodlands,,Fire,755.2008,Normal,Iteration and Timestep,374.5082306,380.6925694,1129.709031
+2090,California Chaparral and Oak Woodlands,,Fire,587.6731,Normal,Iteration and Timestep,338.8764931,248.7966069,926.5495931
+2091,California Chaparral and Oak Woodlands,,Fire,516.6345,Normal,Iteration and Timestep,307.4326567,209.2018433,824.0671567
+2092,California Chaparral and Oak Woodlands,,Fire,702.3255,Normal,Iteration and Timestep,358.2210533,344.1044467,1060.546553
+2093,California Chaparral and Oak Woodlands,,Fire,683.3014,Normal,Iteration and Timestep,409.5774454,273.7239546,1092.878845
+2094,California Chaparral and Oak Woodlands,,Fire,868.1654,Normal,Iteration and Timestep,423.5322489,444.6331511,1291.697649
+2095,California Chaparral and Oak Woodlands,,Fire,498.5963,Normal,Iteration and Timestep,276.6799232,221.9163768,775.2762232
+2096,California Chaparral and Oak Woodlands,,Fire,737.2234,Normal,Iteration and Timestep,361.6404932,375.5829068,1098.863893
+2097,California Chaparral and Oak Woodlands,,Fire,539.2899,Normal,Iteration and Timestep,320.2947326,218.9951674,859.5846326
+2098,California Chaparral and Oak Woodlands,,Fire,747.1047,Normal,Iteration and Timestep,417.5114682,329.5932318,1164.616168
+2099,California Chaparral and Oak Woodlands,,Fire,548.8203,Normal,Iteration and Timestep,386.9085292,161.9117708,935.7288292
+2017,Cascades,,Fire,8.9824,Normal,Iteration and Timestep,43.10868072,0,52.09108072
+2018,Cascades,,Fire,7.4108,Normal,Iteration and Timestep,44.06738059,0,51.47818059
+2019,Cascades,,Fire,14.2847,Normal,Iteration and Timestep,52.281067,0,66.565767
+2020,Cascades,,Fire,3.3058,Normal,Iteration and Timestep,16.75227964,0,20.05807964
+2021,Cascades,,Fire,6.8241,Normal,Iteration and Timestep,20.4907305,0,27.3148305
+2022,Cascades,,Fire,22.653,Normal,Iteration and Timestep,99.28890352,0,121.9419035
+2023,Cascades,,Fire,11.7012,Normal,Iteration and Timestep,31.56551946,0,43.26671946
+2024,Cascades,,Fire,9.8238,Normal,Iteration and Timestep,55.15881284,0,64.98261284
+2025,Cascades,,Fire,21.2208,Normal,Iteration and Timestep,99.78935536,0,121.0101554
+2026,Cascades,,Fire,6.489,Normal,Iteration and Timestep,35.3072542,0,41.7962542
+2027,Cascades,,Fire,11.0146,Normal,Iteration and Timestep,73.55939655,0,84.57399655
+2028,Cascades,,Fire,8.931,Normal,Iteration and Timestep,34.91555841,0,43.84655841
+2029,Cascades,,Fire,11.8156,Normal,Iteration and Timestep,42.31435185,0,54.12995185
+2030,Cascades,,Fire,16.9319,Normal,Iteration and Timestep,85.41309527,0,102.3449953
+2031,Cascades,,Fire,16.6024,Normal,Iteration and Timestep,87.14100167,0,103.7434017
+2032,Cascades,,Fire,14.8854,Normal,Iteration and Timestep,68.87580577,0,83.76120577
+2033,Cascades,,Fire,6.2005,Normal,Iteration and Timestep,25.91386612,0,32.11436612
+2034,Cascades,,Fire,3.2295,Normal,Iteration and Timestep,14.24331148,0,17.47281148
+2035,Cascades,,Fire,12.982,Normal,Iteration and Timestep,59.11554679,0,72.09754679
+2036,Cascades,,Fire,5.0521,Normal,Iteration and Timestep,13.41184621,0,18.46394621
+2037,Cascades,,Fire,5.4519,Normal,Iteration and Timestep,27.28555205,0,32.73745205
+2038,Cascades,,Fire,13.7898,Normal,Iteration and Timestep,61.17311215,0,74.96291215
+2039,Cascades,,Fire,19.1824,Normal,Iteration and Timestep,58.23368984,0,77.41608984
+2040,Cascades,,Fire,21.8331,Normal,Iteration and Timestep,78.5794488,0,100.4125488
+2041,Cascades,,Fire,5.3472,Normal,Iteration and Timestep,18.12302052,0,23.47022052
+2042,Cascades,,Fire,13.7148,Normal,Iteration and Timestep,48.17512346,0,61.88992346
+2043,Cascades,,Fire,8.7161,Normal,Iteration and Timestep,30.98941689,0,39.70551689
+2044,Cascades,,Fire,4.8554,Normal,Iteration and Timestep,15.30798329,0,20.16338329
+2045,Cascades,,Fire,6.8214,Normal,Iteration and Timestep,17.2419707,0,24.0633707
+2046,Cascades,,Fire,1.0314,Normal,Iteration and Timestep,6.30444224,0,7.33584224
+2047,Cascades,,Fire,9.5602,Normal,Iteration and Timestep,55.53292093,0,65.09312093
+2048,Cascades,,Fire,21.4564,Normal,Iteration and Timestep,72.23128209,0,93.68768209
+2049,Cascades,,Fire,4.6257,Normal,Iteration and Timestep,25.43067357,0,30.05637357
+2050,Cascades,,Fire,30.0868,Normal,Iteration and Timestep,102.7615968,0,132.8483968
+2051,Cascades,,Fire,9.8227,Normal,Iteration and Timestep,36.46259417,0,46.28529417
+2052,Cascades,,Fire,16.1916,Normal,Iteration and Timestep,47.43369419,0,63.62529419
+2053,Cascades,,Fire,30.9822,Normal,Iteration and Timestep,109.3241405,0,140.3063405
+2054,Cascades,,Fire,46.0274,Normal,Iteration and Timestep,136.5137299,0,182.5411299
+2055,Cascades,,Fire,3.4042,Normal,Iteration and Timestep,14.7611546,0,18.1653546
+2056,Cascades,,Fire,16.935,Normal,Iteration and Timestep,64.3666921,0,81.3016921
+2057,Cascades,,Fire,12.9071,Normal,Iteration and Timestep,32.42559708,0,45.33269708
+2058,Cascades,,Fire,4.1513,Normal,Iteration and Timestep,15.76442714,0,19.91572714
+2059,Cascades,,Fire,3.7822,Normal,Iteration and Timestep,11.85402992,0,15.63622992
+2060,Cascades,,Fire,7.258,Normal,Iteration and Timestep,27.15259565,0,34.41059565
+2061,Cascades,,Fire,13.4881,Normal,Iteration and Timestep,61.12800125,0,74.61610125
+2062,Cascades,,Fire,45.0276,Normal,Iteration and Timestep,101.6586987,0,146.6862987
+2063,Cascades,,Fire,3.235,Normal,Iteration and Timestep,11.33724375,0,14.57224375
+2064,Cascades,,Fire,16.9294,Normal,Iteration and Timestep,48.97732936,0,65.90672936
+2065,Cascades,,Fire,20.8794,Normal,Iteration and Timestep,59.5130107,0,80.3924107
+2066,Cascades,,Fire,9.0262,Normal,Iteration and Timestep,36.25785685,0,45.28405685
+2067,Cascades,,Fire,8.1744,Normal,Iteration and Timestep,24.69205689,0,32.86645689
+2068,Cascades,,Fire,12.9954,Normal,Iteration and Timestep,33.59651438,0,46.59191438
+2069,Cascades,,Fire,4.8508,Normal,Iteration and Timestep,17.77311207,0,22.62391207
+2070,Cascades,,Fire,12.8162,Normal,Iteration and Timestep,43.2617497,0,56.0779497
+2071,Cascades,,Fire,37.6556,Normal,Iteration and Timestep,131.7128507,0,169.3684507
+2072,Cascades,,Fire,9.0375,Normal,Iteration and Timestep,39.11854032,0,48.15604032
+2073,Cascades,,Fire,12.8509,Normal,Iteration and Timestep,36.51294706,0,49.36384706
+2074,Cascades,,Fire,32.3745,Normal,Iteration and Timestep,59.64099848,0,92.01549848
+2075,Cascades,,Fire,9.3411,Normal,Iteration and Timestep,80.18153484,0,89.52263484
+2076,Cascades,,Fire,5.7222,Normal,Iteration and Timestep,20.4021141,0,26.1243141
+2077,Cascades,,Fire,6.4559,Normal,Iteration and Timestep,41.0480071,0,47.5039071
+2078,Cascades,,Fire,6.6741,Normal,Iteration and Timestep,25.80320973,0,32.47730973
+2079,Cascades,,Fire,10.714,Normal,Iteration and Timestep,40.20068475,0,50.91468475
+2080,Cascades,,Fire,3.7357,Normal,Iteration and Timestep,14.94681056,0,18.68251056
+2081,Cascades,,Fire,11.0199,Normal,Iteration and Timestep,59.12489102,0,70.14479102
+2082,Cascades,,Fire,18.7891,Normal,Iteration and Timestep,72.03523134,0,90.82433134
+2083,Cascades,,Fire,16.7296,Normal,Iteration and Timestep,83.85759886,0,100.5871989
+2084,Cascades,,Fire,10.8369,Normal,Iteration and Timestep,40.04571574,0,50.88261574
+2085,Cascades,,Fire,18.0715,Normal,Iteration and Timestep,90.30902274,0,108.3805227
+2086,Cascades,,Fire,21.2201,Normal,Iteration and Timestep,50.63392198,0,71.85402198
+2087,Cascades,,Fire,2.6968,Normal,Iteration and Timestep,11.29404964,0,13.99084964
+2088,Cascades,,Fire,4.0981,Normal,Iteration and Timestep,24.85931664,0,28.95741664
+2089,Cascades,,Fire,17.9982,Normal,Iteration and Timestep,82.47573599,0,100.473936
+2090,Cascades,,Fire,4.8925,Normal,Iteration and Timestep,15.87245453,0,20.76495453
+2091,Cascades,,Fire,14.0283,Normal,Iteration and Timestep,60.04940315,0,74.07770315
+2092,Cascades,,Fire,54.1777,Normal,Iteration and Timestep,123.8461532,0,178.0238532
+2093,Cascades,,Fire,10.2379,Normal,Iteration and Timestep,68.41477867,0,78.65267867
+2094,Cascades,,Fire,28.5182,Normal,Iteration and Timestep,66.7809509,0,95.2991509
+2095,Cascades,,Fire,16.1703,Normal,Iteration and Timestep,45.74330639,0,61.91360639
+2096,Cascades,,Fire,24.0883,Normal,Iteration and Timestep,85.47986108,0,109.5681611
+2097,Cascades,,Fire,7.381,Normal,Iteration and Timestep,26.61520738,0,33.99620738
+2098,Cascades,,Fire,29.3184,Normal,Iteration and Timestep,73.45004497,0,102.768445
+2099,Cascades,,Fire,31.4161,Normal,Iteration and Timestep,101.3243848,0,132.7404848
+2017,Central Basin and Range,,Fire,42.0295,Normal,Iteration and Timestep,112.0762734,0,154.1057734
+2018,Central Basin and Range,,Fire,48.3748,Normal,Iteration and Timestep,112.2383807,0,160.6131807
+2019,Central Basin and Range,,Fire,45.0964,Normal,Iteration and Timestep,105.599007,0,150.695407
+2020,Central Basin and Range,,Fire,26.8656,Normal,Iteration and Timestep,77.70483114,0,104.5704311
+2021,Central Basin and Range,,Fire,35.9111,Normal,Iteration and Timestep,108.4430651,0,144.3541651
+2022,Central Basin and Range,,Fire,54.5912,Normal,Iteration and Timestep,139.3810538,0,193.9722538
+2023,Central Basin and Range,,Fire,33.0248,Normal,Iteration and Timestep,88.82826681,0,121.8530668
+2024,Central Basin and Range,,Fire,33.912,Normal,Iteration and Timestep,63.09587009,0,97.00787009
+2025,Central Basin and Range,,Fire,43.4286,Normal,Iteration and Timestep,95.05253368,0,138.4811337
+2026,Central Basin and Range,,Fire,18.5246,Normal,Iteration and Timestep,34.67043349,0,53.19503349
+2027,Central Basin and Range,,Fire,24.5766,Normal,Iteration and Timestep,38.79405076,0,63.37065076
+2028,Central Basin and Range,,Fire,40.0839,Normal,Iteration and Timestep,79.87455908,0,119.9584591
+2029,Central Basin and Range,,Fire,48.619,Normal,Iteration and Timestep,119.5169708,0,168.1359708
+2030,Central Basin and Range,,Fire,39.848,Normal,Iteration and Timestep,121.3545451,0,161.2025451
+2031,Central Basin and Range,,Fire,34.1009,Normal,Iteration and Timestep,73.01594423,0,107.1168442
+2032,Central Basin and Range,,Fire,25.7604,Normal,Iteration and Timestep,50.29049043,0,76.05089043
+2033,Central Basin and Range,,Fire,24.9644,Normal,Iteration and Timestep,67.88794188,0,92.85234188
+2034,Central Basin and Range,,Fire,13.5963,Normal,Iteration and Timestep,24.30256871,0,37.89886871
+2035,Central Basin and Range,,Fire,28.4921,Normal,Iteration and Timestep,61.60377476,0,90.09587476
+2036,Central Basin and Range,,Fire,24.7965,Normal,Iteration and Timestep,48.81398432,0,73.61048432
+2037,Central Basin and Range,,Fire,85.7306,Normal,Iteration and Timestep,159.8120564,0,245.5426564
+2038,Central Basin and Range,,Fire,23.4088,Normal,Iteration and Timestep,42.87910643,0,66.28790643
+2039,Central Basin and Range,,Fire,25.4084,Normal,Iteration and Timestep,39.66396374,0,65.07236374
+2040,Central Basin and Range,,Fire,59.766,Normal,Iteration and Timestep,146.1469151,0,205.9129151
+2041,Central Basin and Range,,Fire,54.9321,Normal,Iteration and Timestep,101.7655619,0,156.6976619
+2042,Central Basin and Range,,Fire,64.8255,Normal,Iteration and Timestep,158.0621876,0,222.8876876
+2043,Central Basin and Range,,Fire,51.3343,Normal,Iteration and Timestep,120.9739392,0,172.3082392
+2044,Central Basin and Range,,Fire,28.8116,Normal,Iteration and Timestep,67.48044634,0,96.29204634
+2045,Central Basin and Range,,Fire,27.3118,Normal,Iteration and Timestep,52.98592425,0,80.29772425
+2046,Central Basin and Range,,Fire,31.3294,Normal,Iteration and Timestep,78.72319519,0,110.0525952
+2047,Central Basin and Range,,Fire,29.0952,Normal,Iteration and Timestep,70.21777904,0,99.31297904
+2048,Central Basin and Range,,Fire,32.299,Normal,Iteration and Timestep,57.58430132,0,89.88330132
+2049,Central Basin and Range,,Fire,34.1572,Normal,Iteration and Timestep,101.1159699,0,135.2731699
+2050,Central Basin and Range,,Fire,62.0062,Normal,Iteration and Timestep,156.1682074,0,218.1744074
+2051,Central Basin and Range,,Fire,37.1038,Normal,Iteration and Timestep,112.4288538,0,149.5326538
+2052,Central Basin and Range,,Fire,82.6027,Normal,Iteration and Timestep,178.6033051,0,261.2060051
+2053,Central Basin and Range,,Fire,39.1394,Normal,Iteration and Timestep,71.98772528,0,111.1271253
+2054,Central Basin and Range,,Fire,19.0681,Normal,Iteration and Timestep,32.51812115,0,51.58622115
+2055,Central Basin and Range,,Fire,20.8511,Normal,Iteration and Timestep,58.81386741,0,79.66496741
+2056,Central Basin and Range,,Fire,47.2417,Normal,Iteration and Timestep,105.1119226,0,152.3536226
+2057,Central Basin and Range,,Fire,96.7108,Normal,Iteration and Timestep,191.3062629,0,288.0170629
+2058,Central Basin and Range,,Fire,48.5181,Normal,Iteration and Timestep,142.5787772,0,191.0968772
+2059,Central Basin and Range,,Fire,25.8634,Normal,Iteration and Timestep,46.63926473,0,72.50266473
+2060,Central Basin and Range,,Fire,26.8149,Normal,Iteration and Timestep,49.52082887,0,76.33572887
+2061,Central Basin and Range,,Fire,49.139,Normal,Iteration and Timestep,119.9372973,0,169.0762973
+2062,Central Basin and Range,,Fire,69.2022,Normal,Iteration and Timestep,178.2900114,0,247.4922114
+2063,Central Basin and Range,,Fire,39.9216,Normal,Iteration and Timestep,141.0037485,0,180.9253485
+2064,Central Basin and Range,,Fire,29.1144,Normal,Iteration and Timestep,66.35562326,0,95.47002326
+2065,Central Basin and Range,,Fire,135.9747,Normal,Iteration and Timestep,258.4641608,0,394.4388608
+2066,Central Basin and Range,,Fire,43.5497,Normal,Iteration and Timestep,131.9787495,0,175.5284495
+2067,Central Basin and Range,,Fire,65.4979,Normal,Iteration and Timestep,144.8481875,0,210.3460875
+2068,Central Basin and Range,,Fire,76.7776,Normal,Iteration and Timestep,166.4892106,0,243.2668106
+2069,Central Basin and Range,,Fire,60.2387,Normal,Iteration and Timestep,134.0822256,0,194.3209256
+2070,Central Basin and Range,,Fire,16.8701,Normal,Iteration and Timestep,37.03240714,0,53.90250714
+2071,Central Basin and Range,,Fire,39.9116,Normal,Iteration and Timestep,126.1232187,0,166.0348187
+2072,Central Basin and Range,,Fire,26.481,Normal,Iteration and Timestep,51.10139073,0,77.58239073
+2073,Central Basin and Range,,Fire,25.3192,Normal,Iteration and Timestep,60.91634649,0,86.23554649
+2074,Central Basin and Range,,Fire,34.5416,Normal,Iteration and Timestep,61.88512205,0,96.42672205
+2075,Central Basin and Range,,Fire,33.9487,Normal,Iteration and Timestep,86.50069015,0,120.4493902
+2076,Central Basin and Range,,Fire,18.554,Normal,Iteration and Timestep,43.24225087,0,61.79625087
+2077,Central Basin and Range,,Fire,31.0524,Normal,Iteration and Timestep,77.03518696,0,108.087587
+2078,Central Basin and Range,,Fire,36.9748,Normal,Iteration and Timestep,88.98674277,0,125.9615428
+2079,Central Basin and Range,,Fire,31.8763,Normal,Iteration and Timestep,113.9290159,0,145.8053159
+2080,Central Basin and Range,,Fire,67.3005,Normal,Iteration and Timestep,179.3766637,0,246.6771637
+2081,Central Basin and Range,,Fire,24.8036,Normal,Iteration and Timestep,57.20636681,0,82.00996681
+2082,Central Basin and Range,,Fire,24.4815,Normal,Iteration and Timestep,48.4960406,0,72.9775406
+2083,Central Basin and Range,,Fire,63.053,Normal,Iteration and Timestep,142.7249275,0,205.7779275
+2084,Central Basin and Range,,Fire,39.6324,Normal,Iteration and Timestep,105.040873,0,144.673273
+2085,Central Basin and Range,,Fire,33.6087,Normal,Iteration and Timestep,72.97959377,0,106.5882938
+2086,Central Basin and Range,,Fire,53.1043,Normal,Iteration and Timestep,132.8624917,0,185.9667917
+2087,Central Basin and Range,,Fire,47.2361,Normal,Iteration and Timestep,113.5759802,0,160.8120802
+2088,Central Basin and Range,,Fire,23.4188,Normal,Iteration and Timestep,45.08180993,0,68.50060993
+2089,Central Basin and Range,,Fire,97.0798,Normal,Iteration and Timestep,190.8600688,0,287.9398688
+2090,Central Basin and Range,,Fire,37.1383,Normal,Iteration and Timestep,137.1147784,0,174.2530784
+2091,Central Basin and Range,,Fire,46.4967,Normal,Iteration and Timestep,83.32521144,0,129.8219114
+2092,Central Basin and Range,,Fire,63.4732,Normal,Iteration and Timestep,160.1781536,0,223.6513536
+2093,Central Basin and Range,,Fire,88.2178,Normal,Iteration and Timestep,214.4892442,0,302.7070442
+2094,Central Basin and Range,,Fire,94.7283,Normal,Iteration and Timestep,170.4469316,0,265.1752316
+2095,Central Basin and Range,,Fire,28.8906,Normal,Iteration and Timestep,98.878593,0,127.769193
+2096,Central Basin and Range,,Fire,45.1834,Normal,Iteration and Timestep,96.75963987,0,141.9430399
+2097,Central Basin and Range,,Fire,18.3627,Normal,Iteration and Timestep,33.03492574,0,51.39762574
+2098,Central Basin and Range,,Fire,38.3277,Normal,Iteration and Timestep,77.42936661,0,115.7570666
+2099,Central Basin and Range,,Fire,15.1389,Normal,Iteration and Timestep,21.73438164,0,36.87328164
+2017,Central California Valley,,Fire,76.738,Normal,Iteration and Timestep,67.60293878,9.13506122,144.3409388
+2018,Central California Valley,,Fire,98.8032,Normal,Iteration and Timestep,69.60347641,29.19972359,168.4066764
+2019,Central California Valley,,Fire,78.895,Normal,Iteration and Timestep,63.95657735,14.93842265,142.8515774
+2020,Central California Valley,,Fire,49.9687,Normal,Iteration and Timestep,52.82923214,0,102.7979321
+2021,Central California Valley,,Fire,61.0855,Normal,Iteration and Timestep,48.57020096,12.51529904,109.655701
+2022,Central California Valley,,Fire,53.2729,Normal,Iteration and Timestep,41.59653978,11.67636022,94.86943978
+2023,Central California Valley,,Fire,48.3169,Normal,Iteration and Timestep,49.67265153,0,97.98955153
+2024,Central California Valley,,Fire,55.0194,Normal,Iteration and Timestep,42.63238897,12.38701103,97.65178897
+2025,Central California Valley,,Fire,69.5316,Normal,Iteration and Timestep,59.04229627,10.48930373,128.5738963
+2026,Central California Valley,,Fire,63.4899,Normal,Iteration and Timestep,66.71087373,0,130.2007737
+2027,Central California Valley,,Fire,71.1906,Normal,Iteration and Timestep,48.34621322,22.84438678,119.5368132
+2028,Central California Valley,,Fire,61.4778,Normal,Iteration and Timestep,46.88000346,14.59779654,108.3578035
+2029,Central California Valley,,Fire,47.8586,Normal,Iteration and Timestep,56.91257453,0,104.7711745
+2030,Central California Valley,,Fire,44.0819,Normal,Iteration and Timestep,39.59896021,4.48293979,83.68086021
+2031,Central California Valley,,Fire,75.7894,Normal,Iteration and Timestep,69.29622353,6.49317647,145.0856235
+2032,Central California Valley,,Fire,62.5802,Normal,Iteration and Timestep,48.53369197,14.04650803,111.113892
+2033,Central California Valley,,Fire,66.2456,Normal,Iteration and Timestep,50.46397405,15.78162595,116.7095741
+2034,Central California Valley,,Fire,59.3532,Normal,Iteration and Timestep,59.66337079,0,119.0165708
+2035,Central California Valley,,Fire,69.723,Normal,Iteration and Timestep,61.89891567,7.82408433,131.6219157
+2036,Central California Valley,,Fire,76.2457,Normal,Iteration and Timestep,49.44935726,26.79634274,125.6950573
+2037,Central California Valley,,Fire,96.7676,Normal,Iteration and Timestep,73.03584559,23.73175441,169.8034456
+2038,Central California Valley,,Fire,74.5375,Normal,Iteration and Timestep,58.21158785,16.32591215,132.7490879
+2039,Central California Valley,,Fire,84.6829,Normal,Iteration and Timestep,56.04286086,28.64003914,140.7257609
+2040,Central California Valley,,Fire,63.6996,Normal,Iteration and Timestep,50.03724665,13.66235335,113.7368467
+2041,Central California Valley,,Fire,54.4066,Normal,Iteration and Timestep,59.93675081,0,114.3433508
+2042,Central California Valley,,Fire,52.8968,Normal,Iteration and Timestep,40.07836578,12.81843422,92.97516578
+2043,Central California Valley,,Fire,66.964,Normal,Iteration and Timestep,52.00625384,14.95774616,118.9702538
+2044,Central California Valley,,Fire,67.2408,Normal,Iteration and Timestep,53.64727276,13.59352724,120.8880728
+2045,Central California Valley,,Fire,77.9653,Normal,Iteration and Timestep,56.83959858,21.12570142,134.8048986
+2046,Central California Valley,,Fire,73.2065,Normal,Iteration and Timestep,56.82055323,16.38594677,130.0270532
+2047,Central California Valley,,Fire,66.1198,Normal,Iteration and Timestep,56.46749073,9.65230927,122.5872907
+2048,Central California Valley,,Fire,63.6388,Normal,Iteration and Timestep,57.02687287,6.61192713,120.6656729
+2049,Central California Valley,,Fire,60.3327,Normal,Iteration and Timestep,50.00705501,10.32564499,110.339755
+2050,Central California Valley,,Fire,63.2966,Normal,Iteration and Timestep,54.08853924,9.20806076,117.3851392
+2051,Central California Valley,,Fire,69.216,Normal,Iteration and Timestep,49.58971342,19.62628658,118.8057134
+2052,Central California Valley,,Fire,64.0843,Normal,Iteration and Timestep,57.12471591,6.95958409,121.2090159
+2053,Central California Valley,,Fire,54.2065,Normal,Iteration and Timestep,54.75185667,0,108.9583567
+2054,Central California Valley,,Fire,56.5514,Normal,Iteration and Timestep,49.13635039,7.41504961,105.6877504
+2055,Central California Valley,,Fire,64.8584,Normal,Iteration and Timestep,46.66460761,18.19379239,111.5230076
+2056,Central California Valley,,Fire,81.1753,Normal,Iteration and Timestep,56.37712018,24.79817982,137.5524202
+2057,Central California Valley,,Fire,72.575,Normal,Iteration and Timestep,65.6957141,6.8792859,138.2707141
+2058,Central California Valley,,Fire,50.197,Normal,Iteration and Timestep,45.63814592,4.55885408,95.83514592
+2059,Central California Valley,,Fire,73.5836,Normal,Iteration and Timestep,64.92945842,8.65414158,138.5130584
+2060,Central California Valley,,Fire,94.2447,Normal,Iteration and Timestep,63.52124737,30.72345263,157.7659474
+2061,Central California Valley,,Fire,65.9376,Normal,Iteration and Timestep,48.95004518,16.98755482,114.8876452
+2062,Central California Valley,,Fire,53.6754,Normal,Iteration and Timestep,41.70191705,11.97348295,95.37731705
+2063,Central California Valley,,Fire,59.7438,Normal,Iteration and Timestep,45.01808146,14.72571854,104.7618815
+2064,Central California Valley,,Fire,76.6584,Normal,Iteration and Timestep,56.71961189,19.93878811,133.3780119
+2065,Central California Valley,,Fire,46.7916,Normal,Iteration and Timestep,42.26572527,4.52587473,89.05732527
+2066,Central California Valley,,Fire,42.8772,Normal,Iteration and Timestep,37.1947433,5.6824567,80.0719433
+2067,Central California Valley,,Fire,50.5948,Normal,Iteration and Timestep,45.19727015,5.39752985,95.79207015
+2068,Central California Valley,,Fire,53.8643,Normal,Iteration and Timestep,47.82854674,6.03575326,101.6928467
+2069,Central California Valley,,Fire,59.8163,Normal,Iteration and Timestep,60.39976764,0,120.2160676
+2070,Central California Valley,,Fire,54.6377,Normal,Iteration and Timestep,46.38204801,8.25565199,101.019748
+2071,Central California Valley,,Fire,62.3502,Normal,Iteration and Timestep,50.65015913,11.70004087,113.0003591
+2072,Central California Valley,,Fire,45.5001,Normal,Iteration and Timestep,42.35405228,3.14604772,87.85415228
+2073,Central California Valley,,Fire,54.5322,Normal,Iteration and Timestep,47.0276887,7.5045113,101.5598887
+2074,Central California Valley,,Fire,64.0685,Normal,Iteration and Timestep,47.40499949,16.66350051,111.4734995
+2075,Central California Valley,,Fire,65.9857,Normal,Iteration and Timestep,54.37862606,11.60707394,120.3643261
+2076,Central California Valley,,Fire,47.1319,Normal,Iteration and Timestep,33.73188653,13.40001347,80.86378653
+2077,Central California Valley,,Fire,74.0742,Normal,Iteration and Timestep,51.57995283,22.49424717,125.6541528
+2078,Central California Valley,,Fire,59.9523,Normal,Iteration and Timestep,42.62339109,17.32890891,102.5756911
+2079,Central California Valley,,Fire,54.5498,Normal,Iteration and Timestep,36.55833777,17.99146223,91.10813777
+2080,Central California Valley,,Fire,65.1579,Normal,Iteration and Timestep,62.47574099,2.68215901,127.633641
+2081,Central California Valley,,Fire,57.354,Normal,Iteration and Timestep,42.30577385,15.04822615,99.65977385
+2082,Central California Valley,,Fire,54.555,Normal,Iteration and Timestep,42.47551726,12.07948274,97.03051726
+2083,Central California Valley,,Fire,46.6277,Normal,Iteration and Timestep,33.14747347,13.48022653,79.77517347
+2084,Central California Valley,,Fire,69.284,Normal,Iteration and Timestep,43.96822512,25.31577488,113.2522251
+2085,Central California Valley,,Fire,68.7561,Normal,Iteration and Timestep,61.1956263,7.5604737,129.9517263
+2086,Central California Valley,,Fire,52.234,Normal,Iteration and Timestep,42.55048538,9.68351462,94.78448538
+2087,Central California Valley,,Fire,50.5796,Normal,Iteration and Timestep,39.63318329,10.94641671,90.21278329
+2088,Central California Valley,,Fire,57.0376,Normal,Iteration and Timestep,39.96601491,17.07158509,97.00361491
+2089,Central California Valley,,Fire,64.4005,Normal,Iteration and Timestep,60.40268267,3.99781733,124.8031827
+2090,Central California Valley,,Fire,43.9754,Normal,Iteration and Timestep,38.21806515,5.75733485,82.19346515
+2091,Central California Valley,,Fire,54.1109,Normal,Iteration and Timestep,36.47378912,17.63711088,90.58468912
+2092,Central California Valley,,Fire,67.4373,Normal,Iteration and Timestep,51.92053267,15.51676733,119.3578327
+2093,Central California Valley,,Fire,59.7259,Normal,Iteration and Timestep,56.75988719,2.96601281,116.4857872
+2094,Central California Valley,,Fire,59.3083,Normal,Iteration and Timestep,43.98123096,15.32706904,103.289531
+2095,Central California Valley,,Fire,48.0868,Normal,Iteration and Timestep,36.55650802,11.53029198,84.64330802
+2096,Central California Valley,,Fire,64.0803,Normal,Iteration and Timestep,45.41874837,18.66155163,109.4990484
+2097,Central California Valley,,Fire,59.6609,Normal,Iteration and Timestep,42.57563552,17.08526448,102.2365355
+2098,Central California Valley,,Fire,55.7989,Normal,Iteration and Timestep,46.8072418,8.9916582,102.6061418
+2099,Central California Valley,,Fire,65.0158,Normal,Iteration and Timestep,44.80089416,20.21490584,109.8166942
+2017,Coast Range,,Fire,53.6845,Normal,Iteration and Timestep,169.9495064,0,223.6340064
+2018,Coast Range,,Fire,19.3676,Normal,Iteration and Timestep,68.50496548,0,87.87256548
+2019,Coast Range,,Fire,73.7046,Normal,Iteration and Timestep,153.1930781,0,226.8976781
+2020,Coast Range,,Fire,13.363,Normal,Iteration and Timestep,43.05570858,0,56.41870858
+2021,Coast Range,,Fire,36.1558,Normal,Iteration and Timestep,117.4854292,0,153.6412292
+2022,Coast Range,,Fire,34.1676,Normal,Iteration and Timestep,85.18127809,0,119.3488781
+2023,Coast Range,,Fire,67.9182,Normal,Iteration and Timestep,111.3670103,0,179.2852103
+2024,Coast Range,,Fire,34.8122,Normal,Iteration and Timestep,51.53444267,0,86.34664267
+2025,Coast Range,,Fire,44.8292,Normal,Iteration and Timestep,89.78061438,0,134.6098144
+2026,Coast Range,,Fire,10.6825,Normal,Iteration and Timestep,32.48865199,0,43.17115199
+2027,Coast Range,,Fire,93.3511,Normal,Iteration and Timestep,155.3953841,0,248.7464841
+2028,Coast Range,,Fire,36.5447,Normal,Iteration and Timestep,135.4073893,0,171.9520893
+2029,Coast Range,,Fire,41.9222,Normal,Iteration and Timestep,102.8372177,0,144.7594177
+2030,Coast Range,,Fire,27.2906,Normal,Iteration and Timestep,58.44952552,0,85.74012552
+2031,Coast Range,,Fire,26.8133,Normal,Iteration and Timestep,61.25844239,0,88.07174239
+2032,Coast Range,,Fire,50.4372,Normal,Iteration and Timestep,110.9363872,0,161.3735872
+2033,Coast Range,,Fire,33.4242,Normal,Iteration and Timestep,65.73504587,0,99.15924587
+2034,Coast Range,,Fire,11.9673,Normal,Iteration and Timestep,30.78377498,0,42.75107498
+2035,Coast Range,,Fire,14.6974,Normal,Iteration and Timestep,35.80158364,0,50.49898364
+2036,Coast Range,,Fire,32.7512,Normal,Iteration and Timestep,85.27505023,0,118.0262502
+2037,Coast Range,,Fire,25.3977,Normal,Iteration and Timestep,88.60243628,0,114.0001363
+2038,Coast Range,,Fire,20.5336,Normal,Iteration and Timestep,47.58773706,0,68.12133706
+2039,Coast Range,,Fire,111.193,Normal,Iteration and Timestep,225.8851742,0,337.0781742
+2040,Coast Range,,Fire,68.9801,Normal,Iteration and Timestep,130.6218848,0,199.6019848
+2041,Coast Range,,Fire,27.6638,Normal,Iteration and Timestep,67.27183912,0,94.93563912
+2042,Coast Range,,Fire,45.673,Normal,Iteration and Timestep,128.982157,0,174.655157
+2043,Coast Range,,Fire,54.4832,Normal,Iteration and Timestep,93.14573566,0,147.6289357
+2044,Coast Range,,Fire,22.2029,Normal,Iteration and Timestep,51.69536486,0,73.89826486
+2045,Coast Range,,Fire,28.9289,Normal,Iteration and Timestep,101.380031,0,130.308931
+2046,Coast Range,,Fire,28.8651,Normal,Iteration and Timestep,128.5543552,0,157.4194552
+2047,Coast Range,,Fire,59.7899,Normal,Iteration and Timestep,134.9403243,0,194.7302243
+2048,Coast Range,,Fire,61.8591,Normal,Iteration and Timestep,125.061422,0,186.920522
+2049,Coast Range,,Fire,32.6777,Normal,Iteration and Timestep,77.35842791,0,110.0361279
+2050,Coast Range,,Fire,204.725,Normal,Iteration and Timestep,279.3379729,0,484.0629729
+2051,Coast Range,,Fire,37.9127,Normal,Iteration and Timestep,94.17064739,0,132.0833474
+2052,Coast Range,,Fire,41.1566,Normal,Iteration and Timestep,102.5910259,0,143.7476259
+2053,Coast Range,,Fire,56.1813,Normal,Iteration and Timestep,164.8992222,0,221.0805222
+2054,Coast Range,,Fire,155.69,Normal,Iteration and Timestep,209.3728693,0,365.0628693
+2055,Coast Range,,Fire,34.9678,Normal,Iteration and Timestep,134.1350377,0,169.1028377
+2056,Coast Range,,Fire,42.9682,Normal,Iteration and Timestep,116.2956952,0,159.2638952
+2057,Coast Range,,Fire,79.4119,Normal,Iteration and Timestep,170.7520102,0,250.1639102
+2058,Coast Range,,Fire,85.7849,Normal,Iteration and Timestep,178.5512592,0,264.3361592
+2059,Coast Range,,Fire,36.4723,Normal,Iteration and Timestep,86.9239977,0,123.3962977
+2060,Coast Range,,Fire,30.8911,Normal,Iteration and Timestep,73.49598947,0,104.3870895
+2061,Coast Range,,Fire,49.9274,Normal,Iteration and Timestep,132.1551116,0,182.0825116
+2062,Coast Range,,Fire,50.4861,Normal,Iteration and Timestep,102.2470043,0,152.7331043
+2063,Coast Range,,Fire,34.3529,Normal,Iteration and Timestep,85.82312291,0,120.1760229
+2064,Coast Range,,Fire,62.9505,Normal,Iteration and Timestep,119.4458362,0,182.3963362
+2065,Coast Range,,Fire,29.458,Normal,Iteration and Timestep,64.3330388,0,93.7910388
+2066,Coast Range,,Fire,82.9916,Normal,Iteration and Timestep,148.6862609,0,231.6778609
+2067,Coast Range,,Fire,42.9679,Normal,Iteration and Timestep,100.3295914,0,143.2974914
+2068,Coast Range,,Fire,76.2647,Normal,Iteration and Timestep,114.8197832,0,191.0844832
+2069,Coast Range,,Fire,44.0331,Normal,Iteration and Timestep,81.59239574,0,125.6254957
+2070,Coast Range,,Fire,100.6047,Normal,Iteration and Timestep,182.8443248,0,283.4490248
+2071,Coast Range,,Fire,105.1508,Normal,Iteration and Timestep,155.5190847,0,260.6698847
+2072,Coast Range,,Fire,70.4931,Normal,Iteration and Timestep,153.4668437,0,223.9599437
+2073,Coast Range,,Fire,78.262,Normal,Iteration and Timestep,141.3073388,0,219.5693388
+2074,Coast Range,,Fire,66.6121,Normal,Iteration and Timestep,110.0822703,0,176.6943703
+2075,Coast Range,,Fire,17.4414,Normal,Iteration and Timestep,36.67294525,0,54.11434525
+2076,Coast Range,,Fire,40.303,Normal,Iteration and Timestep,104.8647305,0,145.1677305
+2077,Coast Range,,Fire,44.9306,Normal,Iteration and Timestep,110.7327341,0,155.6633341
+2078,Coast Range,,Fire,34.0454,Normal,Iteration and Timestep,96.58803932,0,130.6334393
+2079,Coast Range,,Fire,39.8057,Normal,Iteration and Timestep,124.4297078,0,164.2354078
+2080,Coast Range,,Fire,35.2209,Normal,Iteration and Timestep,55.06054044,0,90.28144044
+2081,Coast Range,,Fire,40.9522,Normal,Iteration and Timestep,164.173881,0,205.126081
+2082,Coast Range,,Fire,79.1955,Normal,Iteration and Timestep,135.9408361,0,215.1363361
+2083,Coast Range,,Fire,41.8927,Normal,Iteration and Timestep,108.6315151,0,150.5242151
+2084,Coast Range,,Fire,35.6922,Normal,Iteration and Timestep,57.74357381,0,93.43577381
+2085,Coast Range,,Fire,54.3994,Normal,Iteration and Timestep,96.98312606,0,151.3825261
+2086,Coast Range,,Fire,56.9327,Normal,Iteration and Timestep,149.6693492,0,206.6020492
+2087,Coast Range,,Fire,27.9948,Normal,Iteration and Timestep,62.53103799,0,90.52583799
+2088,Coast Range,,Fire,44.9333,Normal,Iteration and Timestep,119.191648,0,164.124948
+2089,Coast Range,,Fire,28.7192,Normal,Iteration and Timestep,81.51952709,0,110.2387271
+2090,Coast Range,,Fire,39.9989,Normal,Iteration and Timestep,106.0691708,0,146.0680708
+2091,Coast Range,,Fire,30.9192,Normal,Iteration and Timestep,90.91736476,0,121.8365648
+2092,Coast Range,,Fire,127.4424,Normal,Iteration and Timestep,189.4373951,0,316.8797951
+2093,Coast Range,,Fire,52.5539,Normal,Iteration and Timestep,97.97952372,0,150.5334237
+2094,Coast Range,,Fire,96.2414,Normal,Iteration and Timestep,132.488595,0,228.729995
+2095,Coast Range,,Fire,78.6283,Normal,Iteration and Timestep,112.0970352,0,190.7253352
+2096,Coast Range,,Fire,86.6597,Normal,Iteration and Timestep,170.0969504,0,256.7566504
+2097,Coast Range,,Fire,20.3398,Normal,Iteration and Timestep,62.45628323,0,82.79608323
+2098,Coast Range,,Fire,152.8,Normal,Iteration and Timestep,188.0230322,0,340.8230322
+2099,Coast Range,,Fire,44.0305,Normal,Iteration and Timestep,124.7373747,0,168.7678747
+2017,Eastern Cascades Slopes and Foothills,,Fire,229.379,Normal,Iteration and Timestep,341.4697253,0,570.8487253
+2018,Eastern Cascades Slopes and Foothills,,Fire,146.0093,Normal,Iteration and Timestep,226.0488318,0,372.0581318
+2019,Eastern Cascades Slopes and Foothills,,Fire,233.7389,Normal,Iteration and Timestep,276.1869929,0,509.9258929
+2020,Eastern Cascades Slopes and Foothills,,Fire,123.5494,Normal,Iteration and Timestep,170.4154404,0,293.9648404
+2021,Eastern Cascades Slopes and Foothills,,Fire,123.1219,Normal,Iteration and Timestep,191.9706657,0,315.0925657
+2022,Eastern Cascades Slopes and Foothills,,Fire,126.9661,Normal,Iteration and Timestep,202.2067194,0,329.1728194
+2023,Eastern Cascades Slopes and Foothills,,Fire,249.572,Normal,Iteration and Timestep,334.4928004,0,584.0648004
+2024,Eastern Cascades Slopes and Foothills,,Fire,137.9963,Normal,Iteration and Timestep,181.9836388,0,319.9799388
+2025,Eastern Cascades Slopes and Foothills,,Fire,149.3955,Normal,Iteration and Timestep,231.7371083,0,381.1326083
+2026,Eastern Cascades Slopes and Foothills,,Fire,104.8361,Normal,Iteration and Timestep,177.4844179,0,282.3205179
+2027,Eastern Cascades Slopes and Foothills,,Fire,175.444,Normal,Iteration and Timestep,252.8594616,0,428.3034616
+2028,Eastern Cascades Slopes and Foothills,,Fire,124.8764,Normal,Iteration and Timestep,176.865545,0,301.741945
+2029,Eastern Cascades Slopes and Foothills,,Fire,225.7545,Normal,Iteration and Timestep,314.4701176,0,540.2246176
+2030,Eastern Cascades Slopes and Foothills,,Fire,115.2035,Normal,Iteration and Timestep,190.1978944,0,305.4013944
+2031,Eastern Cascades Slopes and Foothills,,Fire,202.7218,Normal,Iteration and Timestep,295.1533805,0,497.8751805
+2032,Eastern Cascades Slopes and Foothills,,Fire,160.3615,Normal,Iteration and Timestep,229.5183621,0,389.8798621
+2033,Eastern Cascades Slopes and Foothills,,Fire,172.6792,Normal,Iteration and Timestep,257.9117521,0,430.5909521
+2034,Eastern Cascades Slopes and Foothills,,Fire,140.3678,Normal,Iteration and Timestep,216.4893599,0,356.8571599
+2035,Eastern Cascades Slopes and Foothills,,Fire,109.6017,Normal,Iteration and Timestep,173.8291258,0,283.4308258
+2036,Eastern Cascades Slopes and Foothills,,Fire,193.1491,Normal,Iteration and Timestep,291.8870476,0,485.0361476
+2037,Eastern Cascades Slopes and Foothills,,Fire,97.4792,Normal,Iteration and Timestep,137.2273843,0,234.7065843
+2038,Eastern Cascades Slopes and Foothills,,Fire,144.133,Normal,Iteration and Timestep,245.321539,0,389.454539
+2039,Eastern Cascades Slopes and Foothills,,Fire,219.2014,Normal,Iteration and Timestep,266.3422668,0,485.5436668
+2040,Eastern Cascades Slopes and Foothills,,Fire,265.6626,Normal,Iteration and Timestep,337.9747441,0,603.6373441
+2041,Eastern Cascades Slopes and Foothills,,Fire,153.7326,Normal,Iteration and Timestep,202.0754656,0,355.8080656
+2042,Eastern Cascades Slopes and Foothills,,Fire,191.5175,Normal,Iteration and Timestep,251.3685521,0,442.8860521
+2043,Eastern Cascades Slopes and Foothills,,Fire,185.3831,Normal,Iteration and Timestep,246.08289,0,431.46599
+2044,Eastern Cascades Slopes and Foothills,,Fire,196.8071,Normal,Iteration and Timestep,271.0745347,0,467.8816347
+2045,Eastern Cascades Slopes and Foothills,,Fire,118.8813,Normal,Iteration and Timestep,185.2975511,0,304.1788511
+2046,Eastern Cascades Slopes and Foothills,,Fire,72.0471,Normal,Iteration and Timestep,141.9572995,0,214.0043995
+2047,Eastern Cascades Slopes and Foothills,,Fire,161.8214,Normal,Iteration and Timestep,227.6796817,0,389.5010817
+2048,Eastern Cascades Slopes and Foothills,,Fire,184.4749,Normal,Iteration and Timestep,233.1799855,0,417.6548855
+2049,Eastern Cascades Slopes and Foothills,,Fire,98.295,Normal,Iteration and Timestep,136.6649499,0,234.9599499
+2050,Eastern Cascades Slopes and Foothills,,Fire,235.6808,Normal,Iteration and Timestep,264.8630183,0,500.5438183
+2051,Eastern Cascades Slopes and Foothills,,Fire,205.0338,Normal,Iteration and Timestep,306.3458037,0,511.3796037
+2052,Eastern Cascades Slopes and Foothills,,Fire,213.33,Normal,Iteration and Timestep,295.7544717,0,509.0844717
+2053,Eastern Cascades Slopes and Foothills,,Fire,227.1353,Normal,Iteration and Timestep,262.2098421,0,489.3451421
+2054,Eastern Cascades Slopes and Foothills,,Fire,357.1137,Normal,Iteration and Timestep,413.5328395,0,770.6465395
+2055,Eastern Cascades Slopes and Foothills,,Fire,90.8807,Normal,Iteration and Timestep,132.9723638,0,223.8530638
+2056,Eastern Cascades Slopes and Foothills,,Fire,161.793,Normal,Iteration and Timestep,220.7826061,0,382.5756061
+2057,Eastern Cascades Slopes and Foothills,,Fire,274.0893,Normal,Iteration and Timestep,341.335555,0,615.424855
+2058,Eastern Cascades Slopes and Foothills,,Fire,136.3337,Normal,Iteration and Timestep,259.4678435,0,395.8015435
+2059,Eastern Cascades Slopes and Foothills,,Fire,103.22,Normal,Iteration and Timestep,166.7475344,0,269.9675344
+2060,Eastern Cascades Slopes and Foothills,,Fire,101.9301,Normal,Iteration and Timestep,176.3098869,0,278.2399869
+2061,Eastern Cascades Slopes and Foothills,,Fire,186.3369,Normal,Iteration and Timestep,252.185511,0,438.522411
+2062,Eastern Cascades Slopes and Foothills,,Fire,343.3302,Normal,Iteration and Timestep,358.8807384,0,702.2109384
+2063,Eastern Cascades Slopes and Foothills,,Fire,84.5029,Normal,Iteration and Timestep,119.2879523,0,203.7908523
+2064,Eastern Cascades Slopes and Foothills,,Fire,130.8758,Normal,Iteration and Timestep,192.2133153,0,323.0891153
+2065,Eastern Cascades Slopes and Foothills,,Fire,174.5431,Normal,Iteration and Timestep,261.7099672,0,436.2530672
+2066,Eastern Cascades Slopes and Foothills,,Fire,118.5766,Normal,Iteration and Timestep,168.1850124,0,286.7616124
+2067,Eastern Cascades Slopes and Foothills,,Fire,154.5105,Normal,Iteration and Timestep,226.5919792,0,381.1024792
+2068,Eastern Cascades Slopes and Foothills,,Fire,215.9421,Normal,Iteration and Timestep,289.0807557,0,505.0228557
+2069,Eastern Cascades Slopes and Foothills,,Fire,173.1961,Normal,Iteration and Timestep,220.5579977,0,393.7540977
+2070,Eastern Cascades Slopes and Foothills,,Fire,213.9202,Normal,Iteration and Timestep,276.4549547,0,490.3751547
+2071,Eastern Cascades Slopes and Foothills,,Fire,168.7131,Normal,Iteration and Timestep,221.4276513,0,390.1407513
+2072,Eastern Cascades Slopes and Foothills,,Fire,126.1509,Normal,Iteration and Timestep,157.8181266,0,283.9690266
+2073,Eastern Cascades Slopes and Foothills,,Fire,207.7167,Normal,Iteration and Timestep,258.1219603,0,465.8386603
+2074,Eastern Cascades Slopes and Foothills,,Fire,356.1281,Normal,Iteration and Timestep,397.2269433,0,753.3550433
+2075,Eastern Cascades Slopes and Foothills,,Fire,139.7539,Normal,Iteration and Timestep,223.1649642,0,362.9188642
+2076,Eastern Cascades Slopes and Foothills,,Fire,125.5246,Normal,Iteration and Timestep,175.2690016,0,300.7936016
+2077,Eastern Cascades Slopes and Foothills,,Fire,115.5743,Normal,Iteration and Timestep,188.9028429,0,304.4771429
+2078,Eastern Cascades Slopes and Foothills,,Fire,119.9028,Normal,Iteration and Timestep,200.2081613,0,320.1109613
+2079,Eastern Cascades Slopes and Foothills,,Fire,151.2806,Normal,Iteration and Timestep,236.6082045,0,387.8888045
+2080,Eastern Cascades Slopes and Foothills,,Fire,115.8918,Normal,Iteration and Timestep,167.2671209,0,283.1589209
+2081,Eastern Cascades Slopes and Foothills,,Fire,103.5515,Normal,Iteration and Timestep,164.1799233,0,267.7314233
+2082,Eastern Cascades Slopes and Foothills,,Fire,200.3776,Normal,Iteration and Timestep,290.5805909,0,490.9581909
+2083,Eastern Cascades Slopes and Foothills,,Fire,170.5279,Normal,Iteration and Timestep,187.6326349,0,358.1605349
+2084,Eastern Cascades Slopes and Foothills,,Fire,160.2261,Normal,Iteration and Timestep,175.4447777,0,335.6708777
+2085,Eastern Cascades Slopes and Foothills,,Fire,170.1418,Normal,Iteration and Timestep,247.3734947,0,417.5152947
+2086,Eastern Cascades Slopes and Foothills,,Fire,241.1548,Normal,Iteration and Timestep,284.7621322,0,525.9169322
+2087,Eastern Cascades Slopes and Foothills,,Fire,200.0072,Normal,Iteration and Timestep,272.1132348,0,472.1204348
+2088,Eastern Cascades Slopes and Foothills,,Fire,55.6673,Normal,Iteration and Timestep,69.79315604,0,125.460456
+2089,Eastern Cascades Slopes and Foothills,,Fire,144.7868,Normal,Iteration and Timestep,183.9182317,0,328.7050317
+2090,Eastern Cascades Slopes and Foothills,,Fire,89.3732,Normal,Iteration and Timestep,156.5430964,0,245.9162964
+2091,Eastern Cascades Slopes and Foothills,,Fire,189.556,Normal,Iteration and Timestep,274.2938278,0,463.8498278
+2092,Eastern Cascades Slopes and Foothills,,Fire,377.1916,Normal,Iteration and Timestep,393.1796941,0,770.3712941
+2093,Eastern Cascades Slopes and Foothills,,Fire,145.4012,Normal,Iteration and Timestep,223.4673313,0,368.8685313
+2094,Eastern Cascades Slopes and Foothills,,Fire,298.0417,Normal,Iteration and Timestep,365.7125208,0,663.7542208
+2095,Eastern Cascades Slopes and Foothills,,Fire,179.6303,Normal,Iteration and Timestep,251.5651296,0,431.1954296
+2096,Eastern Cascades Slopes and Foothills,,Fire,221.168,Normal,Iteration and Timestep,285.9586577,0,507.1266577
+2097,Eastern Cascades Slopes and Foothills,,Fire,77.2014,Normal,Iteration and Timestep,136.050917,0,213.252317
+2098,Eastern Cascades Slopes and Foothills,,Fire,259.5962,Normal,Iteration and Timestep,295.0355697,0,554.6317697
+2099,Eastern Cascades Slopes and Foothills,,Fire,222.4798,Normal,Iteration and Timestep,270.900162,0,493.379962
+2017,Klamath Mountains,,Fire,329.1509,Normal,Iteration and Timestep,366.7198017,0,695.8707017
+2018,Klamath Mountains,,Fire,140.7343,Normal,Iteration and Timestep,192.6213426,0,333.3556426
+2019,Klamath Mountains,,Fire,370.7231,Normal,Iteration and Timestep,436.3683463,0,807.0914463
+2020,Klamath Mountains,,Fire,226.0905,Normal,Iteration and Timestep,343.684697,0,569.775197
+2021,Klamath Mountains,,Fire,208.9891,Normal,Iteration and Timestep,268.4716221,0,477.4607221
+2022,Klamath Mountains,,Fire,255.2132,Normal,Iteration and Timestep,342.9421031,0,598.1553031
+2023,Klamath Mountains,,Fire,362.3596,Normal,Iteration and Timestep,378.5458445,0,740.9054445
+2024,Klamath Mountains,,Fire,235.1771,Normal,Iteration and Timestep,320.0183242,0,555.1954242
+2025,Klamath Mountains,,Fire,248.5851,Normal,Iteration and Timestep,279.1820128,0,527.7671128
+2026,Klamath Mountains,,Fire,73.6464,Normal,Iteration and Timestep,136.0587906,0,209.7051906
+2027,Klamath Mountains,,Fire,395.0116,Normal,Iteration and Timestep,461.5960811,0,856.6076811
+2028,Klamath Mountains,,Fire,275.2345,Normal,Iteration and Timestep,357.2687583,0,632.5032583
+2029,Klamath Mountains,,Fire,257.9366,Normal,Iteration and Timestep,335.9985238,0,593.9351238
+2030,Klamath Mountains,,Fire,200.3733,Normal,Iteration and Timestep,263.2100301,0,463.5833301
+2031,Klamath Mountains,,Fire,172.3212,Normal,Iteration and Timestep,220.5375648,0,392.8587648
+2032,Klamath Mountains,,Fire,292.0566,Normal,Iteration and Timestep,321.4949764,0,613.5515764
+2033,Klamath Mountains,,Fire,276.1335,Normal,Iteration and Timestep,324.774594,0,600.908094
+2034,Klamath Mountains,,Fire,152.2107,Normal,Iteration and Timestep,167.7248624,0,319.9355624
+2035,Klamath Mountains,,Fire,199.2237,Normal,Iteration and Timestep,229.8616654,0,429.0853654
+2036,Klamath Mountains,,Fire,356.6595,Normal,Iteration and Timestep,440.1066717,0,796.7661717
+2037,Klamath Mountains,,Fire,163.2821,Normal,Iteration and Timestep,266.5277634,0,429.8098634
+2038,Klamath Mountains,,Fire,261.4626,Normal,Iteration and Timestep,351.3615715,0,612.8241715
+2039,Klamath Mountains,,Fire,458.9266,Normal,Iteration and Timestep,492.1455345,0,951.0721345
+2040,Klamath Mountains,,Fire,392.6612,Normal,Iteration and Timestep,415.6609958,0,808.3221958
+2041,Klamath Mountains,,Fire,267.4508,Normal,Iteration and Timestep,329.6691631,0,597.1199631
+2042,Klamath Mountains,,Fire,428.0141,Normal,Iteration and Timestep,457.4455925,0,885.4596925
+2043,Klamath Mountains,,Fire,336.7836,Normal,Iteration and Timestep,368.9448279,0,705.7284279
+2044,Klamath Mountains,,Fire,221.0937,Normal,Iteration and Timestep,286.2006672,0,507.2943672
+2045,Klamath Mountains,,Fire,211.4705,Normal,Iteration and Timestep,273.2459559,0,484.7164559
+2046,Klamath Mountains,,Fire,203.6427,Normal,Iteration and Timestep,320.5194821,0,524.1621821
+2047,Klamath Mountains,,Fire,291.1869,Normal,Iteration and Timestep,333.8658564,0,625.0527564
+2048,Klamath Mountains,,Fire,354.2861,Normal,Iteration and Timestep,359.007337,0,713.293437
+2049,Klamath Mountains,,Fire,162.5695,Normal,Iteration and Timestep,242.2685064,0,404.8380064
+2050,Klamath Mountains,,Fire,700.417,Normal,Iteration and Timestep,534.4986588,165.9183412,1234.915659
+2051,Klamath Mountains,,Fire,354.1759,Normal,Iteration and Timestep,416.2365324,0,770.4124324
+2052,Klamath Mountains,,Fire,378.7945,Normal,Iteration and Timestep,365.2103206,13.5841794,744.0048206
+2053,Klamath Mountains,,Fire,313.9988,Normal,Iteration and Timestep,355.4867144,0,669.4855144
+2054,Klamath Mountains,,Fire,676.1831,Normal,Iteration and Timestep,612.991067,63.192033,1289.174167
+2055,Klamath Mountains,,Fire,152.123,Normal,Iteration and Timestep,196.0789678,0,348.2019678
+2056,Klamath Mountains,,Fire,300.7532,Normal,Iteration and Timestep,319.4143393,0,620.1675393
+2057,Klamath Mountains,,Fire,332.6374,Normal,Iteration and Timestep,306.4319675,26.2054325,639.0693675
+2058,Klamath Mountains,,Fire,333.0118,Normal,Iteration and Timestep,399.7758092,0,732.7876092
+2059,Klamath Mountains,,Fire,196.6932,Normal,Iteration and Timestep,242.4041817,0,439.0973817
+2060,Klamath Mountains,,Fire,356.904,Normal,Iteration and Timestep,421.8416654,0,778.7456654
+2061,Klamath Mountains,,Fire,282.5706,Normal,Iteration and Timestep,317.2559731,0,599.8265731
+2062,Klamath Mountains,,Fire,749.4652,Normal,Iteration and Timestep,605.7878829,143.6773171,1355.253083
+2063,Klamath Mountains,,Fire,213.6566,Normal,Iteration and Timestep,260.7304167,0,474.3870167
+2064,Klamath Mountains,,Fire,300.9891,Normal,Iteration and Timestep,314.151589,0,615.140689
+2065,Klamath Mountains,,Fire,353.7799,Normal,Iteration and Timestep,391.0557826,0,744.8356826
+2066,Klamath Mountains,,Fire,401.4998,Normal,Iteration and Timestep,498.0899527,0,899.5897527
+2067,Klamath Mountains,,Fire,319.6751,Normal,Iteration and Timestep,366.5243219,0,686.1994219
+2068,Klamath Mountains,,Fire,443.1776,Normal,Iteration and Timestep,497.077913,0,940.255513
+2069,Klamath Mountains,,Fire,286.8719,Normal,Iteration and Timestep,377.7070051,0,664.5789051
+2070,Klamath Mountains,,Fire,421.29,Normal,Iteration and Timestep,409.0012238,12.2887762,830.2912238
+2071,Klamath Mountains,,Fire,424.6825,Normal,Iteration and Timestep,408.0605472,16.6219528,832.7430472
+2072,Klamath Mountains,,Fire,307.2227,Normal,Iteration and Timestep,407.4813612,0,714.7040612
+2073,Klamath Mountains,,Fire,360.2336,Normal,Iteration and Timestep,353.5108994,6.7227006,713.7444994
+2074,Klamath Mountains,,Fire,523.003,Normal,Iteration and Timestep,499.4763225,23.5266775,1022.479323
+2075,Klamath Mountains,,Fire,198.4535,Normal,Iteration and Timestep,238.464302,0,436.917802
+2076,Klamath Mountains,,Fire,231.4603,Normal,Iteration and Timestep,250.1824208,0,481.6427208
+2077,Klamath Mountains,,Fire,230.2175,Normal,Iteration and Timestep,288.3772075,0,518.5947075
+2078,Klamath Mountains,,Fire,219.1332,Normal,Iteration and Timestep,309.6523849,0,528.7855849
+2079,Klamath Mountains,,Fire,306.9109,Normal,Iteration and Timestep,302.7843728,4.1265272,609.6952728
+2080,Klamath Mountains,,Fire,231.2618,Normal,Iteration and Timestep,287.1347346,0,518.3965346
+2081,Klamath Mountains,,Fire,205.9713,Normal,Iteration and Timestep,254.5286341,0,460.4999341
+2082,Klamath Mountains,,Fire,420.3639,Normal,Iteration and Timestep,419.6260997,0.7378003,839.9899997
+2083,Klamath Mountains,,Fire,256.5355,Normal,Iteration and Timestep,308.5972896,0,565.1327896
+2084,Klamath Mountains,,Fire,310.9079,Normal,Iteration and Timestep,297.7036935,13.2042065,608.6115935
+2085,Klamath Mountains,,Fire,274.9895,Normal,Iteration and Timestep,302.1727292,0,577.1622292
+2086,Klamath Mountains,,Fire,568.065,Normal,Iteration and Timestep,491.3891188,76.6758812,1059.454119
+2087,Klamath Mountains,,Fire,290.7114,Normal,Iteration and Timestep,364.9595402,0,655.6709402
+2088,Klamath Mountains,,Fire,197.6921,Normal,Iteration and Timestep,267.987889,0,465.679989
+2089,Klamath Mountains,,Fire,284.4349,Normal,Iteration and Timestep,335.404161,0,619.839061
+2090,Klamath Mountains,,Fire,230.9211,Normal,Iteration and Timestep,265.0358905,0,495.9569905
+2091,Klamath Mountains,,Fire,376.3443,Normal,Iteration and Timestep,416.8813659,0,793.2256659
+2092,Klamath Mountains,,Fire,654.0465,Normal,Iteration and Timestep,590.1397963,63.9067037,1244.186296
+2093,Klamath Mountains,,Fire,329.4236,Normal,Iteration and Timestep,439.6254039,0,769.0490039
+2094,Klamath Mountains,,Fire,408.9798,Normal,Iteration and Timestep,466.045889,0,875.025689
+2095,Klamath Mountains,,Fire,389.7556,Normal,Iteration and Timestep,385.5242428,4.2313572,775.2798428
+2096,Klamath Mountains,,Fire,372.6599,Normal,Iteration and Timestep,404.469567,0,777.129467
+2097,Klamath Mountains,,Fire,181.6701,Normal,Iteration and Timestep,239.6851285,0,421.3552285
+2098,Klamath Mountains,,Fire,767.438,Normal,Iteration and Timestep,575.4443389,191.9936611,1342.882339
+2099,Klamath Mountains,,Fire,333.1767,Normal,Iteration and Timestep,350.4298472,0,683.6065472
+2017,Mojave Basin and Range,,Fire,83.1844,Normal,Iteration and Timestep,76.337133,6.847267,159.521533
+2018,Mojave Basin and Range,,Fire,106.3555,Normal,Iteration and Timestep,114.6599746,0,221.0154746
+2019,Mojave Basin and Range,,Fire,69.0907,Normal,Iteration and Timestep,93.71400202,0,162.804702
+2020,Mojave Basin and Range,,Fire,61.4314,Normal,Iteration and Timestep,62.06063021,0,123.4920302
+2021,Mojave Basin and Range,,Fire,62.7995,Normal,Iteration and Timestep,70.06011367,0,132.8596137
+2022,Mojave Basin and Range,,Fire,44.9223,Normal,Iteration and Timestep,57.93610022,0,102.8584002
+2023,Mojave Basin and Range,,Fire,47.4142,Normal,Iteration and Timestep,61.25766728,0,108.6718673
+2024,Mojave Basin and Range,,Fire,64.8863,Normal,Iteration and Timestep,69.81294694,0,134.6992469
+2025,Mojave Basin and Range,,Fire,76.6352,Normal,Iteration and Timestep,63.78620153,12.84899847,140.4214015
+2026,Mojave Basin and Range,,Fire,46.0249,Normal,Iteration and Timestep,63.39816977,0,109.4230698
+2027,Mojave Basin and Range,,Fire,69.4824,Normal,Iteration and Timestep,64.25166927,5.23073073,133.7340693
+2028,Mojave Basin and Range,,Fire,70.4051,Normal,Iteration and Timestep,119.5346713,0,189.9397713
+2029,Mojave Basin and Range,,Fire,40.957,Normal,Iteration and Timestep,59.71226789,0,100.6692679
+2030,Mojave Basin and Range,,Fire,42.985,Normal,Iteration and Timestep,60.1120267,0,103.0970267
+2031,Mojave Basin and Range,,Fire,66.1606,Normal,Iteration and Timestep,79.74200684,0,145.9026068
+2032,Mojave Basin and Range,,Fire,82.5624,Normal,Iteration and Timestep,85.18266275,0,167.7450628
+2033,Mojave Basin and Range,,Fire,72.0379,Normal,Iteration and Timestep,87.20305699,0,159.240957
+2034,Mojave Basin and Range,,Fire,56.7066,Normal,Iteration and Timestep,87.81083541,0,144.5174354
+2035,Mojave Basin and Range,,Fire,83.8889,Normal,Iteration and Timestep,77.17362291,6.71527709,161.0625229
+2036,Mojave Basin and Range,,Fire,78.5065,Normal,Iteration and Timestep,73.48601469,5.02048531,151.9925147
+2037,Mojave Basin and Range,,Fire,91.633,Normal,Iteration and Timestep,75.79082195,15.84217805,167.423822
+2038,Mojave Basin and Range,,Fire,66.3649,Normal,Iteration and Timestep,75.6024813,0,141.9673813
+2039,Mojave Basin and Range,,Fire,74.0567,Normal,Iteration and Timestep,67.03782756,7.01887244,141.0945276
+2040,Mojave Basin and Range,,Fire,66.6253,Normal,Iteration and Timestep,119.9273051,0,186.5526051
+2041,Mojave Basin and Range,,Fire,61.3008,Normal,Iteration and Timestep,65.52262896,0,126.823429
+2042,Mojave Basin and Range,,Fire,69.5731,Normal,Iteration and Timestep,89.17747658,0,158.7505766
+2043,Mojave Basin and Range,,Fire,56.1666,Normal,Iteration and Timestep,62.74534552,0,118.9119455
+2044,Mojave Basin and Range,,Fire,108.892,Normal,Iteration and Timestep,113.2604989,0,222.1524989
+2045,Mojave Basin and Range,,Fire,90.8165,Normal,Iteration and Timestep,62.94098951,27.87551049,153.7574895
+2046,Mojave Basin and Range,,Fire,63.7671,Normal,Iteration and Timestep,69.29351876,0,133.0606188
+2047,Mojave Basin and Range,,Fire,49.4638,Normal,Iteration and Timestep,55.65509538,0,105.1188954
+2048,Mojave Basin and Range,,Fire,50.3371,Normal,Iteration and Timestep,64.91620067,0,115.2533007
+2049,Mojave Basin and Range,,Fire,61.8565,Normal,Iteration and Timestep,57.47555601,4.38094399,119.332056
+2050,Mojave Basin and Range,,Fire,76.2267,Normal,Iteration and Timestep,135.4770733,0,211.7037733
+2051,Mojave Basin and Range,,Fire,77.2637,Normal,Iteration and Timestep,51.6774676,25.5862324,128.9411676
+2052,Mojave Basin and Range,,Fire,46.2765,Normal,Iteration and Timestep,72.32619273,0,118.6026927
+2053,Mojave Basin and Range,,Fire,44.0173,Normal,Iteration and Timestep,54.94994468,0,98.96724468
+2054,Mojave Basin and Range,,Fire,62.5721,Normal,Iteration and Timestep,134.5422397,0,197.1143397
+2055,Mojave Basin and Range,,Fire,72.6963,Normal,Iteration and Timestep,61.30642682,11.38987318,134.0027268
+2056,Mojave Basin and Range,,Fire,79.036,Normal,Iteration and Timestep,69.90543071,9.13056929,148.9414307
+2057,Mojave Basin and Range,,Fire,54.8072,Normal,Iteration and Timestep,71.82024874,0,126.6274487
+2058,Mojave Basin and Range,,Fire,47.8152,Normal,Iteration and Timestep,67.14825911,0,114.9634591
+2059,Mojave Basin and Range,,Fire,54.6232,Normal,Iteration and Timestep,76.62532897,0,131.248529
+2060,Mojave Basin and Range,,Fire,85.791,Normal,Iteration and Timestep,74.83215481,10.95884519,160.6231548
+2061,Mojave Basin and Range,,Fire,105.8532,Normal,Iteration and Timestep,128.7843352,0,234.6375352
+2062,Mojave Basin and Range,,Fire,36.6545,Normal,Iteration and Timestep,43.37913457,0,80.03363457
+2063,Mojave Basin and Range,,Fire,63.1098,Normal,Iteration and Timestep,97.96260122,0,161.0724012
+2064,Mojave Basin and Range,,Fire,64.3097,Normal,Iteration and Timestep,67.94880853,0,132.2585085
+2065,Mojave Basin and Range,,Fire,49.7885,Normal,Iteration and Timestep,80.85797011,0,130.6464701
+2066,Mojave Basin and Range,,Fire,27.4906,Normal,Iteration and Timestep,30.23551437,0,57.72611437
+2067,Mojave Basin and Range,,Fire,65.0812,Normal,Iteration and Timestep,78.91019508,0,143.9913951
+2068,Mojave Basin and Range,,Fire,54.8292,Normal,Iteration and Timestep,121.4956198,0,176.3248198
+2069,Mojave Basin and Range,,Fire,35.6129,Normal,Iteration and Timestep,43.23727907,0,78.85017907
+2070,Mojave Basin and Range,,Fire,36.6613,Normal,Iteration and Timestep,39.35368969,0,76.01498969
+2071,Mojave Basin and Range,,Fire,39.1642,Normal,Iteration and Timestep,43.957475,0,83.121675
+2072,Mojave Basin and Range,,Fire,47.2342,Normal,Iteration and Timestep,52.91952904,0,100.153729
+2073,Mojave Basin and Range,,Fire,58.6573,Normal,Iteration and Timestep,45.90760457,12.74969543,104.5649046
+2074,Mojave Basin and Range,,Fire,134.2111,Normal,Iteration and Timestep,98.55387588,35.65722412,232.7649759
+2075,Mojave Basin and Range,,Fire,69.5577,Normal,Iteration and Timestep,56.47109522,13.08660478,126.0287952
+2076,Mojave Basin and Range,,Fire,39.8436,Normal,Iteration and Timestep,46.86632455,0,86.70992455
+2077,Mojave Basin and Range,,Fire,63.0726,Normal,Iteration and Timestep,64.33112704,0,127.403727
+2078,Mojave Basin and Range,,Fire,50.3501,Normal,Iteration and Timestep,75.99348587,0,126.3435859
+2079,Mojave Basin and Range,,Fire,51.2316,Normal,Iteration and Timestep,43.38656571,7.84503429,94.61816571
+2080,Mojave Basin and Range,,Fire,61.4831,Normal,Iteration and Timestep,135.9622177,0,197.4453177
+2081,Mojave Basin and Range,,Fire,45.65,Normal,Iteration and Timestep,53.65930919,0,99.30930919
+2082,Mojave Basin and Range,,Fire,53.7877,Normal,Iteration and Timestep,58.90231322,0,112.6900132
+2083,Mojave Basin and Range,,Fire,59.912,Normal,Iteration and Timestep,75.98964254,0,135.9016425
+2084,Mojave Basin and Range,,Fire,39.7902,Normal,Iteration and Timestep,37.32641164,2.46378836,77.11661164
+2085,Mojave Basin and Range,,Fire,58.1747,Normal,Iteration and Timestep,56.08885994,2.08584006,114.2635599
+2086,Mojave Basin and Range,,Fire,34.7347,Normal,Iteration and Timestep,39.96598616,0,74.70068616
+2087,Mojave Basin and Range,,Fire,66.6193,Normal,Iteration and Timestep,150.93365,0,217.55295
+2088,Mojave Basin and Range,,Fire,70.217,Normal,Iteration and Timestep,74.10603077,0,144.3230308
+2089,Mojave Basin and Range,,Fire,72.8796,Normal,Iteration and Timestep,146.4124868,0,219.2920868
+2090,Mojave Basin and Range,,Fire,47.1377,Normal,Iteration and Timestep,66.33324008,0,113.4709401
+2091,Mojave Basin and Range,,Fire,67.2986,Normal,Iteration and Timestep,62.29475205,5.00384795,129.5933521
+2092,Mojave Basin and Range,,Fire,56.0571,Normal,Iteration and Timestep,38.04342652,18.01367348,94.10052652
+2093,Mojave Basin and Range,,Fire,56.3734,Normal,Iteration and Timestep,68.2024402,0,124.5758402
+2094,Mojave Basin and Range,,Fire,42.5523,Normal,Iteration and Timestep,38.02924215,4.52305785,80.58154215
+2095,Mojave Basin and Range,,Fire,66.1376,Normal,Iteration and Timestep,73.84576235,0,139.9833624
+2096,Mojave Basin and Range,,Fire,57.03,Normal,Iteration and Timestep,45.67991942,11.35008058,102.7099194
+2097,Mojave Basin and Range,,Fire,61.6367,Normal,Iteration and Timestep,72.96403632,0,134.6007363
+2098,Mojave Basin and Range,,Fire,63.476,Normal,Iteration and Timestep,60.14675109,3.32924891,123.6227511
+2099,Mojave Basin and Range,,Fire,54.3099,Normal,Iteration and Timestep,77.99359076,0,132.3034908
+2017,Northern Basin and Range,,Fire,20.7815,Normal,Iteration and Timestep,34.42303587,0,55.20453587
+2018,Northern Basin and Range,,Fire,27.0405,Normal,Iteration and Timestep,68.16882186,0,95.20932186
+2019,Northern Basin and Range,,Fire,36.8004,Normal,Iteration and Timestep,98.84653509,0,135.6469351
+2020,Northern Basin and Range,,Fire,22.3043,Normal,Iteration and Timestep,39.4832136,0,61.7875136
+2021,Northern Basin and Range,,Fire,24.3051,Normal,Iteration and Timestep,70.06414805,0,94.36924805
+2022,Northern Basin and Range,,Fire,14.417,Normal,Iteration and Timestep,33.1600578,0,47.5770578
+2023,Northern Basin and Range,,Fire,29.0584,Normal,Iteration and Timestep,66.73283666,0,95.79123666
+2024,Northern Basin and Range,,Fire,41.2936,Normal,Iteration and Timestep,120.0761105,0,161.3697105
+2025,Northern Basin and Range,,Fire,33.6026,Normal,Iteration and Timestep,99.32605964,0,132.9286596
+2026,Northern Basin and Range,,Fire,36.4172,Normal,Iteration and Timestep,91.54576402,0,127.962964
+2027,Northern Basin and Range,,Fire,23.6795,Normal,Iteration and Timestep,44.17180387,0,67.85130387
+2028,Northern Basin and Range,,Fire,28.2286,Normal,Iteration and Timestep,66.61031743,0,94.83891743
+2029,Northern Basin and Range,,Fire,22.3702,Normal,Iteration and Timestep,53.77613353,0,76.14633353
+2030,Northern Basin and Range,,Fire,25.9916,Normal,Iteration and Timestep,59.49089359,0,85.48249359
+2031,Northern Basin and Range,,Fire,33.2897,Normal,Iteration and Timestep,52.6479515,0,85.9376515
+2032,Northern Basin and Range,,Fire,24.7395,Normal,Iteration and Timestep,59.75960066,0,84.49910066
+2033,Northern Basin and Range,,Fire,33.4436,Normal,Iteration and Timestep,69.58097237,0,103.0245724
+2034,Northern Basin and Range,,Fire,28.2112,Normal,Iteration and Timestep,78.0919306,0,106.3031306
+2035,Northern Basin and Range,,Fire,23.7482,Normal,Iteration and Timestep,50.95189039,0,74.70009039
+2036,Northern Basin and Range,,Fire,46.4974,Normal,Iteration and Timestep,153.7306647,0,200.2280647
+2037,Northern Basin and Range,,Fire,32.8976,Normal,Iteration and Timestep,52.25134744,0,85.14894744
+2038,Northern Basin and Range,,Fire,17.7776,Normal,Iteration and Timestep,39.93906293,0,57.71666293
+2039,Northern Basin and Range,,Fire,31.2133,Normal,Iteration and Timestep,57.91008164,0,89.12338164
+2040,Northern Basin and Range,,Fire,28.7083,Normal,Iteration and Timestep,64.43226381,0,93.14056381
+2041,Northern Basin and Range,,Fire,34.3335,Normal,Iteration and Timestep,79.58306815,0,113.9165682
+2042,Northern Basin and Range,,Fire,27.0902,Normal,Iteration and Timestep,57.68206071,0,84.77226071
+2043,Northern Basin and Range,,Fire,34.5233,Normal,Iteration and Timestep,90.29707191,0,124.8203719
+2044,Northern Basin and Range,,Fire,44.8825,Normal,Iteration and Timestep,115.5273411,0,160.4098411
+2045,Northern Basin and Range,,Fire,29.4274,Normal,Iteration and Timestep,92.04421366,0,121.4716137
+2046,Northern Basin and Range,,Fire,33.4439,Normal,Iteration and Timestep,128.9326796,0,162.3765796
+2047,Northern Basin and Range,,Fire,29.2867,Normal,Iteration and Timestep,69.95470311,0,99.24140311
+2048,Northern Basin and Range,,Fire,22.2743,Normal,Iteration and Timestep,44.39299238,0,66.66729238
+2049,Northern Basin and Range,,Fire,17.4626,Normal,Iteration and Timestep,80.98048458,0,98.44308458
+2050,Northern Basin and Range,,Fire,21.1685,Normal,Iteration and Timestep,50.67868997,0,71.84718997
+2051,Northern Basin and Range,,Fire,22.8911,Normal,Iteration and Timestep,64.09922592,0,86.99032592
+2052,Northern Basin and Range,,Fire,27.6573,Normal,Iteration and Timestep,61.65534661,0,89.31264661
+2053,Northern Basin and Range,,Fire,25.9802,Normal,Iteration and Timestep,48.49747229,0,74.47767229
+2054,Northern Basin and Range,,Fire,50.8828,Normal,Iteration and Timestep,118.0514792,0,168.9342792
+2055,Northern Basin and Range,,Fire,31.4314,Normal,Iteration and Timestep,104.7044089,0,136.1358089
+2056,Northern Basin and Range,,Fire,12.7355,Normal,Iteration and Timestep,26.73293559,0,39.46843559
+2057,Northern Basin and Range,,Fire,34.7808,Normal,Iteration and Timestep,60.77017368,0,95.55097368
+2058,Northern Basin and Range,,Fire,11.8468,Normal,Iteration and Timestep,20.8575036,0,32.7043036
+2059,Northern Basin and Range,,Fire,23.694,Normal,Iteration and Timestep,57.26831213,0,80.96231213
+2060,Northern Basin and Range,,Fire,25.8285,Normal,Iteration and Timestep,83.53082008,0,109.3593201
+2061,Northern Basin and Range,,Fire,50.7028,Normal,Iteration and Timestep,135.4989555,0,186.2017555
+2062,Northern Basin and Range,,Fire,32.4185,Normal,Iteration and Timestep,71.80489504,0,104.223395
+2063,Northern Basin and Range,,Fire,8.7267,Normal,Iteration and Timestep,18.74310917,0,27.46980917
+2064,Northern Basin and Range,,Fire,17.3597,Normal,Iteration and Timestep,39.08721947,0,56.44691947
+2065,Northern Basin and Range,,Fire,35.7362,Normal,Iteration and Timestep,77.14581875,0,112.8820188
+2066,Northern Basin and Range,,Fire,20.1264,Normal,Iteration and Timestep,40.35256397,0,60.47896397
+2067,Northern Basin and Range,,Fire,32.9041,Normal,Iteration and Timestep,132.9542545,0,165.8583545
+2068,Northern Basin and Range,,Fire,30.0777,Normal,Iteration and Timestep,59.55708722,0,89.63478722
+2069,Northern Basin and Range,,Fire,24.8887,Normal,Iteration and Timestep,53.01505878,0,77.90375878
+2070,Northern Basin and Range,,Fire,21.8718,Normal,Iteration and Timestep,52.65176257,0,74.52356257
+2071,Northern Basin and Range,,Fire,21.8192,Normal,Iteration and Timestep,49.07780273,0,70.89700273
+2072,Northern Basin and Range,,Fire,16.0064,Normal,Iteration and Timestep,37.40512868,0,53.41152868
+2073,Northern Basin and Range,,Fire,13.7573,Normal,Iteration and Timestep,31.22320067,0,44.98050067
+2074,Northern Basin and Range,,Fire,26.3638,Normal,Iteration and Timestep,50.09781079,0,76.46161079
+2075,Northern Basin and Range,,Fire,22.4233,Normal,Iteration and Timestep,45.29524579,0,67.71854579
+2076,Northern Basin and Range,,Fire,25.9836,Normal,Iteration and Timestep,100.0544849,0,126.0380849
+2077,Northern Basin and Range,,Fire,30.8393,Normal,Iteration and Timestep,106.8581262,0,137.6974262
+2078,Northern Basin and Range,,Fire,29.7856,Normal,Iteration and Timestep,68.32790014,0,98.11350014
+2079,Northern Basin and Range,,Fire,23.976,Normal,Iteration and Timestep,49.95008646,0,73.92608646
+2080,Northern Basin and Range,,Fire,30.0838,Normal,Iteration and Timestep,68.38540292,0,98.46920292
+2081,Northern Basin and Range,,Fire,19.6458,Normal,Iteration and Timestep,53.13212479,0,72.77792479
+2082,Northern Basin and Range,,Fire,37.4121,Normal,Iteration and Timestep,86.64371776,0,124.0558178
+2083,Northern Basin and Range,,Fire,35.5771,Normal,Iteration and Timestep,94.24793924,0,129.8250392
+2084,Northern Basin and Range,,Fire,29.4544,Normal,Iteration and Timestep,90.87757372,0,120.3319737
+2085,Northern Basin and Range,,Fire,23.3719,Normal,Iteration and Timestep,50.5785383,0,73.9504383
+2086,Northern Basin and Range,,Fire,14.3267,Normal,Iteration and Timestep,30.51478039,0,44.84148039
+2087,Northern Basin and Range,,Fire,27.4557,Normal,Iteration and Timestep,70.08331354,0,97.53901354
+2088,Northern Basin and Range,,Fire,9.5299,Normal,Iteration and Timestep,18.22092151,0,27.75082151
+2089,Northern Basin and Range,,Fire,21.3131,Normal,Iteration and Timestep,51.13324422,0,72.44634422
+2090,Northern Basin and Range,,Fire,9.6873,Normal,Iteration and Timestep,25.63077458,0,35.31807458
+2091,Northern Basin and Range,,Fire,22.6924,Normal,Iteration and Timestep,41.5808881,0,64.2732881
+2092,Northern Basin and Range,,Fire,25.7593,Normal,Iteration and Timestep,50.4626695,0,76.2219695
+2093,Northern Basin and Range,,Fire,28.3583,Normal,Iteration and Timestep,65.81748127,0,94.17578127
+2094,Northern Basin and Range,,Fire,28.771,Normal,Iteration and Timestep,114.2118295,0,142.9828295
+2095,Northern Basin and Range,,Fire,20.0428,Normal,Iteration and Timestep,44.82816176,0,64.87096176
+2096,Northern Basin and Range,,Fire,32.8384,Normal,Iteration and Timestep,89.58261922,0,122.4210192
+2097,Northern Basin and Range,,Fire,13.9411,Normal,Iteration and Timestep,42.95573143,0,56.89683143
+2098,Northern Basin and Range,,Fire,18.2719,Normal,Iteration and Timestep,32.23982557,0,50.51172557
+2099,Northern Basin and Range,,Fire,45.132,Normal,Iteration and Timestep,137.5497018,0,182.6817018
+2017,Sierra Nevada,,Fire,253.0064,Normal,Iteration and Timestep,213.1081018,39.8982982,466.1145018
+2018,Sierra Nevada,,Fire,232.7657,Normal,Iteration and Timestep,258.0690668,0,490.8347668
+2019,Sierra Nevada,,Fire,461.9813,Normal,Iteration and Timestep,470.1096003,0,932.0909003
+2020,Sierra Nevada,,Fire,192.8594,Normal,Iteration and Timestep,232.6824696,0,425.5418696
+2021,Sierra Nevada,,Fire,264.4013,Normal,Iteration and Timestep,239.542494,24.858806,503.943794
+2022,Sierra Nevada,,Fire,428.1834,Normal,Iteration and Timestep,391.0281433,37.1552567,819.2115433
+2023,Sierra Nevada,,Fire,443.3404,Normal,Iteration and Timestep,408.6357308,34.7046692,851.9761308
+2024,Sierra Nevada,,Fire,478.3027,Normal,Iteration and Timestep,462.4459286,15.8567714,940.7486286
+2025,Sierra Nevada,,Fire,366.4862,Normal,Iteration and Timestep,331.4242884,35.0619116,697.9104884
+2026,Sierra Nevada,,Fire,280.4987,Normal,Iteration and Timestep,299.5498006,0,580.0485006
+2027,Sierra Nevada,,Fire,537.4501,Normal,Iteration and Timestep,458.654404,78.795696,996.104504
+2028,Sierra Nevada,,Fire,354.4243,Normal,Iteration and Timestep,346.8545988,7.5697012,701.2788988
+2029,Sierra Nevada,,Fire,468.0253,Normal,Iteration and Timestep,503.9039186,0,971.9292186
+2030,Sierra Nevada,,Fire,229.7488,Normal,Iteration and Timestep,230.5975751,0,460.3463751
+2031,Sierra Nevada,,Fire,487.4928,Normal,Iteration and Timestep,545.326376,0,1032.819176
+2032,Sierra Nevada,,Fire,362.9786,Normal,Iteration and Timestep,305.872227,57.106373,668.850827
+2033,Sierra Nevada,,Fire,388.8862,Normal,Iteration and Timestep,329.1601932,59.7260068,718.0463932
+2034,Sierra Nevada,,Fire,203.1155,Normal,Iteration and Timestep,236.4839217,0,439.5994217
+2035,Sierra Nevada,,Fire,344.4073,Normal,Iteration and Timestep,296.3245528,48.0827472,640.7318528
+2036,Sierra Nevada,,Fire,330.0957,Normal,Iteration and Timestep,296.3630909,33.7326091,626.4587909
+2037,Sierra Nevada,,Fire,362.3029,Normal,Iteration and Timestep,352.669558,9.633342,714.972458
+2038,Sierra Nevada,,Fire,268.5996,Normal,Iteration and Timestep,221.1301554,47.4694446,489.7297554
+2039,Sierra Nevada,,Fire,393.165,Normal,Iteration and Timestep,292.9589176,100.2060824,686.1239176
+2040,Sierra Nevada,,Fire,539.3379,Normal,Iteration and Timestep,441.6853775,97.6525225,981.0232775
+2041,Sierra Nevada,,Fire,335.5605,Normal,Iteration and Timestep,354.7456017,0,690.3061017
+2042,Sierra Nevada,,Fire,469.648,Normal,Iteration and Timestep,389.3795355,80.2684645,859.0275355
+2043,Sierra Nevada,,Fire,564.4763,Normal,Iteration and Timestep,450.4922037,113.9840963,1014.968504
+2044,Sierra Nevada,,Fire,290.7992,Normal,Iteration and Timestep,313.2793291,0,604.0785291
+2045,Sierra Nevada,,Fire,309.3379,Normal,Iteration and Timestep,287.5483623,21.7895377,596.8862623
+2046,Sierra Nevada,,Fire,173.3616,Normal,Iteration and Timestep,171.8158141,1.5457859,345.1774141
+2047,Sierra Nevada,,Fire,415.6477,Normal,Iteration and Timestep,341.418721,74.228979,757.066421
+2048,Sierra Nevada,,Fire,489.8156,Normal,Iteration and Timestep,429.1359696,60.6796304,918.9515696
+2049,Sierra Nevada,,Fire,346.0053,Normal,Iteration and Timestep,335.0410361,10.9642639,681.0463361
+2050,Sierra Nevada,,Fire,611.1777,Normal,Iteration and Timestep,407.3805611,203.7971389,1018.558261
+2051,Sierra Nevada,,Fire,313.8498,Normal,Iteration and Timestep,313.2665095,0.5832905,627.1163095
+2052,Sierra Nevada,,Fire,558.6172,Normal,Iteration and Timestep,415.9307692,142.6864308,974.5479692
+2053,Sierra Nevada,,Fire,456.4796,Normal,Iteration and Timestep,473.6956181,0,930.1752181
+2054,Sierra Nevada,,Fire,698.2767,Normal,Iteration and Timestep,601.0472854,97.2294146,1299.323985
+2055,Sierra Nevada,,Fire,202.4143,Normal,Iteration and Timestep,195.6067887,6.8075113,398.0210887
+2056,Sierra Nevada,,Fire,408.3253,Normal,Iteration and Timestep,364.2603111,44.0649889,772.5856111
+2057,Sierra Nevada,,Fire,989.2175,Normal,Iteration and Timestep,690.2726601,298.9448399,1679.49016
+2058,Sierra Nevada,,Fire,393.5114,Normal,Iteration and Timestep,357.1692093,36.3421907,750.6806093
+2059,Sierra Nevada,,Fire,229.4482,Normal,Iteration and Timestep,248.8691713,0,478.3173713
+2060,Sierra Nevada,,Fire,180.3739,Normal,Iteration and Timestep,205.0457745,0,385.4196745
+2061,Sierra Nevada,,Fire,420.9494,Normal,Iteration and Timestep,403.4411908,17.5082092,824.3905908
+2062,Sierra Nevada,,Fire,979.8162,Normal,Iteration and Timestep,770.4122027,209.4039973,1750.228403
+2063,Sierra Nevada,,Fire,186.3545,Normal,Iteration and Timestep,235.3908161,0,421.7453161
+2064,Sierra Nevada,,Fire,204.8673,Normal,Iteration and Timestep,205.0206994,0,409.8879994
+2065,Sierra Nevada,,Fire,922.7289,Normal,Iteration and Timestep,765.9628082,156.7660918,1688.691708
+2066,Sierra Nevada,,Fire,259.4164,Normal,Iteration and Timestep,245.9412354,13.4751646,505.3576354
+2067,Sierra Nevada,,Fire,867.7347,Normal,Iteration and Timestep,660.7660914,206.9686086,1528.500791
+2068,Sierra Nevada,,Fire,985.8045,Normal,Iteration and Timestep,677.5079734,308.2965266,1663.312473
+2069,Sierra Nevada,,Fire,543.0888,Normal,Iteration and Timestep,460.6553655,82.4334345,1003.744166
+2070,Sierra Nevada,,Fire,468.5562,Normal,Iteration and Timestep,408.644981,59.911219,877.201181
+2071,Sierra Nevada,,Fire,363.2254,Normal,Iteration and Timestep,306.9573324,56.2680676,670.1827324
+2072,Sierra Nevada,,Fire,552.1984,Normal,Iteration and Timestep,436.7602855,115.4381145,988.9586855
+2073,Sierra Nevada,,Fire,691.707,Normal,Iteration and Timestep,533.7764611,157.9305389,1225.483461
+2074,Sierra Nevada,,Fire,891.7056,Normal,Iteration and Timestep,595.9308869,295.7747131,1487.636487
+2075,Sierra Nevada,,Fire,289.7193,Normal,Iteration and Timestep,250.2436513,39.4756487,539.9629513
+2076,Sierra Nevada,,Fire,297.5897,Normal,Iteration and Timestep,247.0025693,50.5871307,544.5922693
+2077,Sierra Nevada,,Fire,337.799,Normal,Iteration and Timestep,254.3087405,83.4902595,592.1077405
+2078,Sierra Nevada,,Fire,352.7102,Normal,Iteration and Timestep,305.8651896,46.8450104,658.5753896
+2079,Sierra Nevada,,Fire,445.7393,Normal,Iteration and Timestep,385.8955954,59.8437046,831.6348954
+2080,Sierra Nevada,,Fire,684.2215,Normal,Iteration and Timestep,568.0951077,116.1263923,1252.316608
+2081,Sierra Nevada,,Fire,181.4523,Normal,Iteration and Timestep,200.5561709,0,382.0084709
+2082,Sierra Nevada,,Fire,358.8241,Normal,Iteration and Timestep,358.8196509,0.0044491,717.6437509
+2083,Sierra Nevada,,Fire,630.2558,Normal,Iteration and Timestep,482.5900643,147.6657357,1112.845864
+2084,Sierra Nevada,,Fire,627.5568,Normal,Iteration and Timestep,384.3400861,243.2167139,1011.896886
+2085,Sierra Nevada,,Fire,383.9318,Normal,Iteration and Timestep,313.4856898,70.4461102,697.4174898
+2086,Sierra Nevada,,Fire,1118.1309,Normal,Iteration and Timestep,685.1032389,433.0276611,1803.234139
+2087,Sierra Nevada,,Fire,445.8232,Normal,Iteration and Timestep,345.9276418,99.8955582,791.7508418
+2088,Sierra Nevada,,Fire,269.39,Normal,Iteration and Timestep,230.9179262,38.4720738,500.3079262
+2089,Sierra Nevada,,Fire,476.6536,Normal,Iteration and Timestep,441.978627,34.674973,918.632227
+2090,Sierra Nevada,,Fire,240.4898,Normal,Iteration and Timestep,249.0412065,0,489.5310065
+2091,Sierra Nevada,,Fire,668.2667,Normal,Iteration and Timestep,558.6892403,109.5774597,1226.95594
+2092,Sierra Nevada,,Fire,683.2131,Normal,Iteration and Timestep,554.0069641,129.2061359,1237.220064
+2093,Sierra Nevada,,Fire,533.4455,Normal,Iteration and Timestep,452.3086185,81.1368815,985.7541185
+2094,Sierra Nevada,,Fire,1349.9099,Normal,Iteration and Timestep,941.7940258,408.1158742,2291.703926
+2095,Sierra Nevada,,Fire,580.3963,Normal,Iteration and Timestep,451.9845542,128.4117458,1032.380854
+2096,Sierra Nevada,,Fire,813.0148,Normal,Iteration and Timestep,678.616329,134.398471,1491.631129
+2097,Sierra Nevada,,Fire,158.8805,Normal,Iteration and Timestep,177.7123502,0,336.5928502
+2098,Sierra Nevada,,Fire,739.9328,Normal,Iteration and Timestep,525.4001057,214.5326943,1265.332906
+2099,Sierra Nevada,,Fire,478.2042,Normal,Iteration and Timestep,502.3243294,0,980.5285294
+2017,Sonoran Basin and Range,,Fire,15.5659,Normal,Iteration and Timestep,24.67874357,0,40.24464357
+2018,Sonoran Basin and Range,,Fire,24.3232,Normal,Iteration and Timestep,35.66662061,0,59.98982061
+2019,Sonoran Basin and Range,,Fire,11.4175,Normal,Iteration and Timestep,19.02506976,0,30.44256976
+2020,Sonoran Basin and Range,,Fire,13.6735,Normal,Iteration and Timestep,42.77674546,0,56.45024546
+2021,Sonoran Basin and Range,,Fire,13.8059,Normal,Iteration and Timestep,25.05266582,0,38.85856582
+2022,Sonoran Basin and Range,,Fire,12.7046,Normal,Iteration and Timestep,29.93553995,0,42.64013995
+2023,Sonoran Basin and Range,,Fire,10.1151,Normal,Iteration and Timestep,19.38839476,0,29.50349476
+2024,Sonoran Basin and Range,,Fire,23.2807,Normal,Iteration and Timestep,39.51702853,0,62.79772853
+2025,Sonoran Basin and Range,,Fire,22.7946,Normal,Iteration and Timestep,34.90968406,0,57.70428406
+2026,Sonoran Basin and Range,,Fire,10.1403,Normal,Iteration and Timestep,21.01302715,0,31.15332715
+2027,Sonoran Basin and Range,,Fire,14.5911,Normal,Iteration and Timestep,19.96646243,0,34.55756243
+2028,Sonoran Basin and Range,,Fire,16.3314,Normal,Iteration and Timestep,33.25701153,0,49.58841153
+2029,Sonoran Basin and Range,,Fire,9.3151,Normal,Iteration and Timestep,24.57704195,0,33.89214195
+2030,Sonoran Basin and Range,,Fire,7.7989,Normal,Iteration and Timestep,19.94841934,0,27.74731934
+2031,Sonoran Basin and Range,,Fire,10.0128,Normal,Iteration and Timestep,16.02033109,0,26.03313109
+2032,Sonoran Basin and Range,,Fire,48.1668,Normal,Iteration and Timestep,35.97318291,12.19361709,84.13998291
+2033,Sonoran Basin and Range,,Fire,18.5509,Normal,Iteration and Timestep,24.80224029,0,43.35314029
+2034,Sonoran Basin and Range,,Fire,7.137,Normal,Iteration and Timestep,14.82860793,0,21.96560793
+2035,Sonoran Basin and Range,,Fire,20.3228,Normal,Iteration and Timestep,24.61104782,0,44.93384782
+2036,Sonoran Basin and Range,,Fire,17.9297,Normal,Iteration and Timestep,23.45263692,0,41.38233692
+2037,Sonoran Basin and Range,,Fire,27.3148,Normal,Iteration and Timestep,36.24821326,0,63.56301326
+2038,Sonoran Basin and Range,,Fire,19.0797,Normal,Iteration and Timestep,28.4175971,0,47.4972971
+2039,Sonoran Basin and Range,,Fire,17.7871,Normal,Iteration and Timestep,27.18516282,0,44.97226282
+2040,Sonoran Basin and Range,,Fire,14.3007,Normal,Iteration and Timestep,29.03391483,0,43.33461483
+2041,Sonoran Basin and Range,,Fire,11.3915,Normal,Iteration and Timestep,20.39741514,0,31.78891514
+2042,Sonoran Basin and Range,,Fire,16.7232,Normal,Iteration and Timestep,32.64655871,0,49.36975871
+2043,Sonoran Basin and Range,,Fire,15.2788,Normal,Iteration and Timestep,25.91400968,0,41.19280968
+2044,Sonoran Basin and Range,,Fire,60.1971,Normal,Iteration and Timestep,55.93656626,4.26053374,116.1336663
+2045,Sonoran Basin and Range,,Fire,40.9712,Normal,Iteration and Timestep,39.59379362,1.37740638,80.56499362
+2046,Sonoran Basin and Range,,Fire,13.8611,Normal,Iteration and Timestep,20.15626899,0,34.01736899
+2047,Sonoran Basin and Range,,Fire,19.1169,Normal,Iteration and Timestep,51.92781952,0,71.04471952
+2048,Sonoran Basin and Range,,Fire,8.5585,Normal,Iteration and Timestep,14.09633374,0,22.65483374
+2049,Sonoran Basin and Range,,Fire,20.4564,Normal,Iteration and Timestep,37.60575194,0,58.06215194
+2050,Sonoran Basin and Range,,Fire,17.8417,Normal,Iteration and Timestep,34.94448394,0,52.78618394
+2051,Sonoran Basin and Range,,Fire,15.6773,Normal,Iteration and Timestep,25.00941527,0,40.68671527
+2052,Sonoran Basin and Range,,Fire,14.0734,Normal,Iteration and Timestep,19.60384328,0,33.67724328
+2053,Sonoran Basin and Range,,Fire,9.6232,Normal,Iteration and Timestep,17.9213009,0,27.5445009
+2054,Sonoran Basin and Range,,Fire,18.2451,Normal,Iteration and Timestep,54.11401812,0,72.35911812
+2055,Sonoran Basin and Range,,Fire,23.5462,Normal,Iteration and Timestep,29.33210403,0,52.87830403
+2056,Sonoran Basin and Range,,Fire,19.933,Normal,Iteration and Timestep,21.96824966,0,41.90124966
+2057,Sonoran Basin and Range,,Fire,10.9597,Normal,Iteration and Timestep,21.07547574,0,32.03517574
+2058,Sonoran Basin and Range,,Fire,8.0892,Normal,Iteration and Timestep,13.52045167,0,21.60965167
+2059,Sonoran Basin and Range,,Fire,10.4018,Normal,Iteration and Timestep,17.47154052,0,27.87334052
+2060,Sonoran Basin and Range,,Fire,23.5148,Normal,Iteration and Timestep,26.86669413,0,50.38149413
+2061,Sonoran Basin and Range,,Fire,21.8915,Normal,Iteration and Timestep,28.59330982,0,50.48480982
+2062,Sonoran Basin and Range,,Fire,7.0472,Normal,Iteration and Timestep,14.725297,0,21.772497
+2063,Sonoran Basin and Range,,Fire,13.9567,Normal,Iteration and Timestep,26.00165613,0,39.95835613
+2064,Sonoran Basin and Range,,Fire,11.1614,Normal,Iteration and Timestep,16.57685736,0,27.73825736
+2065,Sonoran Basin and Range,,Fire,7.7234,Normal,Iteration and Timestep,14.32500916,0,22.04840916
+2066,Sonoran Basin and Range,,Fire,7.2908,Normal,Iteration and Timestep,12.85376875,0,20.14456875
+2067,Sonoran Basin and Range,,Fire,26.2071,Normal,Iteration and Timestep,31.72703647,0,57.93413647
+2068,Sonoran Basin and Range,,Fire,16.5024,Normal,Iteration and Timestep,32.31196258,0,48.81436258
+2069,Sonoran Basin and Range,,Fire,7.8444,Normal,Iteration and Timestep,11.76983881,0,19.61423881
+2070,Sonoran Basin and Range,,Fire,16.5202,Normal,Iteration and Timestep,38.56099652,0,55.08119652
+2071,Sonoran Basin and Range,,Fire,10.3351,Normal,Iteration and Timestep,16.51694211,0,26.85204211
+2072,Sonoran Basin and Range,,Fire,14.5299,Normal,Iteration and Timestep,27.67052308,0,42.20042308
+2073,Sonoran Basin and Range,,Fire,31.6428,Normal,Iteration and Timestep,43.58554788,0,75.22834788
+2074,Sonoran Basin and Range,,Fire,65.8111,Normal,Iteration and Timestep,37.19537122,28.61572878,103.0064712
+2075,Sonoran Basin and Range,,Fire,17.5836,Normal,Iteration and Timestep,23.56484994,0,41.14844994
+2076,Sonoran Basin and Range,,Fire,15.3235,Normal,Iteration and Timestep,37.62789059,0,52.95139059
+2077,Sonoran Basin and Range,,Fire,12.5019,Normal,Iteration and Timestep,19.76604975,0,32.26794975
+2078,Sonoran Basin and Range,,Fire,11.5997,Normal,Iteration and Timestep,34.68155439,0,46.28125439
+2079,Sonoran Basin and Range,,Fire,15.0497,Normal,Iteration and Timestep,30.96568033,0,46.01538033
+2080,Sonoran Basin and Range,,Fire,13.4511,Normal,Iteration and Timestep,57.44144463,0,70.89254463
+2081,Sonoran Basin and Range,,Fire,14.9854,Normal,Iteration and Timestep,25.87855734,0,40.86395734
+2082,Sonoran Basin and Range,,Fire,13.5031,Normal,Iteration and Timestep,26.52604795,0,40.02914795
+2083,Sonoran Basin and Range,,Fire,9.2714,Normal,Iteration and Timestep,16.21411668,0,25.48551668
+2084,Sonoran Basin and Range,,Fire,10.1929,Normal,Iteration and Timestep,19.63052685,0,29.82342685
+2085,Sonoran Basin and Range,,Fire,11.3988,Normal,Iteration and Timestep,16.89028681,0,28.28908681
+2086,Sonoran Basin and Range,,Fire,8.8307,Normal,Iteration and Timestep,15.96600759,0,24.79670759
+2087,Sonoran Basin and Range,,Fire,15.5004,Normal,Iteration and Timestep,25.57041448,0,41.07081448
+2088,Sonoran Basin and Range,,Fire,18.6712,Normal,Iteration and Timestep,21.02462852,0,39.69582852
+2089,Sonoran Basin and Range,,Fire,19.4695,Normal,Iteration and Timestep,30.08283464,0,49.55233464
+2090,Sonoran Basin and Range,,Fire,9.8628,Normal,Iteration and Timestep,35.52434456,0,45.38714456
+2091,Sonoran Basin and Range,,Fire,36.612,Normal,Iteration and Timestep,32.0875522,4.5244478,68.6995522
+2092,Sonoran Basin and Range,,Fire,24.572,Normal,Iteration and Timestep,26.17205195,0,50.74405195
+2093,Sonoran Basin and Range,,Fire,8.9097,Normal,Iteration and Timestep,16.56073014,0,25.47043014
+2094,Sonoran Basin and Range,,Fire,17.4351,Normal,Iteration and Timestep,25.96494671,0,43.40004671
+2095,Sonoran Basin and Range,,Fire,9.5155,Normal,Iteration and Timestep,14.46224897,0,23.97774897
+2096,Sonoran Basin and Range,,Fire,16.3955,Normal,Iteration and Timestep,26.1186486,0,42.5141486
+2097,Sonoran Basin and Range,,Fire,11.1659,Normal,Iteration and Timestep,20.31344418,0,31.47934418
+2098,Sonoran Basin and Range,,Fire,11.2411,Normal,Iteration and Timestep,20.70549514,0,31.94659514
+2099,Sonoran Basin and Range,,Fire,14.1054,Normal,Iteration and Timestep,14.51805601,0,28.62345601
+2017,Southern California Mountains,,Fire,138.6691,Normal,Iteration and Timestep,210.3805145,0,349.0496145
+2018,Southern California Mountains,,Fire,129.9098,Normal,Iteration and Timestep,204.9834635,0,334.8932635
+2019,Southern California Mountains,,Fire,192.7561,Normal,Iteration and Timestep,229.8674292,0,422.6235292
+2020,Southern California Mountains,,Fire,118.1385,Normal,Iteration and Timestep,158.4981213,0,276.6366213
+2021,Southern California Mountains,,Fire,156.7179,Normal,Iteration and Timestep,211.5375947,0,368.2554947
+2022,Southern California Mountains,,Fire,212.3653,Normal,Iteration and Timestep,223.7858835,0,436.1511835
+2023,Southern California Mountains,,Fire,183.3076,Normal,Iteration and Timestep,225.066929,0,408.374529
+2024,Southern California Mountains,,Fire,151.985,Normal,Iteration and Timestep,167.3128098,0,319.2978098
+2025,Southern California Mountains,,Fire,135.2306,Normal,Iteration and Timestep,183.5386621,0,318.7692621
+2026,Southern California Mountains,,Fire,190.3384,Normal,Iteration and Timestep,235.5830293,0,425.9214293
+2027,Southern California Mountains,,Fire,159.359,Normal,Iteration and Timestep,178.6487581,0,338.0077581
+2028,Southern California Mountains,,Fire,192.6811,Normal,Iteration and Timestep,198.851908,0,391.533008
+2029,Southern California Mountains,,Fire,229.7674,Normal,Iteration and Timestep,306.5628958,0,536.3302958
+2030,Southern California Mountains,,Fire,186.2578,Normal,Iteration and Timestep,253.0259444,0,439.2837444
+2031,Southern California Mountains,,Fire,162.7084,Normal,Iteration and Timestep,184.2811751,0,346.9895751
+2032,Southern California Mountains,,Fire,147.9577,Normal,Iteration and Timestep,216.7927347,0,364.7504347
+2033,Southern California Mountains,,Fire,214.8441,Normal,Iteration and Timestep,252.8790711,0,467.7231711
+2034,Southern California Mountains,,Fire,156.4506,Normal,Iteration and Timestep,211.5217591,0,367.9723591
+2035,Southern California Mountains,,Fire,185.4645,Normal,Iteration and Timestep,242.3778836,0,427.8423836
+2036,Southern California Mountains,,Fire,128.528,Normal,Iteration and Timestep,180.2246491,0,308.7526491
+2037,Southern California Mountains,,Fire,167.8439,Normal,Iteration and Timestep,200.4653571,0,368.3092571
+2038,Southern California Mountains,,Fire,133.2193,Normal,Iteration and Timestep,167.3488768,0,300.5681768
+2039,Southern California Mountains,,Fire,152.0585,Normal,Iteration and Timestep,171.6229036,0,323.6814036
+2040,Southern California Mountains,,Fire,185.462,Normal,Iteration and Timestep,210.230651,0,395.692651
+2041,Southern California Mountains,,Fire,200.3995,Normal,Iteration and Timestep,250.6873531,0,451.0868531
+2042,Southern California Mountains,,Fire,180.25,Normal,Iteration and Timestep,195.4774713,0,375.7274713
+2043,Southern California Mountains,,Fire,176.7905,Normal,Iteration and Timestep,287.054162,0,463.844662
+2044,Southern California Mountains,,Fire,119.3609,Normal,Iteration and Timestep,160.1512277,0,279.5121277
+2045,Southern California Mountains,,Fire,160.4707,Normal,Iteration and Timestep,223.3541508,0,383.8248508
+2046,Southern California Mountains,,Fire,177.551,Normal,Iteration and Timestep,208.6617112,0,386.2127112
+2047,Southern California Mountains,,Fire,193.5818,Normal,Iteration and Timestep,203.9544256,0,397.5362256
+2048,Southern California Mountains,,Fire,173.5362,Normal,Iteration and Timestep,193.0693707,0,366.6055707
+2049,Southern California Mountains,,Fire,160.8047,Normal,Iteration and Timestep,215.683895,0,376.488595
+2050,Southern California Mountains,,Fire,129.4147,Normal,Iteration and Timestep,149.4142403,0,278.8289403
+2051,Southern California Mountains,,Fire,141.9595,Normal,Iteration and Timestep,198.2445903,0,340.2040903
+2052,Southern California Mountains,,Fire,229.2096,Normal,Iteration and Timestep,246.3687165,0,475.5783165
+2053,Southern California Mountains,,Fire,161.4889,Normal,Iteration and Timestep,223.6703403,0,385.1592403
+2054,Southern California Mountains,,Fire,184.5372,Normal,Iteration and Timestep,254.8605752,0,439.3977752
+2055,Southern California Mountains,,Fire,210.9624,Normal,Iteration and Timestep,281.4388567,0,492.4012567
+2056,Southern California Mountains,,Fire,178.8463,Normal,Iteration and Timestep,186.6099533,0,365.4562533
+2057,Southern California Mountains,,Fire,185.3403,Normal,Iteration and Timestep,216.775305,0,402.115605
+2058,Southern California Mountains,,Fire,184.783,Normal,Iteration and Timestep,196.2035444,0,380.9865444
+2059,Southern California Mountains,,Fire,177.9824,Normal,Iteration and Timestep,213.7493032,0,391.7317032
+2060,Southern California Mountains,,Fire,158.1896,Normal,Iteration and Timestep,177.9042631,0,336.0938631
+2061,Southern California Mountains,,Fire,176.9517,Normal,Iteration and Timestep,192.449842,0,369.401542
+2062,Southern California Mountains,,Fire,180.5814,Normal,Iteration and Timestep,224.4227494,0,405.0041494
+2063,Southern California Mountains,,Fire,108.374,Normal,Iteration and Timestep,143.9960923,0,252.3700923
+2064,Southern California Mountains,,Fire,159.5312,Normal,Iteration and Timestep,192.0092069,0,351.5404069
+2065,Southern California Mountains,,Fire,163.667,Normal,Iteration and Timestep,125.8244461,37.8425539,289.4914461
+2066,Southern California Mountains,,Fire,175.2771,Normal,Iteration and Timestep,178.9333435,0,354.2104435
+2067,Southern California Mountains,,Fire,172.2954,Normal,Iteration and Timestep,234.5183942,0,406.8137942
+2068,Southern California Mountains,,Fire,217.0077,Normal,Iteration and Timestep,243.9278355,0,460.9355355
+2069,Southern California Mountains,,Fire,197.5502,Normal,Iteration and Timestep,231.0415291,0,428.5917291
+2070,Southern California Mountains,,Fire,165.2942,Normal,Iteration and Timestep,174.0828615,0,339.3770615
+2071,Southern California Mountains,,Fire,261.2202,Normal,Iteration and Timestep,304.1374585,0,565.3576585
+2072,Southern California Mountains,,Fire,205.9135,Normal,Iteration and Timestep,241.301948,0,447.215448
+2073,Southern California Mountains,,Fire,209.428,Normal,Iteration and Timestep,265.9983714,0,475.4263714
+2074,Southern California Mountains,,Fire,157.5865,Normal,Iteration and Timestep,176.4038527,0,333.9903527
+2075,Southern California Mountains,,Fire,223.4921,Normal,Iteration and Timestep,251.1451894,0,474.6372894
+2076,Southern California Mountains,,Fire,177.2599,Normal,Iteration and Timestep,158.2724685,18.9874315,335.5323685
+2077,Southern California Mountains,,Fire,181.5841,Normal,Iteration and Timestep,202.7420302,0,384.3261302
+2078,Southern California Mountains,,Fire,178.99,Normal,Iteration and Timestep,189.5693781,0,368.5593781
+2079,Southern California Mountains,,Fire,129.9465,Normal,Iteration and Timestep,174.3195674,0,304.2660674
+2080,Southern California Mountains,,Fire,214.2261,Normal,Iteration and Timestep,210.1482362,4.0778638,424.3743362
+2081,Southern California Mountains,,Fire,183.5007,Normal,Iteration and Timestep,331.0778441,0,514.5785441
+2082,Southern California Mountains,,Fire,153.3958,Normal,Iteration and Timestep,200.0754652,0,353.4712652
+2083,Southern California Mountains,,Fire,178.9187,Normal,Iteration and Timestep,190.2934724,0,369.2121724
+2084,Southern California Mountains,,Fire,162.0974,Normal,Iteration and Timestep,214.9497676,0,377.0471676
+2085,Southern California Mountains,,Fire,180.4318,Normal,Iteration and Timestep,233.7920971,0,414.2238971
+2086,Southern California Mountains,,Fire,208.6302,Normal,Iteration and Timestep,265.7971822,0,474.4273822
+2087,Southern California Mountains,,Fire,172.9971,Normal,Iteration and Timestep,157.469168,15.527932,330.466268
+2088,Southern California Mountains,,Fire,193.6725,Normal,Iteration and Timestep,256.9023686,0,450.5748686
+2089,Southern California Mountains,,Fire,218.9812,Normal,Iteration and Timestep,205.0890742,13.8921258,424.0702742
+2090,Southern California Mountains,,Fire,149.0328,Normal,Iteration and Timestep,144.3990397,4.6337603,293.4318397
+2091,Southern California Mountains,,Fire,115.961,Normal,Iteration and Timestep,120.596659,0,236.557659
+2092,Southern California Mountains,,Fire,163.4105,Normal,Iteration and Timestep,199.4861293,0,362.8966293
+2093,Southern California Mountains,,Fire,147.9698,Normal,Iteration and Timestep,173.1108787,0,321.0806787
+2094,Southern California Mountains,,Fire,208.1141,Normal,Iteration and Timestep,262.166648,0,470.280748
+2095,Southern California Mountains,,Fire,156.5396,Normal,Iteration and Timestep,232.5946077,0,389.1342077
+2096,Southern California Mountains,,Fire,183.2999,Normal,Iteration and Timestep,190.9653468,0,374.2652468
+2097,Southern California Mountains,,Fire,146.7867,Normal,Iteration and Timestep,151.2121885,0,297.9988885
+2098,Southern California Mountains,,Fire,196.9294,Normal,Iteration and Timestep,218.7817977,0,415.7111977
+2099,Southern California Mountains,,Fire,113.5666,Normal,Iteration and Timestep,103.5161456,10.0504544,217.0827456

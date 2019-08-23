@@ -1,0 +1,97 @@
+StratumID,StateClassID,Amount,TransitionGroupID,Timestep
+Coast Range,Forest:All,0.441990847,Fire,2017
+Cascades,Forest:All,0.25,Fire,2017
+Sierra Nevada,Forest:All,0.525553949,Fire,2017
+California Chaparral and Oak Woodlands,Forest:All,0.325534838,Fire,2017
+Central California Valley,Forest:All,0.242935066,Fire,2017
+Southern California Mountains,Forest:All,0.380643696,Fire,2017
+Eastern Cascades Slopes and Foothills,Forest:All,0.304861867,Fire,2017
+Central Basin and Range,Forest:All,0.412791656,Fire,2017
+Mojave Basin and Range,Forest:All,0.237571256,Fire,2017
+Klamath Mountains,Forest:All,0.425145601,Fire,2017
+Northern Basin and Range,Forest:All,0.361446804,Fire,2017
+Sonoran Basin and Range,Forest:All,0.40371055,Fire,2017
+Coast Range,Grassland:All,0.234047804,Fire,2017
+Cascades,Grassland:All,0,Fire,2017
+Sierra Nevada,Grassland:All,0.176626182,Fire,2017
+California Chaparral and Oak Woodlands,Grassland:All,0.228084919,Fire,2017
+Central California Valley,Grassland:All,0.261563672,Fire,2017
+Southern California Mountains,Grassland:All,0.294849659,Fire,2017
+Eastern Cascades Slopes and Foothills,Grassland:All,0.343631202,Fire,2017
+Central Basin and Range,Grassland:All,0.304165569,Fire,2017
+Mojave Basin and Range,Grassland:All,0.718817667,Fire,2017
+Klamath Mountains,Grassland:All,0.197287136,Fire,2017
+Northern Basin and Range,Grassland:All,0.236705369,Fire,2017
+Sonoran Basin and Range,Grassland:All,0.578462253,Fire,2017
+Coast Range,Shrubland:All,0.323961349,Fire,2017
+Cascades,Shrubland:All,0.75,Fire,2017
+Sierra Nevada,Shrubland:All,0.297819869,Fire,2017
+California Chaparral and Oak Woodlands,Shrubland:All,0.446380243,Fire,2017
+Central California Valley,Shrubland:All,0.495501263,Fire,2017
+Southern California Mountains,Shrubland:All,0.324506644,Fire,2017
+Eastern Cascades Slopes and Foothills,Shrubland:All,0.351506931,Fire,2017
+Central Basin and Range,Shrubland:All,0.283042775,Fire,2017
+Mojave Basin and Range,Shrubland:All,0.043611077,Fire,2017
+Klamath Mountains,Shrubland:All,0.377567263,Fire,2017
+Northern Basin and Range,Shrubland:All,0.401847828,Fire,2017
+Sonoran Basin and Range,Shrubland:All,0.017827197,Fire,2017
+Coast Range,Forest:CFM,0.441990847,Fire,2017
+Cascades,Forest:CFM,0.25,Fire,2017
+Sierra Nevada,Forest:CFM,0.525553949,Fire,2017
+California Chaparral and Oak Woodlands,Forest:CFM,0.325534838,Fire,2017
+Central California Valley,Forest:CFM,0.242935066,Fire,2017
+Southern California Mountains,Forest:CFM,0.380643696,Fire,2017
+Eastern Cascades Slopes and Foothills,Forest:CFM,0.304861867,Fire,2017
+Central Basin and Range,Forest:CFM,0.412791656,Fire,2017
+Mojave Basin and Range,Forest:CFM,0.237571256,Fire,2017
+Klamath Mountains,Forest:CFM,0.425145601,Fire,2017
+Northern Basin and Range,Forest:CFM,0.361446804,Fire,2017
+Sonoran Basin and Range,Forest:CFM,0.40371055,Fire,2017
+Coast Range,Forest:Treated (Prescribed),0.441990847,Fire,2017
+Cascades,Forest:Treated (Prescribed),0.25,Fire,2017
+Sierra Nevada,Forest:Treated (Prescribed),0.525553949,Fire,2017
+California Chaparral and Oak Woodlands,Forest:Treated (Prescribed),0.325534838,Fire,2017
+Central California Valley,Forest:Treated (Prescribed),0.242935066,Fire,2017
+Southern California Mountains,Forest:Treated (Prescribed),0.380643696,Fire,2017
+Eastern Cascades Slopes and Foothills,Forest:Treated (Prescribed),0.304861867,Fire,2017
+Central Basin and Range,Forest:Treated (Prescribed),0.412791656,Fire,2017
+Mojave Basin and Range,Forest:Treated (Prescribed),0.237571256,Fire,2017
+Klamath Mountains,Forest:Treated (Prescribed),0.425145601,Fire,2017
+Northern Basin and Range,Forest:Treated (Prescribed),0.361446804,Fire,2017
+Sonoran Basin and Range,Forest:Treated (Prescribed),0.40371055,Fire,2017
+Coast Range,Forest:Treated (Thinned),0.441990847,Fire,2017
+Cascades,Forest:Treated (Thinned),0.25,Fire,2017
+Sierra Nevada,Forest:Treated (Thinned),0.525553949,Fire,2017
+California Chaparral and Oak Woodlands,Forest:Treated (Thinned),0.325534838,Fire,2017
+Central California Valley,Forest:Treated (Thinned),0.242935066,Fire,2017
+Southern California Mountains,Forest:Treated (Thinned),0.380643696,Fire,2017
+Eastern Cascades Slopes and Foothills,Forest:Treated (Thinned),0.304861867,Fire,2017
+Central Basin and Range,Forest:Treated (Thinned),0.412791656,Fire,2017
+Mojave Basin and Range,Forest:Treated (Thinned),0.237571256,Fire,2017
+Klamath Mountains,Forest:Treated (Thinned),0.425145601,Fire,2017
+Northern Basin and Range,Forest:Treated (Thinned),0.361446804,Fire,2017
+Sonoran Basin and Range,Forest:Treated (Thinned),0.40371055,Fire,2017
+Coast Range,Shrubland:PostFire,0.323961349,Fire,2017
+Cascades,Shrubland:PostFire,0.75,Fire,2017
+Sierra Nevada,Shrubland:PostFire,0.297819869,Fire,2017
+California Chaparral and Oak Woodlands,Shrubland:PostFire,0.446380243,Fire,2017
+Central California Valley,Shrubland:PostFire,0.495501263,Fire,2017
+Southern California Mountains,Shrubland:PostFire,0.324506644,Fire,2017
+Eastern Cascades Slopes and Foothills,Shrubland:PostFire,0.351506931,Fire,2017
+Central Basin and Range,Shrubland:PostFire,0.283042775,Fire,2017
+Mojave Basin and Range,Shrubland:PostFire,0.043611077,Fire,2017
+Klamath Mountains,Shrubland:PostFire,0.377567263,Fire,2017
+Northern Basin and Range,Shrubland:PostFire,0.401847828,Fire,2017
+Sonoran Basin and Range,Shrubland:PostFire,0.017827197,Fire,2017
+Coast Range,Grassland:Composted,0.234047804,Fire,2017
+Cascades,Grassland:Composted,0,Fire,2017
+Sierra Nevada,Grassland:Composted,0.176626182,Fire,2017
+California Chaparral and Oak Woodlands,Grassland:Composted,0.228084919,Fire,2017
+Central California Valley,Grassland:Composted,0.261563672,Fire,2017
+Southern California Mountains,Grassland:Composted,0.294849659,Fire,2017
+Eastern Cascades Slopes and Foothills,Grassland:Composted,0.343631202,Fire,2017
+Central Basin and Range,Grassland:Composted,0.304165569,Fire,2017
+Mojave Basin and Range,Grassland:Composted,0.718817667,Fire,2017
+Klamath Mountains,Grassland:Composted,0.197287136,Fire,2017
+Northern Basin and Range,Grassland:Composted,0.236705369,Fire,2017
+Sonoran Basin and Range,Grassland:Composted,0.578462253,Fire,2017

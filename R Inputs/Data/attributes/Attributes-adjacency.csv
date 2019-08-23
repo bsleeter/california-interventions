@@ -1,0 +1,20 @@
+Iteration,Timestep,StratumID,SecondaryStratumID,TertiaryStratumID,StateClassID,StateAttributeTypeID,AgeMin,AgeMax,Value
+,,,,,Agriculture:Annual,ADJ-Agriculture,,,1
+,,,,,Agriculture:Annual,ADJ-Annual,,,1
+,,,,,Agriculture:Perennial,ADJ-Agriculture,,,1
+,,,,,Agriculture:Perennial,ADJ-Perennial,,,1
+,,,,,Barren:All,ADJ-Barren,,,1
+,,,,,Developed:All,ADJ-Developed,,,1
+,,,,,Forest:All,ADJ-Forest,,,1
+,,,,,Grassland:All,ADJ-Grassland,,,1
+,,,,,Shrubland:All,ADJ-Shrubland,,,1
+,,,,,Wetland:All,ADJ-Wetland,,,1
+,,,,,Agriculture:Agroforestry,ADJ-Agroforestry,,,1
+,,,,,Agriculture:Covercrop,ADJ-Covercrop,,,1
+,,,,,Developed:Transportation,ADJ-Transportation,,,1
+,,,,,Forest:Treated (Prescribed),ADJ-Forest Prescribed,,,1
+,,,,,Forest:Treated (Thinned),ADJ-Forest Thinned,,,1
+,,,,,Forest:CFM,ADJ-Forest CFM,,,1
+,,,,,Shrubland:PostFire,ADJ-ShrubPostFire,,,1
+,,,,,Agriculture:Agroforestry,ADJ-Annual,,,1
+,,,,,Agriculture:Covercrop,ADJ-Annual,,,1
