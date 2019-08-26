@@ -884,7 +884,11 @@ saveDatasheet(adjacency, sheetData, sheetName, append = F)
 ##### State Attributes ##### 
 stateAttributes = scenario(myProject, "State Attributes", overwrite = F)
 sheetName = "STSim_StateAttributeValue"
-sheetData = datasheet(myProject, name = sheetName, scenario = "State Attributes", optional = T, empty = T)
+
+# Adjacency Values
+myScenario = scenario(myProject, "State Attributes [Adjacency]", overwrite = F)
+sheetName = "stsim_StateAttributeValue"
+sheetData = datasheet(myProject, name = sheetName, scenario = "State Attributes [Adjacency]", optional = T, empty = T)
 sheetData = addRow(sheetData, data.frame(StateClassID = "Agriculture:Annual", StateAttributeTypeID = "ADJ-Agriculture", Value=1))
 sheetData = addRow(sheetData, data.frame(StateClassID = "Agriculture:Annual", StateAttributeTypeID = "ADJ-Annual", Value=1))
 sheetData = addRow(sheetData, data.frame(StateClassID = "Agriculture:Perennial", StateAttributeTypeID = "ADJ-Agriculture", Value=1))
@@ -913,21 +917,50 @@ sheetData = addRow(sheetData, data.frame(StateClassID = "Forest:Treated (Prescri
 sheetData = addRow(sheetData, data.frame(StateClassID = "Forest:Treated (Thinned)", StateAttributeTypeID = "ADJ-Forest Thinned", Value=1))
 sheetData = addRow(sheetData, data.frame(StateClassID = "Forest:CFM", StateAttributeTypeID = "ADJ-Forest CFM", Value=1))
 sheetData = addRow(sheetData, data.frame(StateClassID = "Shrubland:PostFire", StateAttributeTypeID = "ADJ-ShrubPostFire", Value=1))
+saveDatasheet(myScenario, sheetData, sheetName, append=F)
+
+# Albedo
+myScenario = scenario(myProject, "State Attributes [Albedo]", overwrite = F)
+sheetName = "stsim_StateAttributeValue"
+sheetData = read.csv("R Inputs/Data/attributes/Attributes-albedo.csv", header=T)
+saveDatasheet(myScenario, sheetData, sheetName, append=F)
+
+# Initial Carbon Stocks
+myScenario = scenario(myProject, "State Attributes [Initial Carbon Stocks]", overwrite = F)
+sheetName = "stsim_StateAttributeValue"
+sheetData = read.csv("R Inputs/Data/attributes/Attributes-carbon.csv", header=T)
+saveDatasheet(myScenario, sheetData, sheetName, append=F)
+
+# Population
+myScenario = scenario(myProject, "State Attributes [Population]", overwrite = F)
+sheetName = "stsim_StateAttributeValue"
+sheetData = read.csv("R Inputs/Data/attributes/Attributes-population.csv", header=T)
+saveDatasheet(myScenario, sheetData, sheetName, append=F)
+
+# Carbon NPP
+myScenario = scenario(myProject, "State Attributes [NPP]", overwrite = F)
+sheetName = "stsim_StateAttributeValue"
+sheetData = read.csv("R Inputs/Data/attributes/Attributes-npp.csv", header=T)
+saveDatasheet(myScenario, sheetData, sheetName, append=F)
+
+# Carbon Compost Addition
+myScenario = scenario(myProject, "State Attributes [Compost Addition]", overwrite = F)
+sheetName = "stsim_StateAttributeValue"
+sheetData = datasheet(myProject, name = sheetName, scenario = "State Attributes [Compost Addition]", optional = T, empty = T)
 sheetData = addRow(sheetData, data.frame(StateClassID = "Grassland:Composted", StateAttributeTypeID = "Compost Addition", Value=1.42)) # Value derived from Dave Marvin
+saveDatasheet(myScenario, sheetData, sheetName, append=F)
 
-# Read in the Carbon attributes
-attributesCarbon1 = read.csv("R Inputs/Data/attributes/Attributes-carbon.csv", header = T)
-attributesCarbon2 = read.csv("R Inputs/Data/attributes/Attributes-carbon-prescribed.csv", header = T)
-attributesCarbon3 = read.csv("R Inputs/Data/attributes/Attributes-carbon-thinning.csv", header = T)
-attributesCarbon4 = read.csv("R Inputs/Data/attributes/Attributes-carbon-shrubPostFire.csv", header = T)
-attributesCarbon5 = read.csv("R Inputs/Data/attributes/Attributes-carbon-grassComposted.csv", header = T)
-attributesNpp = read.csv("R Inputs/Data/attributes/Attributes-npp.csv", header = T)
+# Merge State Attributes
 
-# attributesAlbedo = read.csv("R Inputs/Data/attributes/Attributes-albedo.csv", header = T)
-# attributesPopulation = read.csv("R Inputs/Data/attributes/Attributes-population.csv", header = T)
+myScenario = scenario(myProject, "State Attributes", overwrite = F)
+mergeDependencies(myScenario) = T
+dependency(myScenario, c("State Attributes [Adjacency]",
+                         "State Attributes [Albedo]",
+                         "State Attributes [Initial Carbon Stocks]",
+                         "State Attributes [Population]",
+                         "State Attributes [NPP]",
+                         "State Attributes [Compost Addition]"))
 
-sheetData = rbind(sheetData, attributesCarbon1, attributesCarbon2, attributesCarbon3, attributesCarbon4, attributesCarbon5, attributesNpp)
-saveDatasheet(stateAttributes, sheetData, sheetName, append = F)
 
 ##### Distributions ##### 
 # Land use changes calculated based historical data from California Farmland Mapping and Monitoring Program located at http://.....
@@ -1180,10 +1213,22 @@ saveDatasheet(myScenario, sheetData, sheetName, append = F)
 myScenario = scenario(myProject, "Transition Multipliers Intervention [CFM]", overwrite=F)
 sheetName = "stsim_TransitionMultiplierValue"
 sheetData = datasheet(myProject, name = sheetName, scenario = "Transition Multipliers Intervention [CFM]", optional = T, empty = T)
+sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Federal", TransitionGroupID = "Intervention: CFM [Type]", Amount = 0.0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Non Federal", TransitionGroupID = "Intervention: CFM [Type]", Amount = 0.0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Private", TransitionGroupID = "Intervention: CFM [Type]", Amount = 0.0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Tribal", TransitionGroupID = "Intervention: CFM [Type]", Amount = 0.0))
 sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Federal", TransitionGroupID = "Intervention: CFM [Type]", Amount = 0.0))
 sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Non Federal", TransitionGroupID = "Intervention: CFM [Type]", Amount = 0.0))
 sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Private", TransitionGroupID = "Intervention: CFM [Type]", Amount = 1.0))
 sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Tribal", TransitionGroupID = "Intervention: CFM [Type]", Amount = 1.0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StateClassID = "Forest:All", TransitionGroupID = "Management: Forest Clearcut [Type]", Amount = 0.65))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StateClassID = "Forest:CFM", TransitionGroupID = "Management: Forest Clearcut [Type]", Amount = 0.35))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StateClassID = "Forest:All", TransitionGroupID = "Management: Forest Selection [Type]", Amount = 0.35))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StateClassID = "Forest:CFM", TransitionGroupID = "Management: Forest Selection [Type]", Amount = 0.65))
+sheetData = addRow(sheetData, data.frame(Timestep = 2051, TertiaryStratumID = "Federal", TransitionGroupID = "Intervention: CFM [Type]", Amount = 0.0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2051, TertiaryStratumID = "Non Federal", TransitionGroupID = "Intervention: CFM [Type]", Amount = 0.0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2051, TertiaryStratumID = "Private", TransitionGroupID = "Intervention: CFM [Type]", Amount = 0.0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2051, TertiaryStratumID = "Tribal", TransitionGroupID = "Intervention: CFM [Type]", Amount = 0.0))
 saveDatasheet(myScenario, sheetData, sheetName, append = F)
 
 ##### Covercrop
@@ -1191,7 +1236,6 @@ myScenario = scenario(myProject, "Transition Multipliers Intervention [Covercrop
 sheetName = "stsim_TransitionMultiplierValue"
 sheetData = datasheet(myProject, name = sheetName, scenario = "Transition Multipliers Intervention [Covercrop]", optional = T, empty = T)
 sheetData = addRow(sheetData, data.frame(Timestep = 2020, TransitionGroupID = "Intervention: Covercrop [Type]", Amount = 1.0))
-sheetData = addRow(sheetData, data.frame(Timestep = 2051, TransitionGroupID = "Intervention: Covercrop [Type]", Amount = 0.0))
 saveDatasheet(myScenario, sheetData, sheetName, append = F)
 
 ##### Reduced Fire Severity
@@ -1223,7 +1267,18 @@ saveDatasheet(myScenario, sheetData, sheetName, append = F)
 myScenario = scenario(myProject, "Transition Multipliers Intervention [Composting]", overwrite=F)
 sheetName = "stsim_TransitionMultiplierValue"
 sheetData = datasheet(myProject, name = sheetName, scenario = "Transition Multipliers Intervention [Composting]", optional = T, empty = T)
-sheetData = addRow(sheetData, data.frame(Timestep = 2020, TransitionGroupID = "Intervention: Compost [Type]", Amount = 1.0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StratumID="California Chaparral and Oak Woodlands", TransitionGroupID = "Intervention: Compost [Type]", Amount = 1.0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StratumID="Central California Valley", TransitionGroupID = "Intervention: Compost [Type]", Amount = 1.0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StratumID="Cascades", TransitionGroupID = "Intervention: Compost [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StratumID="Coast Range", TransitionGroupID = "Intervention: Compost [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StratumID="Klamath Mountains", TransitionGroupID = "Intervention: Compost [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StratumID="Sierra Nevada", TransitionGroupID = "Intervention: Compost [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StratumID="Northern Basin and Range", TransitionGroupID = "Intervention: Compost [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StratumID="Central Basin and Range", TransitionGroupID = "Intervention: Compost [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StratumID="Mojave Basin and Range", TransitionGroupID = "Intervention: Compost [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StratumID="Sonoran Basin and Range", TransitionGroupID = "Intervention: Compost [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StratumID="Southern California Mountains", TransitionGroupID = "Intervention: Compost [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, StratumID="Eastern Cascades Slopes and Foothills", TransitionGroupID = "Intervention: Compost [Type]", Amount = 0))
 saveDatasheet(myScenario, sheetData, sheetName, append = F)
 
 
@@ -1232,7 +1287,7 @@ myScenario = scenario(myProject, "Transition Multipliers [No Intervention]", ove
 mergeDependencies(myScenario) = T
 dependency(myScenario, dependency = c("Transition Multipliers Base",
                                       "Transition Multipliers Urbanization Probabilities",
-                                      "Transition Multipliers Fire Severity", 
+                                      "Transition Multipliers Fire Severity [High]", 
                                       "Transition Multipliers Fire Vegetation", 
                                       "Transition Multipliers Intervention [None]"))
 
@@ -1240,7 +1295,7 @@ myScenario = scenario(myProject, "Transition Multipliers [Composting]", overwrit
 mergeDependencies(myScenario) = T
 dependency(myScenario, dependency = c("Transition Multipliers Base",
                                       "Transition Multipliers Urbanization Probabilities",
-                                      "Transition Multipliers Fire Severity [Low]", 
+                                      "Transition Multipliers Fire Severity [High]", 
                                       "Transition Multipliers Fire Vegetation", 
                                       "Transition Multipliers Intervention [None]",
                                       "Transition Multipliers Intervention [Composting]"))
@@ -1249,7 +1304,7 @@ myScenario = scenario(myProject, "Transition Multipliers [Reduced Fire Severity]
 mergeDependencies(myScenario) = T
 dependency(myScenario, dependency = c("Transition Multipliers Base",
                                       "Transition Multipliers Urbanization Probabilities",
-                                      "Transition Multipliers Fire Severity [Low]", 
+                                      "Transition Multipliers Fire Severity [High]", 
                                       "Transition Multipliers Fire Vegetation", 
                                       "Transition Multipliers Intervention [None]",
                                       "Transition Multipliers Intervention [Reduced Fire Severity]"))
@@ -1258,7 +1313,7 @@ myScenario = scenario(myProject, "Transition Multipliers [Reforestation]", overw
 mergeDependencies(myScenario) = T
 dependency(myScenario, dependency = c("Transition Multipliers Base",
                                       "Transition Multipliers Urbanization Probabilities",
-                                      "Transition Multipliers Fire Severity [Low]", 
+                                      "Transition Multipliers Fire Severity [High]", 
                                       "Transition Multipliers Fire Vegetation", 
                                       "Transition Multipliers Intervention [None]",
                                       "Transition Multipliers Intervention [Reforestation]"))
@@ -1267,7 +1322,7 @@ myScenario = scenario(myProject, "Transition Multipliers [Covercrop]", overwrite
 mergeDependencies(myScenario) = T
 dependency(myScenario, dependency = c("Transition Multipliers Base",
                                       "Transition Multipliers Urbanization Probabilities",
-                                      "Transition Multipliers Fire Severity [Low]", 
+                                      "Transition Multipliers Fire Severity [High]", 
                                       "Transition Multipliers Fire Vegetation", 
                                       "Transition Multipliers Intervention [None]",
                                       "Transition Multipliers Intervention [Covercrop]"))
@@ -1276,12 +1331,19 @@ myScenario = scenario(myProject, "Transition Multipliers [Agroforestry]", overwr
 mergeDependencies(myScenario) = T
 dependency(myScenario, dependency = c("Transition Multipliers Base",
                                       "Transition Multipliers Urbanization Probabilities",
-                                      "Transition Multipliers Fire Severity [Low]", 
+                                      "Transition Multipliers Fire Severity [High]", 
                                       "Transition Multipliers Fire Vegetation", 
                                       "Transition Multipliers Intervention [None]",
                                       "Transition Multipliers Intervention [Agroforestry]"))
 
-
+myScenario = scenario(myProject, "Transition Multipliers [CFM]", overwrite=F)
+mergeDependencies(myScenario) = T
+dependency(myScenario, dependency = c("Transition Multipliers Base",
+                                      "Transition Multipliers Urbanization Probabilities",
+                                      "Transition Multipliers Fire Severity [High]", 
+                                      "Transition Multipliers Fire Vegetation", 
+                                      "Transition Multipliers Intervention [None]",
+                                      "Transition Multipliers Intervention [CFM]"))
 
 
 
@@ -1627,23 +1689,24 @@ saveDatasheet(myScenario, sheetData, sheetName, append = F)
 # Reduced Fire Severity
 myScenario = scenario(myProject, "Transition Targets Intervention [Reduced Fire Severity]", overwrite=F)
 sheetName = "stsim_TransitionTarget"
-sheetData = datasheet(myProject, name = sheetName, scenario = "Transition Targets Intervention [Reduced Fire Severity]", optional = T, empty = T)
-sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Federal", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 0))
-sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Non Federal", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 0))
-sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Private", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 0))
-sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Tribal", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 0))
-sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Federal", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 1000))
-sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Non Federal", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 0))
-sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Private", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 250))
-sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Tribal", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 0))
 
+sheetData = datasheet(myProject, name = sheetName, scenario = "Transition Targets Intervention [Reduced Fire Severity]", optional = T, empty = T)
 sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Federal", TransitionGroupID = "Intervention: Prescribed Fire [Type]", Amount = 0))
 sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Non Federal", TransitionGroupID = "Intervention: Prescribed Fire [Type]", Amount = 0))
 sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Private", TransitionGroupID = "Intervention: Prescribed Fire [Type]", Amount = 0))
 sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Tribal", TransitionGroupID = "Intervention: Prescribed Fire [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Federal", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Non Federal", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Private", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2002, TertiaryStratumID = "Tribal", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 0))
+
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Federal", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 1000))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Non Federal", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Private", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 250))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Tribal", TransitionGroupID = "Intervention: Thinning From Below [Type]", Amount = 0))
 sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Federal", TransitionGroupID = "Intervention: Prescribed Fire [Type]", Amount = 500))
 sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Non Federal", TransitionGroupID = "Intervention: Prescribed Fire [Type]", Amount = 0))
-sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Private", TransitionGroupID = "Intervention: Prescribed Fire [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Private", TransitionGroupID = "Intervention: Prescribed Fire [Type]", Amount = 250))
 sheetData = addRow(sheetData, data.frame(Timestep = 2020, TertiaryStratumID = "Tribal", TransitionGroupID = "Intervention: Prescribed Fire [Type]", Amount = 0))
 
 saveDatasheet(myScenario, sheetData, sheetName, append = F)
@@ -1691,6 +1754,19 @@ sheetData = addRow(sheetData, data.frame(Timestep = 2020, StratumID = "Sierra Ne
 sheetData = addRow(sheetData, data.frame(Timestep = 2020, StratumID = "Sonoran Basin and Range", TransitionGroupID = "Intervention: Agroforestry [Type]", Amount = 0))
 sheetData = addRow(sheetData, data.frame(Timestep = 2020, StratumID = "Southern California Mountains", TransitionGroupID = "Intervention: Agroforestry [Type]", Amount = 0))
 saveDatasheet(myScenario, sheetData, sheetName, append=F)
+
+# Changes to Forest Management (CFM)
+myScenario = scenario(myProject, "Transition Targets Intervention [CFM]", overwrite=F)
+sheetName = "stsim_TransitionTarget"
+sheetData = datasheet(myProject, name = sheetName, scenario = "Transition Targets Intervention [CFM]", optional = T, empty = T)
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, TransitionGroupID = "Intervention: CFM [Type]", Amount = 400.0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2020, TransitionGroupID = "Intervention: CFM [Type]", Amount = 0))
+sheetData = addRow(sheetData, data.frame(Timestep = 2050, TransitionGroupID = "Management: Forest Clearcut [Type]", Amount = 365))
+sheetData = addRow(sheetData, data.frame(Timestep = 2050, TransitionGroupID = "Management: Forest Selection [Type]", Amount = 446))
+saveDatasheet(myScenario, sheetData, sheetName, append=F)
+
+
+
 
 
 # Creat Intervention Merged Transition Targets --------------------------------------------------
@@ -1754,6 +1830,18 @@ dependency(myScenario, dependency = c(
   paste("Transition Targets Fire [",gcm,".",rcp,"]", sep = ""),
   paste("Transition Targets Drought [",gcm,".",rcp,"]", sep = ""),
   "Transition Targets Intervention [Agroforestry]"))
+
+gcm = "CanESM2"
+rcp = "rcp45"
+luc = "BAU"
+intervention = "CFM"
+myScenario = scenario(myProject, paste("Transition Targets ", intervention, " [",luc, ".", gcm, ".", rcp, "]", sep = "")) # Creates a new scenario
+mergeDependencies(myScenario) = T
+dependency(myScenario, dependency = c( 
+  paste("Transition Targets LULC [",luc,"]", sep = ""),
+  paste("Transition Targets Fire [",gcm,".",rcp,"]", sep = ""),
+  paste("Transition Targets Drought [",gcm,".",rcp,"]", sep = ""),
+  "Transition Targets Intervention [CFM]"))
 
 
 
@@ -2279,6 +2367,8 @@ sheetData = addRow(sheetData, data.frame(FlowGroupID = "Decomposition [Type]", M
 sheetData = addRow(sheetData, data.frame(FlowGroupID = "Emission (litter) [Type]", MultiplierFileName = "R Inputs/Data/flows/spatial-multipliers/SM_Q10FastMultiplier_1km.tif"))
 sheetData = addRow(sheetData, data.frame(FlowGroupID = "Emission (soil) [Type]", MultiplierFileName = "R Inputs/Data/flows/spatial-multipliers/SM_SoilEmission-Q10SlowMultiplier_1km.tif"))
 saveDatasheet(flowSpatialMultipliers, sheetData, sheetName, append = F)
+
+
 
 
 
@@ -2935,237 +3025,45 @@ dependency(myScenario, c(
 
 
 
+
+
+
+
 #####  ===================================================================================================
 # Section 9: Create Final Merged Scenarios ===============================================================
 #####  ===================================================================================================
 
-# Create STSM Constants Sub-Scenario------------------------------------------
+# Create STSM and SF Constants ---------------------------------------------------------------------------
 
-stsmConstants = scenario(myProject, "STSM Constants [1MC]", overwrite = F)
-dependency(stsmConstants, dependency = c("Output Options", "Transition Multipliers", "Slope Multiplier", "Transition Size Distribution", "Time Since Transition",
-                                         "Adjacency Multipliers", "State Attributes", "Historical Distributions", "Pathways", "Initial Conditions", "Run Control [100TS; 1MC]"))
+myScenario = scenario(myProject, "STSM Constants", overwrite = F)
+dependency(myScenario, dependency = c("Pathways", "Initial Conditions", "Output Options", "Transition Size Distribution", "Time Since Transition", "Adjacency Multipliers",
+                                         "State Attributes", "Historical Distributions", "Slope Multiplier"))
 
-stsmConstants = scenario(myProject, "STSM Constants", overwrite = F)
-dependency(stsmConstants, dependency = c("Output Options", "Transition Multipliers", "Slope Multiplier", "Transition Size Distribution", "Time Since Transition",
-                                         "Adjacency Multipliers", "State Attributes", "Historical Distributions", "Pathways", "Initial Conditions", "Run Control [100TS; 100MC]"))
 
-# Create SF Constants Sub-Scenario------------------------------------------
-
-sfConstants = scenario(myProject, "SF Constants", overwrite = F)
-dependency(sfConstants, dependency = c("SF Flow Pathways", "SF Initial Stocks [Spatial]", "SF Output Options", "SF Stock Group Membership", "SF Flow Group Membership",
+myScenario = scenario(myProject, "SF Constants", overwrite = F)
+dependency(myScenario, dependency = c("SF Flow Pathways", "SF Initial Stocks [Spatial]", "SF Output Options", "SF Stock Group Membership", "SF Flow Group Membership",
                                        "SF Flow Order", "SF Flow Multipliers [Spatial]"))
 
-# Create a Test 1 MC Scenario-----------------------------------------------------------------------------------
+# Create a Final Scenario ---------------------------------------------------------------------------------
 
+mc = 100
+ts = 100
 lulc = "BAU"
 exvar = "External Variables [Medium/BAU]"
-
 gcm = "CanESM2"
 rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants [1MC]", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
+cfe = "MedLow"
+intervention = "No Intervention"
 
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, "100MC", sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants [100MC]", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-
-# Create BAU Scenarios-----------------------------------------------------------------------------------
-# 
-lulc = "BAU"
-exvar = "External Variables [Medium/BAU]"
-
-gcm = "CanESM2"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "CanESM2"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "CNRM-CM5"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "CNRM-CM5"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "HadGEM2-ES"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "HadGEM2-ES"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "MIROC5"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "MIROC5"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-
-
-# Create High Scenarios-----------------------------------------------------------------------------------
-# 
-lulc = "High"
-exvar = "External Variables [High]"
-
-gcm = "CanESM2"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "CanESM2"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "CNRM-CM5"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "CNRM-CM5"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "HadGEM2-ES"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "HadGEM2-ES"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "MIROC5"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "MIROC5"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Create Medium Scenarios-----------------------------------------------------------------------------------
-# 
-lulc = "Medium"
-exvar = "External Variables [Medium/BAU]"
-
-gcm = "CanESM2"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "CanESM2"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "CNRM-CM5"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "CNRM-CM5"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "HadGEM2-ES"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "HadGEM2-ES"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "MIROC5"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "MIROC5"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-
-
-# Create Low Scenarios-------------------------------------------------------------
-lulc = "Low"
-exvar = "External Variables [Low]"
-
-gcm = "CanESM2"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "CanESM2"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "CNRM-CM5"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "CNRM-CM5"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "HadGEM2-ES"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "HadGEM2-ES"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "MIROC5"
-rcp = "rcp45"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-gcm = "MIROC5"
-rcp = "rcp85"
-myScenario = scenario(myProject, paste(lulc, gcm, rcp, sep = "."), overwrite = F)
-dependency(myScenario, dependency = c("STSM Constants", "SF Constants", exvar, paste("SF Flow Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""), paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
-
-
-
+myScenario = scenario(myProject, paste(lulc, gcm, rcp, cfe, intervention, sep = "."), overwrite = F) # Create the new scenario
+dependency(myScenario, 
+           dependency = c("STSM Constants", "SF Constants", 
+                          paste("Run Control [",ts,"TS; ", mc, "MC]", sep=""),
+                          exvar, 
+                          paste("SF Flow Multipliers [", gcm, ".", rcp, ".", cfe, "]", sep = ""), 
+                          paste("Spatial Multipliers [", gcm, ".", rcp, "]", sep = ""),
+                          paste("Transition Multipliers [", intervention, "]", sep=""),
+                          paste("Transition Targets [", lulc, ".", gcm, ".", rcp, "]", sep = "")))
 
 
 
